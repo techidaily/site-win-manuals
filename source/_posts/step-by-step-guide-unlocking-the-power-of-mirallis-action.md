@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Unlocking the Power of Mirallis Action!"
-date: 2024-09-17 11:34:28
-updated: 2024-09-20 10:43:14
+date: 2024-09-17T01:48:14.187Z
+updated: 2024-09-20T04:24:16.113Z
 tags:
   - product
 categories:
@@ -68,11 +68,32 @@ The only limitations of trial version are:
 
 ![Mirillis Action! - Activation button](https://mirillis.com/res/old/gfx/tutorials/installation/mirillis_action_activation_about_window.jpg "Press activation button") 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  About window 
 
  You can also open "Activate" window using "About" window. When your trial period is expired the "About" window shows up automatically, when your trial period is not expired you can show up "About" window by using top application menu. In "About" window select **"Enter key"** to display activation window.
 
 ![Mirillis Action! - Activate tab](https://mirillis.com/res/old/gfx/tutorials/installation/mirillis_action_activation_trial_expired.jpg "Select activate tab") 
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Enter activation key 
 
@@ -91,8 +112,6 @@ The only limitations of trial version are:
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
