@@ -1,7 +1,7 @@
 ---
 title: "Enhance Your Windows Experience with Free PowerToys FancyZones: Benefits and Usage Tutorial"
-date: 2024-09-24T20:52:26.842Z
-updated: 2024-09-25T16:53:40.952Z
+date: 2024-09-28T16:17:19.580Z
+updated: 2024-09-29T18:41:02.929Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -69,6 +62,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -89,19 +89,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -135,6 +122,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -142,10 +136,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -153,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,19 +196,17 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-developing-dynamic-instagram-highlights/"><u>[New] 2024 Approved Developing Dynamic Instagram Highlights</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-harmonizing-fading-techniques-in-live/"><u>[New] 2024 Approved Harmonizing Fading Techniques in Live</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-step-by-step-for-efficient-ipad-screen-recordings/"><u>[New] 2024 Approved Step-by-Step for Efficient iPad Screen Recordings</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-art-of-perfectly-synchronized-android-time-lapses/"><u>2024 Approved Unveiling the Art of Perfectly Synchronized Android Time-Lapses</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/brightening-up-your-videography-gopro-fog-free-techniques/"><u>Brightening Up Your Videography GoPro Fog-Free Techniques</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/create-stunning-mac-photo-albums-and-effortlessly-flip-images-using-flipmaster-xtra/"><u>Create Stunning Mac Photo Albums & Effortlessly Flip Images Using FlipMaster Xtra!</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/effortless-image-format-transformation-use-the-free-user-friendly-photo-converter/"><u>Effortless Image Format Transformation: Use the Free, User-Friendly Photo Converter</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/exploring-the-ultimate-presentation-toolkit-mastering-microsoft-flip-with-flippowerpoint-flipbuildercom/"><u>Exploring the Ultimate Presentation Toolkit: Mastering Microsoft Flip with FlipPowerPoint | flipbuilder.com</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/how-to-add-images-on-flipbuilder-essential-guidelines-and-tips/"><u>How to Add Images on FlipBuilder: Essential Guidelines & Tips</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, iPogo will be the new iSpoofer On Apple iPhone 15 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-sculpt-your-visuals-the-ultimate-guide-to-photo-distortion/"><u>In 2024, Sculpt Your Visuals The Ultimate Guide to Photo Distortion</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/is-flipbuilder-suitable-for-inserting-and-streaming-videos-directly-in-html-pages/"><u>Is FlipBuilder Suitable for Inserting and Streaming Videos Directly in HTML Pages?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-canon-pixma-ts3322-printer-drivers-free-download-and-installation-guide/"><u>Latest Canon PIXMA TS3322 Printer Drivers - Free Download & Installation Guide</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/mastering-interactive-ebooks-a-comprehensive-guide-to-creating-a-seamless-photo-slideshow-with-flipbuilder/"><u>Mastering Interactive Ebooks: A Comprehensive Guide to Creating a Seamless Photo Slideshow with FlipBuilder</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-from-novice-to-nifty-mastering-snapchats-digital-artistry-for-2024/"><u>[Updated] From Novice to Nifty Mastering Snapchat’s Digital Artistry for 2024</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/actions-how-to-videos-perfecting-the-art-of-taking-screenshots/"><u>Action's How-To Videos: Perfecting the Art of Taking Screenshots</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ehensive-guide-the-triad-technique-for-assessing-youtube-revenue-streams/"><u>Comprehensive Guide The Triad Technique for Assessing YouTube Revenue Streams</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722158089815-dall-e-3-imagery-seamless-conversion-from-webp-to-your-preferred-image-type/"><u>DALL-E 3 Imagery: Seamless Conversion From WebP to Your Preferred Image Type</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/how-to-download-videos-from-wrapinstitute-using-your-pc-or-mac/"><u>How to Download Videos From Wrapinstitute Using Your PC or MAC</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/how-virtual-reality-will-change-education/"><u>How Virtual Reality Will Change Education</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-apple-iphone-7-without-a-passcode-drfone-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your Apple iPhone 7 Without a Passcode | Dr.fone</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/legally-accessing-your-favorite-shows-such-as-pitchers-viral-fever-and-permanent-roommates-online-with-ease/"><u>Legally Accessing Your Favorite Shows Such as Pitchers, Viral Fever, & Permanent Roommates Online with Ease</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/seamless-conversion-of-acast-files-to-mp3-format-step-by-step-guide-for-pc-and-mac/"><u>Seamless Conversion of Acast Files to MP3 Format - Step-by-Step Guide for PC & Mac</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/stay-snappin-strategies-for-unbroken-streaks-for-2024/"><u>Stay Snappin' Strategies for Unbroken Streaks for 2024</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/step-by-step-tutorial-for-transforming-xuite-videos-to-mp4avi-on-mac-and-pc-systems/"><u>Step-by-Step Tutorial for Transforming Xuite Videos to MP4/AVI on Mac and PC Systems</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-tecno-spark-go-2023-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Tecno Spark Go (2023) FRP Bypass</u></a></li>
 </ul></div>
 

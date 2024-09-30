@@ -1,7 +1,7 @@
 ---
 title: "Master the Art of Data Protection in Windows 11: Step-by-Step Instructions on Leveraging File History for Reliable Backups | TechExpert Advice"
-date: 2024-09-20T18:08:01.855Z
-updated: 2024-09-25T23:34:11.061Z
+date: 2024-09-23T22:30:49.124Z
+updated: 2024-09-30T06:26:48.271Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -96,13 +96,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -136,28 +129,35 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -202,18 +202,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-channel-milestone-hurdle-cross-the-10k-view-threshold-fast/"><u>[New] In 2024, Channel Milestone Hurdle – Cross the 10K View Threshold Fast</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-unveiling-hidden-shared-memories-in-messenger-for-2024/"><u>[New] Unveiling Hidden Shared Memories in Messenger for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-augment-your-design-abilities-the-10-most-powerful-android-graphics-tools/"><u>[Updated] Augment Your Design Abilities The 10 Most Powerful Android Graphics Tools</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-getting-real-broadcast-your-life-on-youtube-using-obs/"><u>[Updated] In 2024, Getting Real Broadcast Your Life on Youtube Using OBS</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-pinnacle-of-video-top-5-slow-motion-cams/"><u>2024 Approved Pinnacle of Video Top 5 Slow Motion Cams</u></a></li>
-<li><a href="https://app-tips.techidaily.com/elevate-your-project-outcomes-using-agile-methodology-learn-the-6-essential-strategies-for-effective-software-design-zdnet/"><u>Elevate Your Project Outcomes Using Agile Methodology: Learn the 6 Essential Strategies for Effective Software Design | ZDNet</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-lava-blaze-curve-5g-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Lava Blaze Curve 5G Fingerprint Lock</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/massive-black-friday-offer-save-big-on-the-x-1-flex-mesh-office-chair-with-50-discount-shop-now/"><u>Massive Black Friday Offer! Save Big on the X-1 Flex Mesh Office Chair with 50% Discount – Shop Now!</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/master-the-import-process-adding-windows-media-video-wmv-formats-to-your-final-cut-projects-on-macos/"><u>Master the Import Process: Adding Windows Media Video (WMV) Formats to Your Final Cut Projects on macOS</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/microsofts-plan-to-remove-windows-control-panel-skepticism-abounds-tech-news-by-zdnet/"><u>Microsoft's Plan to Remove Windows Control Panel - Skepticism Abounds | Tech News by ZDNet</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/seamless-integration-of-professional-and-educational-email-into-windows-1110-a-step-by-step-guide/"><u>Seamless Integration of Professional and Educational Email Into Windows 11/10 - A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/shop-flexispots-theodore-adjustable-desk-enjoy-a-90-discount-learn-how-on-zdnet/"><u>Shop FlexiSpot's Theodore Adjustable Desk, Enjoy a $90 Discount – Learn How on ZDNet!</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/the-ultimate-showdown-office-chairs-vs-gaming-chairs-is-there-a-true-winner/"><u>The Ultimate Showdown: Office Chairs Vs. Gaming Chairs – Is There a True Winner?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-efficient-iphoneandroid-guide-for-tweets-as-visuals/"><u>[New] 2024 Approved Efficient iPhone/Android Guide for Tweets as Visuals</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-captivating-content-the-basics-of-removing-background-from-videos-for-2024/"><u>[New] Captivating Content The Basics of Removing Background From Videos for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-downloading-fb-video-files-in-a-flash-as-mp4/"><u>[New] In 2024, Downloading FB Video Files in a Flash as MP4</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-srgb-adoption-over-traditional-rgb-techniques/"><u>[New] Srgb Adoption Over Traditional Rgb Techniques</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/1724766039450-macxdvd-digiarty/"><u>公式サポート: MacXDVDを買う方法と製品リスト - Digiarty 追加情報</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/cut-costs-boost-output-enjoy-major-savings-on-elegoos-neptune-3plus-great-for-large-printing-projects/"><u>Cut Costs, Boost Output: Enjoy Major Savings on Elegoo's Neptune 3+ - Great for Large Printing Projects</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/free-and-effective-online-tools-the-ultimate-guide-to-converting-mp4-videos-into-m4v-format/"><u>Free and Effective Online Tools: The Ultimate Guide to Converting MP4 Videos Into M4V Format</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/guide-to-saving-youtube-content-as-mp4avi-for-playstation-portable-psp-viewing/"><u>Guide to Saving YouTube Content as MP4/AVI for PlayStation Portable (PSP) Viewing</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-realme-gt-neo-5-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Realme GT Neo 5 to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/mastering-the-art-of-reversible-graphics-exploring-flipbuilders-features/"><u>Mastering the Art of Reversible Graphics: Exploring FlipBuilder's Features</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/save-and-share-your-publications-with-ease-using-flipbuilder-office-integration/"><u>Save and Share Your Publications with Ease Using FlipBuilder - Office Integration</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/sending-your-custom-flipbook-a-step-by-step-guide-learn-with-flipbuilder/"><u>Sending Your Custom FlipBook: A Step-by-Step Guide [Learn with FlipBuilder]</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/step-by-step-creating-interactive-help-popups-for-flash-ebooks-on-flipbuilder/"><u>Step-by-Step: Creating Interactive Help Popups for Flash eBooks on FlipBuilder</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/transform-your-standard-pdf-into-an-engaging-flip-page-ebook-with-just-a-click-discover-how-on-flipbuildercom/"><u>Transform Your Standard PDF Into an Engaging, Flip-Page Ebook with Just a Click! Discover How on FlipBuilder.com</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/transforming-printables-into-engaging-flipbooks-the-ultimate-guide-with-flipbuilder/"><u>Transforming Printables Into Engaging Flipbooks: The Ultimate Guide with FlipBuilder</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/transforming-your-ebooks-appearance-a-step-by-step-guide-to-switching-from-softcover-to-rigid-binding-with-flipbuilder/"><u>Transforming Your eBook's Appearance: A Step-by-Step Guide to Switching From Softcover to Rigid Binding with FlipBuilder</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/tre-metodi-ottimi-per-incorporare-suoni-in-una-registrazione-video/"><u>Tre Metodi Ottimi per Incorporare Suoni in Una Registrazione Video</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/using-buttons-for-easy-output-handling-in-flipbook-creation-a-guide-to-flipbuilders-features/"><u>Using Buttons for Easy Output Handling in Flipbook Creation - A Guide to FlipBuilder's Features</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-oppo-a1-5g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Oppo A1 5G Has Black Screen of Death? | Dr.fone</u></a></li>
 </ul></div>
 

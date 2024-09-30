@@ -1,7 +1,7 @@
 ---
 title: "Get Microsoft Office 2019 on PC or Mac for Just $25: Purchase Guide & Steps"
-date: 2024-09-24T19:13:30.386Z
-updated: 2024-09-25T23:14:59.549Z
+date: 2024-09-27T22:45:57.824Z
+updated: 2024-09-30T13:53:53.930Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -91,10 +98,16 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -129,29 +142,22 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,16 +202,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-channel-owner-uncovering-your-subscribers/"><u>[Updated] In 2024, Channel Owner Uncovering Your Subscribers</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/1-effortless-audio-conversion-how-to-save-ted-talks-as-high-quality-mp3aacwav-files/"><u>1. Effortless Audio Conversion: How to Save Ted Talks as High-Quality MP3/AAC/WAV Files</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-how-to-enhance-your-gopros-battery-health/"><u>2024 Approved How to Enhance Your GoPro's Battery Health</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-imagepuritymax-ultimate-eraser-for-clear-backgrounds/"><u>2024 Approved ImagePurityMax Ultimate Eraser for Clear Backgrounds</u></a></li>
-<li><a href="https://win-answers.techidaily.com/boost-your-gameplay-solving-fps-drops-in-titanfall-2-quickly-and-easily/"><u>Boost Your Gameplay: Solving FPS Drops in Titanfall 2 Quickly & Easily</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/guide-to-saving-youtube-content-as-mp4avi-for-playstation-portable-psp-viewing/"><u>Guide to Saving YouTube Content as MP4/AVI for PlayStation Portable (PSP) Viewing</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-realme-11-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Realme 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-best-of-breed-exceptional-cardboard-vr-gaming-experienits/"><u>In 2024, Best of Breed Exceptional Cardboard VR Gaming Experienits</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-colorful-conga-crow/"><u>In 2024, Colorful Conga Crow</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/transforming-your-ebooks-appearance-a-step-by-step-guide-to-switching-from-softcover-to-rigid-binding-with-flipbuilder/"><u>Transforming Your eBook's Appearance: A Step-by-Step Guide to Switching From Softcover to Rigid Binding with FlipBuilder</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/using-buttons-for-easy-output-handling-in-flipbook-creation-a-guide-to-flipbuilders-features/"><u>Using Buttons for Easy Output Handling in Flipbook Creation - A Guide to FlipBuilder's Features</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-best-practices-in-youtube-keyword-selection/"><u>[Updated] In 2024, Best Practices in YouTube Keyword Selection</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-revolutionizing-iphone-photography-with-hdr-techniques/"><u>[Updated] Revolutionizing iPhone Photography with HDR Techniques</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-staying-grounded-in-vr-worlds/"><u>[Updated] Staying Grounded in VR Worlds</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/2-upgrade-unlocks-essential-windows-functionality-for-your-mac-exclusively-on-zdnet/"><u>$2 Upgrade Unlocks Essential Windows Functionality for Your Mac, Exclusively on ZDNet</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/best-computers-for-a-new-era-how-apple-dell-and-other-leaders-stack-up-in-2-tech-trends-of-2024-an-in-depth-analysis-on-zdnet/"><u>Best Computers for a New Era: How Apple, Dell and Other Leaders Stack Up in 2# #Tech Trends of 2024 | An In-Depth Analysis on ZDNET</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/critical-crossroads-for-microsofts-windows-10-in-one-year-identifying-the-path-forward-zdnet/"><u>Critical Crossroads for Microsoft's Windows 10 in One Year: Identifying the Path Forward | ZDNet</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/defy-microsofts-rules-success-stories-of-upgrading-old-pcs-to-windows-11-zdnet-exclusive/"><u>Defy Microsoft's Rules: Success Stories of Upgrading Old PCs to Windows 11 [ZDNet Exclusive]</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminate-windows-11s-rounded-edges/"><u>Eliminate Windows 11'S Rounded Edges</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-flawed-setups-a-guide-to-windo-package-fixing/"><u>Fixing Flawed Setups: A Guide to Windo Package Fixing</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-global-streaming-giants-face-off-facebook-live-youtube-live-periscope/"><u>In 2024, Global Streaming Giants' Face-Off Facebook Live, YouTube Live, Periscope</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/navigating-the-world-of-hulu-recordings-windowsmaciosandroid-for-2024/"><u>Navigating the World of Hulu Recordings Windows/Mac/iOS/Android for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-samsung-galaxy-m14-5g-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Samsung Galaxy M14 5G FRP</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/ultra-thin-and-featherweight-in-depth-acer-swift-edge-laptop-analysis-showcases-the-largest-4k-oled-display/"><u>Ultra-Thin and Featherweight: In-Depth Acer Swift Edge Laptop Analysis Showcases the Largest 4K OLED Display</u></a></li>
 </ul></div>
 

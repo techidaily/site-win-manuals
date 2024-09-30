@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Reveals: Why Engineers Are Enthralled by Windows 11 | Tech News Digest"
-date: 2024-09-20T18:52:03.485Z
-updated: 2024-09-25T17:17:11.816Z
+date: 2024-09-22T18:32:04.692Z
+updated: 2024-09-30T12:09:23.408Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -89,6 +96,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -123,10 +137,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -135,23 +149,9 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,20 +196,19 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-ideas-to-paper-top-8-iphone-sketching-tools-compared/"><u>[Updated] Ideas to Paper Top 8 iPhone Sketching Tools Compared</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/1-comprehensive-reactive-dashboard-design-with-react-and-mui-free-template-by-creative-tim/"><u>1. Comprehensive Reactive Dashboard Design with React and MUI - Free Template by Creative Tim</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-ultimate-guide-to-fostering-viewer-commitment-in-youtube-videos/"><u>2024 Approved The Ultimate Guide to Fostering Viewer Commitment in YouTube Videos</u></a></li>
-<li><a href="https://extra-information.techidaily.com/becoming-a-snapping-maestro-mastering-the-zoom-feature-in-snapchat-for-2024/"><u>Becoming a Snapping Maestro Mastering the Zoom Feature in Snapchat for 2024</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/build-a-robust-full-stack-application-for-free-using-vue-laravel-and-json-api-techniques/"><u>Build a Robust Full Stack Application for Free Using Vue, Laravel, and JSON API Techniques</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/creative-tims-paper-bootstrap-wizard-begin-your-journey-with-a-complimentary-design-tool/"><u>Creative Tim's Paper Bootstrap Wizard - Begin Your Journey with a Complimentary Design Tool</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/creative-tims-ultimate-selection-20-amazing-tailwind-cssreact-ui-kits-for-web-development/"><u>Creative Tim's Ultimate Selection: 20 Amazing Tailwind CSS/React UI Kits for Web Development</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/discover-extensive-collection-80plus-ready-to-use-react-templates-from-creative-tim/"><u>Discover Extensive Collection: 80+ Ready-to-Use React Templates From Creative Tim</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/discover-the-finest-5-zero-cost-flask-layouts-crafted-by-creative-tim-for-your-site/"><u>Discover the Finest 5 Zero Cost Flask Layouts Crafted by Creative Tim for Your Site!</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-poco-c65-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Poco C65 | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-flash-dead-xiaomi-redmi-a2plus-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Xiaomi Redmi A2+ Safely | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-oppo-a78-5g-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Oppo A78 5G Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-about-poco-m6-5g-frp-bypass-by-drfone-android/"><u>In 2024, About Poco M6 5G FRP Bypass</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Tecno Camon 30 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-revolutionize-your-editing-10-free-fcpx-plugin-must-haves-for-2024/"><u>New Revolutionize Your Editing 10 Free FCPX Plugin Must-Haves for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-tiktok-trends-the-top-ten-tweets-shaping-social-media/"><u>[New] 2024 Approved TikTok Trends The Top Ten Tweets Shaping Social Media</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-budget-blueprint-for-creating-musical-cinematic-pieces/"><u>[Updated] 2024 Approved Budget Blueprint for Creating Musical Cinematic Pieces</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-the-ultimate-cheat-sheet-to-ez-grabber-usage-for-2024/"><u>[Updated] The Ultimate Cheat Sheet to EZ Grabber Usage for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-top-20-best-anime-opening-songs/"><u>2024 Approved Top 20 Best Anime Opening Songs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722211646074-chatgpt-on-your-fingertips-how-to-get-the-cutting-edge-ios-application/"><u>ChatGPT on Your Fingertips - How to Get the Cutting-Edge iOS Application!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/clearing-up-distorted-text-in-far-cry-game/"><u>Clearing Up Distorted Text in Far Cry Game</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/how-to-effortlessly-convert-your-favorite-live365-radio-channels-into-popular-audio-files-mp3-wav-or-aac-using-the-latest-download-tool/"><u>How to Effortlessly Convert Your Favorite Live365 Radio Channels Into Popular Audio Files: MP3, WAV, or AAC Using the Latest Download Tool</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/how-to-save-your-favorite-gameone-shows-as-videos-mp4-wmv-and-avi-conversion-made-simple/"><u>How to Save Your Favorite GameOne Shows as Videos - MP4, WMV & AVI Conversion Made Simple</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-open-your-apple-iphone-12-pro-max-without-a-home-button-drfone-by-drfone-ios/"><u>In 2024, How To Open Your Apple iPhone 12 Pro Max Without a Home Button | Dr.fone</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/save-your-favorite-xnxxx-movies-as-mp4movavi-for-offline-viewing/"><u>Save Your Favorite XNXXX Movies as MP4/MOV/AVI for Offline Viewing</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/securely-access-free-womens-erotica-cross-platform-downloads-for-mac-and-windows/"><u>Securely Access Free Women's Erotica: Cross-Platform Downloads for MAC and WINDOWS</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/social-media-video-to-music-conversion-guide/"><u>Social Media Video to Music Conversion Guide</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/step-by-step-guide-convert-and-download-various-video-formats-of-popular-salsa-moves/"><u>Step-by-Step Guide: Convert and Download Various Video Formats of Popular Salsa Moves</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/ultimate-replacement-for-tubechop-optimized-for-mac-and-windows-systems/"><u>Ultimate Replacement for TubeChop: Optimized for MAC & WINDOWS Systems</u></a></li>
 </ul></div>
 

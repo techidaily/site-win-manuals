@@ -1,7 +1,7 @@
 ---
 title: Boost Your Spreadsheet Skills by Integrating ChatGPT for Effortless Excel Formula Generation
-date: 2024-09-19T21:25:48.474Z
-updated: 2024-09-25T20:58:04.373Z
+date: 2024-09-27T10:06:07.335Z
+updated: 2024-09-30T01:07:25.661Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -69,19 +62,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -104,10 +84,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -143,10 +123,16 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -155,9 +141,23 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -202,18 +202,15 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-discovering-video-content-on-fb-a-comprehensive-guide/"><u>[Updated] 2024 Approved Discovering Video Content on FB A Comprehensive Guide</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-crafty-laughter-your-adobe-guide/"><u>[Updated] Crafty Laughter Your Adobe Guide</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-how-to-archive-snaps-on-iphoneandroid-from-snapchat/"><u>[Updated] In 2024, How To Archive Snaps on iPhone/Android From Snapchat</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/bypassing-macs-sleep-function-a-comprehensive-guide-for-uninterrupted-use/"><u>Bypassing Mac's Sleep Function: A Comprehensive Guide for Uninterrupted Use</u></a></li>
-<li><a href="https://article-helps.techidaily.com/go-beyond-basics-with-these-advanced-whatsapp-features/"><u>Go Beyond Basics with These Advanced WhatsApp Features</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/inside-toms-computer-world-expert-gadget-analysis-and-reviews/"><u>Inside Tom's Computer World: Expert Gadget Analysis & Reviews</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/logic-x-lore-guides-to-creating-crossfading-audio-for-2024/"><u>Logic X Lore Guides to Creating Crossfading Audio for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/polaroid-camplus-pro-a-complete-action-recorder-review-for-2024/"><u>Polaroid Cam+ Pro A Complete Action Recorder Review for 2024</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/save-and-share-your-publications-with-ease-using-flipbuilder-office-integration/"><u>Save and Share Your Publications with Ease Using FlipBuilder - Office Integration</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/sending-your-custom-flipbook-a-step-by-step-guide-learn-with-flipbuilder/"><u>Sending Your Custom FlipBook: A Step-by-Step Guide [Learn with FlipBuilder]</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/step-by-step-creating-interactive-help-popups-for-flash-ebooks-on-flipbuilder/"><u>Step-by-Step: Creating Interactive Help Popups for Flash eBooks on FlipBuilder</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/transform-your-standard-pdf-into-an-engaging-flip-page-ebook-with-just-a-click-discover-how-on-flipbuildercom/"><u>Transform Your Standard PDF Into an Engaging, Flip-Page Ebook with Just a Click! Discover How on FlipBuilder.com</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/transforming-printables-into-engaging-flipbooks-the-ultimate-guide-with-flipbuilder/"><u>Transforming Printables Into Engaging Flipbooks: The Ultimate Guide with FlipBuilder</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-expert-tips-top-8-verified-video-marketing-strategies/"><u>[New] 2024 Approved Expert Tips Top 8 Verified Video Marketing Strategies</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-convert-twitter-video-to-audiomp4webm-for-2024/"><u>[New] Convert Twitter Video to Audio/MP4/WebM for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-reimagine-your-storytelling-with-smartly-scaled-instagram-videos/"><u>[Updated] 2024 Approved Reimagine Your Storytelling with Smartly Scaled Instagram Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-step-by-step-approach-for-moving-programs-in-windows-11/"><u>A Step-by-Step Approach for Moving Programs in Windows 11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-samsung-galaxy-m14-5g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Samsung Galaxy M14 5G For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-vivo-y100i-power-5g-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Vivo Y100i Power 5G Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/massive-black-friday-offer-save-big-on-the-x-1-flex-mesh-office-chair-with-50-discount-shop-now/"><u>Massive Black Friday Offer! Save Big on the X-1 Flex Mesh Office Chair with 50% Discount – Shop Now!</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/seamless-integration-of-professional-and-educational-email-into-windows-1110-a-step-by-step-guide/"><u>Seamless Integration of Professional and Educational Email Into Windows 11/10 - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/shop-flexispots-theodore-adjustable-desk-enjoy-a-90-discount-learn-how-on-zdnet/"><u>Shop FlexiSpot's Theodore Adjustable Desk, Enjoy a $90 Discount – Learn How on ZDNet!</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/the-ultimate-showdown-office-chairs-vs-gaming-chairs-is-there-a-true-winner/"><u>The Ultimate Showdown: Office Chairs Vs. Gaming Chairs – Is There a True Winner?</u></a></li>
 </ul></div>
 

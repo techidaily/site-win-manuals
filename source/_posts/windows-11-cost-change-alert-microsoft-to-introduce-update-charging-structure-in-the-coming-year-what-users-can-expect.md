@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 Cost Change Alert: Microsoft to Introduce Update Charging Structure in the Coming Year - What Users Can Expect"
-date: 2024-09-19T19:50:20.803Z
-updated: 2024-09-26T00:20:14.225Z
+date: 2024-09-26T08:10:19.707Z
+updated: 2024-09-30T00:55:48.994Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -96,19 +89,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -143,10 +123,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -155,9 +135,23 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -202,16 +196,21 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-unlocking-the-secrets-to-collecting-fb-gifs-a-comprehensive-manual/"><u>[Updated] In 2024, Unlocking the Secrets to Collecting FB GIFs A Comprehensive Manual</u></a></li>
-<li><a href="https://program-issues.techidaily.com/beating-the-challenge-a-users-handbook-on-correcting-steamvr-error-308/"><u>Beating the Challenge: A User's Handbook on Correcting SteamVR Error 308</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/download-video-lessons-from-digital-tutors-as-mp4-files-with-easy-converter-tools/"><u>Download Video Lessons From Digital Tutors as MP4 Files with Easy Converter Tools</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/effortless-episodes-and-anime-extraction-from-dctptv-reliable-video-downloader/"><u>Effortless Episodes and Anime Extraction From DCTP.TV - Reliable Video Downloader</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/enhance-your-tv-viewing-experience-with-9now-easy-video-downloads-on-macwindows-devices/"><u>Enhance Your TV Viewing Experience with 9Now: Easy Video Downloads on Mac/Windows Devices</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/get-the-ultimate-viewing-experience-securely-downloading-star-wars-episodes-for-both-windows-and-macos-systems/"><u>Get the Ultimate Viewing Experience: Securely Downloading Star Wars Episodes for Both Windows & macOS Systems</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/guide-how-to-legally-watch-and-download-discovery-channel-content-online/"><u>Guide: How to Legally Watch and Download Discovery Channel Content Online</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-vivo-v27-pro-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Vivo V27 Pro.</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-honor-x50-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Honor X50 Data? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-pixiz-essentials-from-stills-to-moving-images/"><u>In 2024, Pixiz Essentials From Stills to Moving Images</u></a></li>
-<li><a href="https://windows11.techidaily.com/waking-up-the-watches-5-fixes-for-lost-windows-server-time/"><u>Waking Up the Watches: 5 Fixes for Lost Windows Server Time</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/2-upgrade-unlocks-essential-windows-functionality-for-your-mac-exclusively-on-zdnet/"><u>$2 Upgrade Unlocks Essential Windows Functionality for Your Mac, Exclusively on ZDNet</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-integrating-yt-music-into-video-editing-suites/"><u>2024 Approved Integrating YT Music Into Video Editing Suites</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/best-computers-for-a-new-era-how-apple-dell-and-other-leaders-stack-up-in-2-tech-trends-of-2024-an-in-depth-analysis-on-zdnet/"><u>Best Computers for a New Era: How Apple, Dell and Other Leaders Stack Up in 2# #Tech Trends of 2024 | An In-Depth Analysis on ZDNET</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/from-newbie-to-trainer-your-roadmap-to-pc-pokemon-unite-gameplay/"><u>From Newbie to Trainer: Your Roadmap to PC Pokémon Unite Gameplay</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Samsung Galaxy S23 Tactical Edition? | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-template-hacks-for-building-professional-youtube-intros/"><u>In 2024, Template Hacks for Building Professional YouTube Intros</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-every-user-dialogue-a-step-in-chatgpts-evolution/"><u>Is Every User Dialogue a Step in ChatGPT's Evolution?</u></a></li>
+<li><a href="https://tools.techidaily.com/macdvdripperpro/products/"><u>Mac Dvd Ripper Pro </u></a></li>
+<li><a href="https://win-manuals.techidaily.com/massive-black-friday-offer-save-big-on-the-x-1-flex-mesh-office-chair-with-50-discount-shop-now/"><u>Massive Black Friday Offer! Save Big on the X-1 Flex Mesh Office Chair with 50% Discount – Shop Now!</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-the-ultimate-4k-video-collection-must-watch-clips/"><u>New The Ultimate 4K Video Collection Must-Watch Clips</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/seamless-integration-of-professional-and-educational-email-into-windows-1110-a-step-by-step-guide/"><u>Seamless Integration of Professional and Educational Email Into Windows 11/10 - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/shop-flexispots-theodore-adjustable-desk-enjoy-a-90-discount-learn-how-on-zdnet/"><u>Shop FlexiSpot's Theodore Adjustable Desk, Enjoy a $90 Discount – Learn How on ZDNet!</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/stats-galore-visualize-youtubes-fascinating-facts-2017-for-2024/"><u>Stats Galore! Visualize YouTube's Fascinating Facts (2017) for 2024</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/the-ultimate-showdown-office-chairs-vs-gaming-chairs-is-there-a-true-winner/"><u>The Ultimate Showdown: Office Chairs Vs. Gaming Chairs – Is There a True Winner?</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/ultra-thin-and-featherweight-in-depth-acer-swift-edge-laptop-analysis-showcases-the-largest-4k-oled-display/"><u>Ultra-Thin and Featherweight: In-Depth Acer Swift Edge Laptop Analysis Showcases the Largest 4K OLED Display</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/veelvoudig-maken-van-flac-liedjes-in-mp4-online-gratis-movavi-online-konverter/"><u>Veelvoudig Maken Van FLAC-Liedjes in MP4 Online, Gratis - Movavi Online Konverter</u></a></li>
 </ul></div>
 

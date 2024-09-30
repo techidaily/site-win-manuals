@@ -1,7 +1,7 @@
 ---
 title: Grab the New Microsoft Surface Laptop Go 2 for Pre-Order | Unlock a Laptop Experience From Only $599 with Our Guide on ZDNET
-date: 2024-09-19T20:05:32.475Z
-updated: 2024-09-25T22:01:09.091Z
+date: 2024-09-29T01:57:34.199Z
+updated: 2024-09-29T22:33:53.979Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -89,6 +89,19 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -123,10 +136,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -135,22 +148,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,21 +202,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-the-journey-through-timeran-images-3-methods-on-facebook/"><u>[Updated] The Journey Through Time'ran Images 3 Methods on Facebook</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/as-melhores-tecnicas-para-digitizar-seu-dvd-atualizacoes-de-2023/"><u>As Melhores Técnicas Para Digitizar Seu DVD: Atualizações De 2023</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/create-interactive-ebooks-from-chm-documents-using-flipchm-innovative-3d-software-solutions-flipbuildercom/"><u>Create Interactive eBooks From CHM Documents Using FlipCHM: Innovative 3D Software Solutions [FlipBuilder.com]</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/creating-interactive-digital-flipbooks-with-flipbuilder-a-step-by-step-guide/"><u>Creating Interactive Digital Flipbooks with FlipBuilder: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/creating-your-own-classic-pop-up-book-a-step-by-step-guide-with-flipbuilder/"><u>Creating Your Own Classic Pop-Up Book: A Step-by-Step Guide with FlipBuilder</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/decorate-your-flipbooks-professionally-preserving-readable-text-while-styling-pages-with-flipbuilders-guide/"><u>Decorate Your Flipbooks Professionally: Preserving Readable Text While Styling Pages with FlipBuilder's Guide</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/disabling-thumbnails-on-your-digital-magazine-a-guide-using-flipbooks-flipbuilder-tool/"><u>Disabling Thumbnails on Your Digital Magazine: A Guide Using Flipbook's FlipBuilder Tool</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/download-our-complimentary-minimalist-templates-with-customizable-icons-at-flipbuildercom/"><u>Download Our Complimentary Minimalist Templates with Customizable Icons at FlipBuilder.com</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/easy-conversion-steps-for-merging-pdf-documents-into-one-interactive-flipbook-on-flipbuilder/"><u>Easy Conversion Steps for Merging PDF Documents Into One Interactive FlipBook on FlipBuilder</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-chrome-browser-freezing-issues-a-comprehensive-guide/"><u>Fixing Chrome Browser Freezing Issues: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gratuit-convertitore-di-file-wma-su-internet-con-movavi/"><u>Gratuit@ - Convertitore Di File WMA Su Internet Con Movavi</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/how-do-i-schedule-a-screen-recording/"><u>How Do I Schedule A Screen Recording</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-slomo-visual-delight-thorough-assessment-release/"><u>In 2024, SloMo Visual Delight Thorough Assessment Release</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/screenspectrum-app-evaluation/"><u>ScreenSpectrum App Evaluation</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/top-rated-1080p-mp4-converter-downloader-and-player-applications/"><u>Top Rated 1080P MP4 Converter, Downloader & Player Applications</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-quickconversion-accessible-cost-free-online-services-to-convert-mp3-files-into-textual-data-compatible-with-adobe-audition-pro/"><u>Updated In 2024, QuickConversion Accessible, Cost-Free Online Services to Convert MP3 Files Into Textual Data - Compatible with Adobe Audition Pro</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ideo-description-engineer/"><u>[New] Video Description Engineer</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-central-points-for-virtual-world-engagement/"><u>[Updated] 2024 Approved Central Points for Virtual World Engagement</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-nailing-your-live-on-facebook-a-recorders-manual/"><u>[Updated] 2024 Approved Nailing Your Live on Facebook A Recorder's Manual</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-the-crashing-glitch-in-resident-evil-village-on-pc-expert-tips-and-tricks/"><u>Beat the Crashing Glitch in Resident Evil Village on PC – Expert Tips & Tricks</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/blocking-microsofts-new-ads-on-windows-11s-start-menu-a-step-by-step-guide-techinsights/"><u>Blocking Microsoft's New Ads on Windows 11'S Start Menu: A Step-by-Step Guide | TechInsights</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/decrease-in-recruitment-by-major-tech-firms-should-concern-be-rising-now/"><u>Decrease in Recruitment by Major Tech Firms - Should Concern Be Rising Now?</u></a></li>
+<li><a href="https://driver-install.techidaily.com/expedite-windows-drivers-with-winos/"><u>Expedite Windows Drivers with WinOS</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-for-restoring-functionality-of-ccleaner-in-windows-1011-pcs/"><u>Guide for Restoring Functionality of CCleaner in Windows 10/11 PCs</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/live-tune-into-microsofts-surface-and-windows-artificial-intelligence-showcase-insights-on-todays-key-announcangs/"><u>Live Tune Into Microsoft’s Surface & Windows Artificial Intelligence Showcase: Insights on Today's Key Announcangs</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/master-microsoft-365-with-the-latest-copilot-ai-assistants-boost-your-productivity-and-written-skills/"><u>Master Microsoft 365 with the Latest Copilot AI Assistants: Boost Your Productivity and Written Skills</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/master-the-art-of-data-protection-in-windows-11-step-by-step-instructions-on-leveraging-file-history-for-reliable-backups-techexpert-advice/"><u>Master the Art of Data Protection in Windows 11: Step-by-Step Instructions on Leveraging File History for Reliable Backups | TechExpert Advice</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/microsoft-revolutionizes-office-productivity-with-exclusive-surface-accessories-tailored-for-corporate-users-insider-info-from-zdnet/"><u>Microsoft Revolutionizes Office Productivity with Exclusive Surface Accessories Tailored for Corporate Users | Insider Info From ZDNET</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/microsofts-latest-security-scare-should-you-chuckle-or-cry-insights-from-zdnet/"><u>Microsoft's Latest Security Scare: Should You Chuckle or Cry? Insights From ZDNet</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-there-are-two-different-ways-to-install-linux-on-a-chromebook-you-can-either-do-it-using-gallium-os-or-chrubuntu-or-in-a-chroot-environment-usin/"><u>New In 2024, There Are Two Different Ways to Install Linux on a Chromebook, You Can Either Do It Using Gallium OS or ChrUbuntu or in a Chroot Environment Using Crouton. Lets Check How</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-reviews-insights-on-the-latest-computer-gear/"><u>Tom's Tech Reviews: Insights on the Latest Computer Gear</u></a></li>
 </ul></div>
 

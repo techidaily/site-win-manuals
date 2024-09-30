@@ -1,7 +1,7 @@
 ---
 title: "Blocking Microsoft's New Ads on Windows 11'S Start Menu: A Step-by-Step Guide | TechInsights"
-date: 2024-09-18T17:50:54.116Z
-updated: 2024-09-25T22:00:48.698Z
+date: 2024-09-25T21:33:52.074Z
+updated: 2024-09-30T11:38:54.753Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,16 +71,16 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -102,6 +102,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -142,22 +149,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -202,14 +202,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-from-hashtags-to-challenges-bridging-instaplustiktok-worlds/"><u>[New] From Hashtags to Challenges Bridging Insta+TikTok Worlds</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-capture-cinematic-motion-smear-in-adobe/"><u>2024 Approved Capture Cinematic Motion Smear in Adobe</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/decrease-in-recruitment-by-major-tech-firms-should-concern-be-rising-now/"><u>Decrease in Recruitment by Major Tech Firms - Should Concern Be Rising Now?</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-the-ultimate-guide-to-gopro-karma-performance/"><u>In 2024, The Ultimate Guide to GoPro Karma Performance</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/live-tune-into-microsofts-surface-and-windows-artificial-intelligence-showcase-insights-on-todays-key-announcangs/"><u>Live Tune Into Microsoft’s Surface & Windows Artificial Intelligence Showcase: Insights on Today's Key Announcangs</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/master-microsoft-365-with-the-latest-copilot-ai-assistants-boost-your-productivity-and-written-skills/"><u>Master Microsoft 365 with the Latest Copilot AI Assistants: Boost Your Productivity and Written Skills</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/master-the-art-of-data-protection-in-windows-11-step-by-step-instructions-on-leveraging-file-history-for-reliable-backups-techexpert-advice/"><u>Master the Art of Data Protection in Windows 11: Step-by-Step Instructions on Leveraging File History for Reliable Backups | TechExpert Advice</u></a></li>
-<li><a href="https://driver-download.techidaily.com/upgrade-gaming-performance-with-the-new-nvidia-graphics-card-drivers-install-here/"><u>Upgrade Gaming Performance with the New NVIDIA Graphics Card Drivers – Install Here!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/what-is-ussd-unstructured-supplementary-service-data/"><u>What Is USSD (Unstructured Supplementary Service Data)?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-budget-friendly-vr-headsets-that-deliver-immersion-for-2024/"><u>[New] Budget-Friendly VR Headsets That Deliver Immersion for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-cinematic-surprises-the-most-impactful-tiktok-editing-tools-for-2024/"><u>[New] Cinematic Surprises The Most Impactful TikTok Editing Tools for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-chill-bites-analysis-in-depth-review-of-ice-cream-recorder-for-2024/"><u>[Updated] Chill Bites Analysis In-Depth Review of Ice Cream Recorder for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-supreme-selection-an-honour-roll-of-top-10-reddit-discussions-for-2024/"><u>[Updated] The Supreme Selection An Honour Roll of Top 10 Reddit Discussions for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/elevate-the-fun-with-smoother-gameplay-a-guide-to-improve-frame-rates-and-decrease-latency-issues-in-fall-guys/"><u>Elevate the Fun with Smoother Gameplay - A Guide to Improve Frame Rates and Decrease Latency Issues in Fall Guys</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Realme GT Neo 5 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Poco F5 5G? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-an-airtag-from-your-apple-id-account-from-iphone-x-by-drfone-ios/"><u>In 2024, How to Remove an AirTag from Your Apple ID Account From iPhone X?</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/is-flipbuilder-suitable-for-inserting-and-streaming-videos-directly-in-html-pages/"><u>Is FlipBuilder Suitable for Inserting and Streaming Videos Directly in HTML Pages?</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/mastering-interactive-ebooks-a-comprehensive-guide-to-creating-a-seamless-photo-slideshow-with-flipbuilder/"><u>Mastering Interactive Ebooks: A Comprehensive Guide to Creating a Seamless Photo Slideshow with FlipBuilder</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/mastering-scene-creation-with-flipprograms-overcoming-potential-restrictions/"><u>Mastering Scene Creation with FlipPrograms: Overcoming Potential Restrictions</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/revamping-your-flipbooks-aesthetics-with-custom-flash-window-colors-easy-guide/"><u>Revamping Your FlipBook's Aesthetics with Custom Flash Window Colors - Easy Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-dolby-atmos-playback-problems-on-your-pc-with-windows-11-or-10/"><u>Troubleshooting Dolby Atmos Playback Problems on Your PC with Windows 11 or 10</u></a></li>
 </ul></div>
 
