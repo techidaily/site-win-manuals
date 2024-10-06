@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Reveals: Why Engineers Are Enthralled by Windows 11 | Tech News Digest"
-date: 2024-09-22T18:32:04.692Z
-updated: 2024-09-30T12:09:23.408Z
+date: 2024-10-03T21:15:27.025Z
+updated: 2024-10-05T21:20:29.360Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -98,10 +98,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -136,13 +136,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -152,6 +145,13 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,19 +196,21 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-tiktok-trends-the-top-ten-tweets-shaping-social-media/"><u>[New] 2024 Approved TikTok Trends The Top Ten Tweets Shaping Social Media</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-budget-blueprint-for-creating-musical-cinematic-pieces/"><u>[Updated] 2024 Approved Budget Blueprint for Creating Musical Cinematic Pieces</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-the-ultimate-cheat-sheet-to-ez-grabber-usage-for-2024/"><u>[Updated] The Ultimate Cheat Sheet to EZ Grabber Usage for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-top-20-best-anime-opening-songs/"><u>2024 Approved Top 20 Best Anime Opening Songs</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1722211646074-chatgpt-on-your-fingertips-how-to-get-the-cutting-edge-ios-application/"><u>ChatGPT on Your Fingertips - How to Get the Cutting-Edge iOS Application!</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/clearing-up-distorted-text-in-far-cry-game/"><u>Clearing Up Distorted Text in Far Cry Game</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/how-to-effortlessly-convert-your-favorite-live365-radio-channels-into-popular-audio-files-mp3-wav-or-aac-using-the-latest-download-tool/"><u>How to Effortlessly Convert Your Favorite Live365 Radio Channels Into Popular Audio Files: MP3, WAV, or AAC Using the Latest Download Tool</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/how-to-save-your-favorite-gameone-shows-as-videos-mp4-wmv-and-avi-conversion-made-simple/"><u>How to Save Your Favorite GameOne Shows as Videos - MP4, WMV & AVI Conversion Made Simple</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-open-your-apple-iphone-12-pro-max-without-a-home-button-drfone-by-drfone-ios/"><u>In 2024, How To Open Your Apple iPhone 12 Pro Max Without a Home Button | Dr.fone</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/save-your-favorite-xnxxx-movies-as-mp4movavi-for-offline-viewing/"><u>Save Your Favorite XNXXX Movies as MP4/MOV/AVI for Offline Viewing</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/securely-access-free-womens-erotica-cross-platform-downloads-for-mac-and-windows/"><u>Securely Access Free Women's Erotica: Cross-Platform Downloads for MAC and WINDOWS</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/social-media-video-to-music-conversion-guide/"><u>Social Media Video to Music Conversion Guide</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/step-by-step-guide-convert-and-download-various-video-formats-of-popular-salsa-moves/"><u>Step-by-Step Guide: Convert and Download Various Video Formats of Popular Salsa Moves</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/ultimate-replacement-for-tubechop-optimized-for-mac-and-windows-systems/"><u>Ultimate Replacement for TubeChop: Optimized for MAC & WINDOWS Systems</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-10-best-free-video-conferencing-services-with-screen-sharing-for-2024/"><u>[New] 10 Best Free Video Conferencing Services with Screen Sharing for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-cutting-edge-free-audio-for-youtube-visionaries-for-2024/"><u>[New] Cutting-Edge Free Audio for YouTube Visionaries for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/reventing-non-displayed-images-in-youtubes-shorts-for-2024/"><u>[New] Preventing Non-Displayed Images in YouTubes Shorts for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-starter-mic-solutions-for-youtube-starters-for-2024/"><u>[Updated] Starter Mic Solutions for YouTube Starters for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-chart-topping-ideas-to-invigorate-your-youtube-channel/"><u>2024 Approved Chart-Topping Ideas to Invigorate Your YouTube Channel</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/csgo-gaming-sessions-captured-step-by-step-guide-to-perfect-game-recordings/"><u>CS:GO Gaming Sessions Captured - Step-by-Step Guide to Perfect Game Recordings</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/effective-techniques-for-eliminating-white-backdrops-from-images-on-the-web/"><u>Effective Techniques for Eliminating White Backdrops From Images on the Web</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Tecno Pova 5? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Itel P55T | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-infinix-note-30-pro-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Infinix Note 30 Pro Device</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/leading-free-and-paid-music-download-services-similar-to-limewire/"><u>Leading Free and Paid Music Download Services Similar to LimeWire</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/mastering-resolution-downscaling-expert-guidelnates-for-converting-ultra-hd-videos-to-standard-definition-smoothly/"><u>Mastering Resolution Downscaling: Expert Guidelnates for Converting Ultra HD Videos to Standard Definition Smoothly.</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/simple-steps-for-seamless-conversion-from-vob-to-mov-format/"><u>Simple Steps for Seamless Conversion From VOB to MOV Format</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/step-by-step-hp-laptop-screen-recording-explained/"><u>Step-by-Step HP Laptop Screen Recording Explained</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/streaming-uefa-champions-league-top-methods-for-live-viewing-on-your-computer/"><u>Streaming UEFA Champions League: Top Methods for Live Viewing on Your Computer</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/the-ultimate-guide-to-choosing-screen-mirroring-solutions-for-your-galaxy-smartphone/"><u>The Ultimate Guide to Choosing Screen Mirroring Solutions for Your Galaxy Smartphone</u></a></li>
 </ul></div>
 
