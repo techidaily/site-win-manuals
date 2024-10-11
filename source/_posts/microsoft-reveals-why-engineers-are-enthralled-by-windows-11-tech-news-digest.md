@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Reveals: Why Engineers Are Enthralled by Windows 11 | Tech News Digest"
-date: 2024-10-03T21:15:27.025Z
-updated: 2024-10-05T21:20:29.360Z
+date: 2024-10-08T00:52:23.927Z
+updated: 2024-10-11T01:31:17.303Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -96,13 +96,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -142,15 +135,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,21 +196,15 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-10-best-free-video-conferencing-services-with-screen-sharing-for-2024/"><u>[New] 10 Best Free Video Conferencing Services with Screen Sharing for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-cutting-edge-free-audio-for-youtube-visionaries-for-2024/"><u>[New] Cutting-Edge Free Audio for YouTube Visionaries for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/reventing-non-displayed-images-in-youtubes-shorts-for-2024/"><u>[New] Preventing Non-Displayed Images in YouTubes Shorts for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-starter-mic-solutions-for-youtube-starters-for-2024/"><u>[Updated] Starter Mic Solutions for YouTube Starters for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-chart-topping-ideas-to-invigorate-your-youtube-channel/"><u>2024 Approved Chart-Topping Ideas to Invigorate Your YouTube Channel</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/csgo-gaming-sessions-captured-step-by-step-guide-to-perfect-game-recordings/"><u>CS:GO Gaming Sessions Captured - Step-by-Step Guide to Perfect Game Recordings</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/effective-techniques-for-eliminating-white-backdrops-from-images-on-the-web/"><u>Effective Techniques for Eliminating White Backdrops From Images on the Web</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Tecno Pova 5? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Itel P55T | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-infinix-note-30-pro-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Infinix Note 30 Pro Device</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/leading-free-and-paid-music-download-services-similar-to-limewire/"><u>Leading Free and Paid Music Download Services Similar to LimeWire</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/mastering-resolution-downscaling-expert-guidelnates-for-converting-ultra-hd-videos-to-standard-definition-smoothly/"><u>Mastering Resolution Downscaling: Expert Guidelnates for Converting Ultra HD Videos to Standard Definition Smoothly.</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/simple-steps-for-seamless-conversion-from-vob-to-mov-format/"><u>Simple Steps for Seamless Conversion From VOB to MOV Format</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/step-by-step-hp-laptop-screen-recording-explained/"><u>Step-by-Step HP Laptop Screen Recording Explained</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/streaming-uefa-champions-league-top-methods-for-live-viewing-on-your-computer/"><u>Streaming UEFA Champions League: Top Methods for Live Viewing on Your Computer</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/the-ultimate-guide-to-choosing-screen-mirroring-solutions-for-your-galaxy-smartphone/"><u>The Ultimate Guide to Choosing Screen Mirroring Solutions for Your Galaxy Smartphone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-how-to-record-edit-and-export-high-quality-webcam-videoseasy-steps/"><u>[New] 2024 Approved How to Record, Edit and Export High-Quality Webcam Videos [Easy Steps]</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-the-art-of-selecting-and-using-b-roll-in-productions/"><u>[New] In 2024, The Art of Selecting and Using B-Roll in Productions</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-video-mastery-start-here-essential-seo-gadgets/"><u>[Updated] In 2024, Video Mastery Start Here - Essential SEO Gadgets</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-asus-rog-phone-7-by-fonelab-android-recover-photos/"><u>How To Restore Missing Photos Files from Asus ROG Phone 7.</u></a></li>
+<li><a href="https://win-able.techidaily.com/lego-star-wars-the-skywalker-saga-crash-solution-and-optimization-tips-for-windows-users/"><u>Lego Star Wars: The Skywalker Saga Crash Solution & Optimization Tips for Windows Users</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/master-the-art-of-data-protection-in-windows-11-step-by-step-instructions-on-leveraging-file-history-for-reliable-backups-techexpert-advice/"><u>Master the Art of Data Protection in Windows 11: Step-by-Step Instructions on Leveraging File History for Reliable Backups | TechExpert Advice</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/microsoft-revolutionizes-office-productivity-with-exclusive-surface-accessories-tailored-for-corporate-users-insider-info-from-zdnet/"><u>Microsoft Revolutionizes Office Productivity with Exclusive Surface Accessories Tailored for Corporate Users | Insider Info From ZDNET</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/microsofts-latest-security-scare-should-you-chuckle-or-cry-insights-from-zdnet/"><u>Microsoft's Latest Security Scare: Should You Chuckle or Cry? Insights From ZDNet</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/navigating-team-dynamics-when-a-supervisor-clashes-over-employee-communication-habits-on-microsoft-teams-insightful-analysis/"><u>Navigating Team Dynamics: When a Supervisor Clashes Over Employee Communication Habits on Microsoft Teams | Insightful Analysis</u></a></li>
+<li><a href="https://extra-information.techidaily.com/pinnacle-creation-hub-synopsis-studio-assessment-2023/"><u>Pinnacle Creation Hub Synopsis, Studio Assessment 2023</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Microsoft's Latest Security Scare: Should You Chuckle or Cry? Insights From ZDNet"
-date: 2024-09-28T20:05:57.774Z
-updated: 2024-10-05T17:09:12.792Z
+date: 2024-10-07T16:54:50.627Z
+updated: 2024-10-11T02:26:53.025Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -64,16 +77,16 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -95,6 +108,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -128,13 +148,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -142,28 +155,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -208,22 +208,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-streamline-your-media-experience-add-subtitles-in-windows-media-player/"><u>[New] Streamline Your Media Experience Add Subtitles in Windows Media Player</u></a></li>
-<li><a href="https://fox-info.techidaily.com/10-best-picture-organizers-for-striking-grids-for-2024/"><u>10 Best Picture Organizers for Striking Grids for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/conversion-gratuite-de-fichier-flv-a-mov-sur-la-toile-tutorial-video-dexemple-avec-movavi/"><u>Conversion Gratuite De Fichier FLV À MOV Sur La Toile - Tutorial Vidéo D'Exemple Avec Movavi</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/csgo-gaming-sessions-captured-step-by-step-guide-to-perfect-game-recordings/"><u>CS:GO Gaming Sessions Captured - Step-by-Step Guide to Perfect Game Recordings</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/download-tunes-from-raaga-with-minimal-hassle-top-tricks-revealed/"><u>Download Tunes From Raaga with Minimal Hassle: Top Tricks Revealed!</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/effective-techniques-for-eliminating-white-backdrops-from-images-on-the-web/"><u>Effective Techniques for Eliminating White Backdrops From Images on the Web</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/effortless-conversational-engagement-leveraging-the-power-of-chatgpt-api/"><u>Effortless Conversational Engagement: Leveraging the Power of ChatGPT API</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/experienced-user-insights-on-the-handy-criacr-bluetooth-fm-transmitter-cp2n-detailed-assessment-revealed/"><u>Experienced User Insights on the Handy Criacr Bluetooth FM Transmitter CP2n: Detailed Assessment Revealed</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-peek-through-the-curtain-viewers-disguised-commentaries/"><u>In 2024, Peek Through the Curtain Viewers' Disguised Commentaries</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/mastering-the-art-of-squaring-your-content-tips-for-optimizing-videos-on-instagram/"><u>Mastering the Art of Squaring Your Content: Tips for Optimizing Videos on Instagram</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/mondly-co-op-with-pearson-education-network/"><u>Mondly Co-Op with Pearson Education Network</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-nokia-c12-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Nokia C12 and Browser | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/sequential-viewing-guide-for-the-dragonslayers-saga-how-to-train-your-dragon-series/"><u>Sequential Viewing Guide for the Dragonslayers Saga – How to Train Your Dragon Series</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/simple-steps-for-seamless-conversion-from-vob-to-mov-format/"><u>Simple Steps for Seamless Conversion From VOB to MOV Format</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/streaming-uefa-champions-league-top-methods-for-live-viewing-on-your-computer/"><u>Streaming UEFA Champions League: Top Methods for Live Viewing on Your Computer</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/the-ultimate-guide-to-choosing-screen-mirroring-solutions-for-your-galaxy-smartphone/"><u>The Ultimate Guide to Choosing Screen Mirroring Solutions for Your Galaxy Smartphone</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/top-rated-blackberry-video-converter-transform-your-videos-into-compatible-bb-formats-seamlessly/"><u>Top-Rated BlackBerry Video Converter - Transform Your Videos Into Compatible BB Formats Seamlessly</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-photoshop-sway-decrease-pivotal-or-superfluous/"><u>[New] 2024 Approved Photoshop Sway Decrease Pivotal or Superfluous?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-armies-united-exploring-the-ultimate-7-strategy-wars/"><u>[New] Armies United Exploring the Ultimate 7 Strategy Wars</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-essential-tips-for-making-youtube-introductory-trailers/"><u>[Updated] Essential Tips for Making YouTube Introductory Trailers</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-detailed-guide-to-advanced-usage-in-macs-preview-app/"><u>[Updated] In 2024, Detailed Guide to Advanced Usage in Mac's Preview App</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-unlock-social-data-with-top-free-facebook-downloaders/"><u>[Updated] Unlock Social Data with Top Free Facebook Downloaders</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/1-ultimate-guide-free-and-easy-way-to-save-your-favorite-9gag-memes-and-gifs/"><u>1. Ultimate Guide: Free and Easy Way to Save Your Favorite 9GAG Memes & GIFs</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/complete-guide-installing-dvd-player-codecs-on-windows-10/"><u>Complete Guide: Installing DVD Player Codecs on Windows 10</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/convert-youtube-videos-into-high-quality-audio-formats-mp3-wav-aac/"><u>Convert YouTube Videos Into High-Quality Audio Formats (MP3, WAV, AAC)</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/download-erotic-content-from-mofos-in-various-formats-convert-to-mp4movavi/"><u>Download Erotic Content From Mofos in Various Formats - Convert to MP4/MOV/AVI</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/download-fox-sports-highlights-and-full-matches-as-quality-videos-mp4aviflv-for-offline-viewing/"><u>Download Fox Sports Highlights and Full Matches as Quality Videos (MP4/AVI/FLV) for Offline Viewing</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-unlock-youtube-placement-secrets-what-matters-most/"><u>In 2024, Unlock YouTube Placement Secrets What Matters Most?</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-vivo-y27-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Vivo Y27 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-12-no-cost-movie-streaming-applications/"><u>Top 12 No-Cost Movie Streaming Applications</u></a></li>
 </ul></div>
 

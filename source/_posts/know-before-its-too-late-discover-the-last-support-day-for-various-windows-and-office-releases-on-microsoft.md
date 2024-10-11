@@ -1,7 +1,7 @@
 ---
 title: "Know Before It's Too Late: Discover the Last Support Day for Various Windows & Office Releases on Microsoft."
-date: 2024-09-30T17:52:04.303Z
-updated: 2024-10-05T19:16:27.123Z
+date: 2024-10-07T20:31:15.126Z
+updated: 2024-10-11T12:10:21.735Z
 tags:
   - windows
 categories:
@@ -44,10 +44,16 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +91,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +112,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,24 +187,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-a-gamers-guide-to-twisting-videos-on-youtube-2e/"><u>[New] 2024 Approved A Gamer's Guide to Twisting Videos on YouTube (2E)</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-top-6-online-communities-catering-to-the-commercial-world/"><u>[New] Top 6 Online Communities Catering to the Commercial World</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-educators-guide-to-thriving-youtube-channels-10-must-know-secrets-for-2024/"><u>[Updated] Educators' Guide to Thriving YouTube Channels – 10 Must-Know Secrets for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-traveling-lens-quieter-assistant-360-for-2024/"><u>[Updated] Traveling Lens Quieter Assistant 360° for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-precision-gameplay-with-proximity-focus-in-roblox/"><u>2024 Approved Precision Gameplay with Proximity Focus in Roblox</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-vivo-y100-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Vivo Y100 to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/5yid5a246icf5oyh5y2x77ya5b6e5zplus65pys6zal5ael5bu656ul5pyj5pwi6igv55uf6kgm6yq36kii5yqd/"><u>初學者指南：從基本開始建立有效聯盟行銷計劃</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/complete-uninstallation-of-apowerrec-and-virtual-sound-card-on-your-mac-expert-tips-and-tricks/"><u>Complete Uninstallation of ApowerREC and Virtual Sound Card on Your Mac: Expert Tips & Tricks</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/comprehensive-guide-how-to-set-up-and-use-a-streaming-video-capture-device/"><u>Comprehensive Guide: How to Set Up and Use a Streaming Video Capture Device</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/essential-facts-every-user-should-understand-about-spotifys-streaming-platform/"><u>Essential Facts Every User Should Understand About Spotify's Streaming Platform</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/essential-software-tools-for-efficient-computer-usage-tracking/"><u>Essential Software Tools for Efficient Computer Usage Tracking</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/master-the-switch-seamless-conversion-from-markdown-to-pdf-in-minutes-revised-tutorial/"><u>Master the Switch: Seamless Conversion From Markdown to PDF in Minutes (Revised Tutorial )</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/quick-guide-transforming-your-iphone-into-a-portable-wi-fi-hub/"><u>Quick Guide: Transforming Your iPhone Into a Portable Wi-Fi Hub</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/quick-tips-cost-free-conversion-of-pdf-documents-into-jpeg-images/"><u>Quick Tips: Cost-Free Conversion of PDF Documents Into JPEG Images</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-vivo-y78t-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Vivo Y78t Location | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-nokia-c12-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Nokia C12 Phone</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/top-methods-for-bypassing-iphone-x-lock-screen-without-using-your-password-or-facial-recognition/"><u>Top Methods for Bypassing iPhone X Lock Screen Without Using Your Password or Facial Recognition</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/top-rated-pdf-to-microsoft-word-2010-conversion-software-easy-pdf-to-docx-transformation/"><u>Top Rated PDF to Microsoft Word 2010 Conversion Software: Easy PDF to DOCX Transformation</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/bulk-conversion-of-djvu-e-books-to-pdf-with-free-flipbuilder-tool/"><u>Bulk Conversion of DJVU E-Books to PDF with Free FlipBuilder Tool</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-view-avchd-mts-files-on-galaxy-s24-ultra-by-aiseesoft-video-converter-play-mts-on-android/"><u>Can I view AVCHD .mts files on Galaxy S24 Ultra?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/comparing-kmplayer-and-vlc-a-detailed-guide-on-the-top-two-video-players/"><u>Comparing KMPlayer and VLC: A Detailed Guide on the Top Two Video Players</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/create-stunning-mac-photo-albums-and-effortlessly-flip-images-using-flipmaster-xtra/"><u>Create Stunning Mac Photo Albums & Effortlessly Flip Images Using FlipMaster Xtra!</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/effortless-image-format-transformation-use-the-free-user-friendly-photo-converter/"><u>Effortless Image Format Transformation: Use the Free, User-Friendly Photo Converter</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/enhance-your-project-with-argon-design-system-professional-edition-seamlessly-combines-angular-and-bootstrap-tech-by-creative-tim/"><u>Enhance Your Project with Argon Design System Professional Edition - Seamlessly Combines Angular & Bootstrap Tech by Creative Tim</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/enhanced-creativity-with-react-and-ant-design-upgrade-to-the-professional-license-of-muses-ant-admin-dashboard/"><u>Enhanced Creativity with React & Ant Design: Upgrade to the Professional License of Muse's Ant Admin Dashboard</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/expert-advice-keeping-your-motherboard-operating-smoothly-with-updated-drivers-in-windows/"><u>Expert Advice: Keeping Your Motherboard Operating Smoothly with Updated Drivers in Windows</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/exploring-the-ultimate-presentation-toolkit-mastering-microsoft-flip-with-flippowerpoint-flipbuildercom/"><u>Exploring the Ultimate Presentation Toolkit: Mastering Microsoft Flip with FlipPowerPoint | flipbuilder.com</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/free-argon-dashboard-app-in-nodejs-innovative-monitoring-tool-by-creative-tim/"><u>Free Argon Dashboard App in Node.js - Innovative Monitoring Tool by Creative Tim</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/high-quality-premium-react-native-mobile-app-designs-by-creative-tim-start-building-now/"><u>High-Quality Premium React Native Mobile App Designs by Creative Tim - Start Building Now</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-samsung-galaxy-m54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Samsung Galaxy M54 5G | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-lock-your-motorola-moto-g13-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Motorola Moto G13 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-smooth-sailing-easy-recording-tips-for-your-logitech-cam/"><u>In 2024, Smooth Sailing Easy Recording Tips for Your Logitech Cam</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/introduction-a-la-physiologie-parts-of-the-body-en-francais/"><u>Introduction À La Physiologie: Parts of the Body en Français</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-realme-gt-5-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Realme GT 5? Fixed | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-10-essential-video-editor-apps-you-need-to-know/"><u>New 10 Essential Video Editor Apps You Need to Know</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/top-ranking-ghost-free-designs-from-creative-tim-expert-picks/"><u>Top-Ranking Ghost-Free Designs From Creative Tim: Expert Picks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-fixing-playback-problems-a-guide-to-solving-sound-issues-on-pc/"><u>Troubleshooting and Fixing Playback Problems: A Guide to Solving Sound Issues on PC</u></a></li>
 </ul></div>
 

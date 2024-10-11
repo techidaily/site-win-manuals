@@ -1,7 +1,7 @@
 ---
 title: ZDNet Explores the Newly Unveiled Enterprise-Level ChatGPT by OpenAI
-date: 2024-09-30T21:50:08.122Z
-updated: 2024-10-05T19:32:35.885Z
+date: 2024-10-06T23:33:32.287Z
+updated: 2024-10-10T18:06:27.530Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -91,10 +91,16 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -129,6 +135,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -136,28 +149,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -202,18 +202,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-a-brief-guide-to-download-install-and-use-ez-grabber-for-2024/"><u>[New] A Brief Guide to Download, Install, and Use EZ Grabber for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-zoom-into-clarity-a-comprehensive-checklist-for-youtube-broadcasts-for-2024/"><u>[New] Zoom Into Clarity A Comprehensive Checklist for YouTube Broadcasts for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/expert-recommendations-6-prime-locations-for-selecting-a-new-laptop/"><u>Expert Recommendations: 6 Prime Locations for Selecting a New Laptop</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/get-your-favorite-wdr-programs-with-our-easy-to-use-downloader-for-pc-and-apple-devices/"><u>Get Your Favorite WDR Programs with Our Easy-to-Use Downloader for PC and Apple Devices</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/guide-to-archiving-live-content-from-ustream-onto-pc-or-mac-devices/"><u>Guide to Archiving Live Content From uStream Onto PC or Mac Devices</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/guide-to-downloading-walla-walla-in-various-formats-mp3-aac-flac-aiff/"><u>Guide to Downloading 'Walla Walla' In Various Formats (MP3, AAC, FLAC, AIFF)</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-iphone-13-activation-lock-by-drfone-ios-unlock-ios-unlock/"><u>How to bypass iPhone 13 activation lock</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/how-to-download-videos-from-wrapinstitute-using-your-pc-or-mac/"><u>How to Download Videos From Wrapinstitute Using Your PC or MAC</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Realme 11X 5G? | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-monthly-earnings-from-youtube-as-a-content-creator/"><u>In 2024, Monthly Earnings From YouTube as a Content Creator</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/legally-accessing-your-favorite-shows-such-as-pitchers-viral-fever-and-permanent-roommates-online-with-ease/"><u>Legally Accessing Your Favorite Shows Such as Pitchers, Viral Fever, & Permanent Roommates Online with Ease</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/simplify-composing-hard-to-write-work-emails-using-chatgpt/"><u>Simplify Composing Hard-to-Write Work Emails Using ChatGPT</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-the-most-wanted-android-apps-on-google-play-for-2024/"><u>Updated The Most Wanted Android Apps on Google Play for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-rehabilitating-faulty-obs-camera-connection/"><u>[Updated] In 2024, Rehabilitating Faulty OBS Camera Connection</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-unplugged-joy-a-list-of-great-offline-ipad-games/"><u>[Updated] Unplugged Joy A List of Great Offline iPad Games</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-instagram-photo-perfection-applying-stylish-borders/"><u>2024 Approved Instagram Photo Perfection Applying Stylish Borders</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-the-complete-playback-manual-for-nintendo-switch-games/"><u>2024 Approved The Complete Playback Manual for Nintendo Switch Games</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/create-your-own-chat-bubbles-with-these-5-awesome-ios-sticker-making-apps-enjoyable-and-straightforward-designing/"><u>Create Your Own Chat Bubbles with These 5 Awesome iOS Sticker Making Apps - Enjoyable and Straightforward Designing!</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/creative-tims-paper-bootstrap-wizard-begin-your-journey-with-a-complimentary-design-tool/"><u>Creative Tim's Paper Bootstrap Wizard - Begin Your Journey with a Complimentary Design Tool</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/creative-tims-ultimate-selection-20-amazing-tailwind-cssreact-ui-kits-for-web-development/"><u>Creative Tim's Ultimate Selection: 20 Amazing Tailwind CSS/React UI Kits for Web Development</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/discover-extensive-collection-80plus-ready-to-use-react-templates-from-creative-tim/"><u>Discover Extensive Collection: 80+ Ready-to-Use React Templates From Creative Tim</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/discover-the-finest-5-zero-cost-flask-layouts-crafted-by-creative-tim-for-your-site/"><u>Discover the Finest 5 Zero Cost Flask Layouts Crafted by Creative Tim for Your Site!</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/discover-the-finest-django-web-components-and-styles-at-no-cost-with-creative-tim/"><u>Discover the Finest Django Web Components & Styles at No Cost with Creative Tim</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/download-your-complimentary-landing-page-framework-powered-by-nextjs-and-tailwind-from-creative-tim-experts/"><u>Download Your Complimentary Landing Page Framework Powered by NextJS & Tailwind From Creative Tim Experts!</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/free-nextjs-and-tailwind-css-starter-kit-build-your-professional-portfolio-with-ease/"><u>Free Next.js & Tailwind CSS Starter Kit: Build Your Professional Portfolio with Ease</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/free-nextjs-and-tailwind-css-starter-template-professional-launch-pages-by-creative-tim/"><u>Free Next.js & Tailwind CSS Starter Template - Professional Launch Pages by Creative Tim</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/free-premium-boostrap-designs-collection-over-85-pieces-get-your-themes-today-from-creative-tim/"><u>Free Premium Boostrap Designs Collection Over 85 Pieces - Get Your Themes Today From Creative Tim</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-comparative-study-samsung-vs-traditional-photo-tools/"><u>In 2024, Comparative Study Samsung vs Traditional Photo Tools</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-innovative-android-for-ultimate-3d-playback/"><u>In 2024, Innovative Android for Ultimate 3D Playback</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-live-broadcast-converter-decoder/"><u>In 2024, Live Broadcast Converter Decoder</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/lenovo-shakes-up-computing-industry-thinkpad-p1-gen-7-revolutionizes-portability-efficiency-and-power-with-groundbreaking-lpcamm2-memory/"><u>Lenovo Shakes Up Computing Industry: ThinkPad P1 Gen 7 Revolutionizes Portability, Efficiency & Power with Groundbreaking LPCAMM2 Memory</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/modernizing-a-classic-the-revamped-demons-souls-with-impressive-graphical-fidelity/"><u>Modernizing a Classic: The Revamped Demon's Souls with Impressive Graphical Fidelity</u></a></li>
 </ul></div>
 
