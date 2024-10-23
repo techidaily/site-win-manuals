@@ -1,7 +1,7 @@
 ---
 title: Explore Enhanced Text Manipulation in EmEditor v23.2 Preview (Builds From 23.1) – Professional Editor Tool
-date: 2024-10-15T07:04:00.683Z
-updated: 2024-10-16T16:29:44.421Z
+date: 2024-10-21T00:11:10.927Z
+updated: 2024-10-22T17:52:42.044Z
 tags:
   - product
 categories:
@@ -29,13 +29,6 @@ Please post any questions or comments in this forum, or Contact us. Thank you fo
 ### To update
 If you use the installer version, please select **Customize Update Checker** on the **Help** menu, and set the **Include preview versions** in order to update automatically to future preview versions. Preview versions can also be downloaded at [Previous versions](https://tools.techidaily.com/emeditor/products/).  
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### preview 1 (23.1.901) – January 31, 2023
 – Added the **Prompt if deleted** check box to the **File** page of configuration properties. \[PF\]  
  – [Added the **Find Next/Previous matches non-overlapping strings only** to the **Advanced** dialog box.](https://tools.techidaily.com/emeditor/products/) \[P\]  
@@ -50,10 +43,10 @@ If you use the installer version, please select **Customize Update Checker** on 
  – Fixed various issues and improved the stability.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### preview 3 (23.1.903) – February 14, 2024
@@ -67,25 +60,33 @@ If you use the installer version, please select **Customize Update Checker** on 
 
 ### preview 6 (23.1.906) – February 23, 2024
 – Added the **Copy to Other** command. \[PF\]  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### preview 7 (23.1.907) – February 24, 2024
 – Added the **SetEnv** method to the Shell object.  
  – Added the **ChatAI.jsee** macro.  
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### preview 8 (23.1.908) – February 25, 2024
 – Renamed **ChatAI.jsee** to **AI.jsee**.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### preview 10 (23.1.910) – February 26, 2024
@@ -120,21 +121,21 @@ Viewing 1 post (of 1 total)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-click-to-victory-the-best-12-pc-games-for-dedicated-players/"><u>[New] 2024 Approved Click to Victory The Best 12 PC Games for Dedicated Players</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-financial-fortune-with-facebook-video-marketing-key-strategies-explored-for-2024/"><u>[Updated] Financial Fortune with Facebook Video Marketing Key Strategies Explored for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-top-asmr-equipment-for-thoughtful-shoppers-seeking-performance/"><u>[Updated] In 2024, Top ASMR Equipment for Thoughtful Shoppers Seeking Performance</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-the-ultimate-guide-to-earning-on-snapchat/"><u>2024 Approved The Ultimate Guide to Earning on Snapchat</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/cutting-edge-encoding-showdown-the-av1-and-vp9-race/"><u>Cutting-Edge Encoding Showdown The AV1 & VP9 Race</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/datensicherung-auf-sandisk-methoden-zur-wiederherstellung-verlorener-dateien/"><u>Datensicherung Auf Sandisk: Methoden Zur Wiederherstellung Verlorener Dateien</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/disabling-iphone-13-pro-parental-restrictions-withwithout-password-by-drfone-ios/"><u>Disabling iPhone 13 Pro Parental Restrictions With/Without Password</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/effortless-hard-drive-swap-for-faster-performance-clone-intel-based-hdds-as-ssds-on-windows-systems/"><u>Effortless Hard Drive Swap for Faster Performance - Clone Intel-Based HDDs as SSDs on Windows Systems</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/emeditor-text-editor-customize-your-workflow-with-mobile-ready-explorer-toolbar-or-save-configurations-in-stationary-editions/"><u>EmEditor Text Editor - Customize Your Workflow with Mobile-Ready Explorer Toolbar or Save Configurations in Stationary Editions</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/expose-concealed-windows-11-documents-using-these-simple-strategies-guida-completa/"><u>Expose Concealed Windows 11 Documents Using These Simple Strategies (Guida Completa)</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/guia-practica-crea-una-imagen-de-respaldo-en-formato-iso-para-tu-disco-duro/"><u>Guía Práctica: Crea Una Imagen De Respaldo en Formato ISO Para Tu Disco Duro</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-vivo-y27s-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Vivo Y27s Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/migrare-i-tuoi-dati-samsung-in-modo-facile-e-sicuro-usando-un-supporto-usb-avviabile/"><u>Migrare I Tuoi Dati Samsung in Modo Facile E Sicuro Usando Un Supporto USB Avviabile</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/optimale-strategien-zur-umwandlung-von-physischen-zu-virtuellen-systemen-die-besten-methoden-der-p2v-migration/"><u>Optimale Strategien Zur Umwandlung Von Physischen Zu Virtuellen Systemen: Die Besten Methoden Der P2V-Migration</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-breakdown-of-payment-percentages-in-short-video-royalties-for-2024/"><u>The Breakdown of Payment Percentages in Short Video Royalties for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-contenders-in-llm-showdown-bard-chatgpt-and-offline-alpaca-battle-it-out/"><u>Top Contenders in LLM Showdown: Bard, ChatGPT and Offline Alpaca Battle It Out!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-gpu-recognition-failure-windows/"><u>[FIXED] GPU Recognition Failure Windows</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-comprehensive-tutorial-for-periscope-proficiency-for-2024/"><u>[New] Comprehensive Tutorial for Periscope Proficiency for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-techbite-provision-recorder-assessment/"><u>[New] TechBite ProVision Recorder Assessment</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-how-to-fix-common-instagram-video-errors/"><u>[Updated] How to Fix Common Instagram Video Errors</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-download-facebook-audio-mp3s/"><u>[Updated] In 2024, Download Facebook Audio MP3s</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-sns-vs-competitors-a-critical-hdr-software-comparison/"><u>2024 Approved SNS vs Competitors A Critical HDR Software Comparison</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/discover-10-free-high-quality-live-stream-apps-for-iphones-and-androids/"><u>Discover 10 Free, High-Quality Live Stream Apps for iPhones and Androids</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/einfache-methoden-zum-exportieren-von-nachrichten-vom-iphone-lernen-sie-vier-einfache-strategien/"><u>Einfache Methoden Zum Exportieren Von Nachrichten Vom iPhone - Lernen Sie Vier Einfache Strategien</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/guida-passo-passo-per-crea-una-rom-di-windows-10-su-un-supporto-usb/"><u>Guida Passo-Passo per Crea Una ROM Di Windows 10 Su Un Supporto USB</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/guide-pratique-restauration-de-fichiers-effaces-sur-une-carte-sd-avec-la-console-de-commande/"><u>Guide Pratique : Restauration De Fichiers Effacés Sur Une Carte SD Avec La Console De Commande</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-13-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>How to Unlock iPhone 13 without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/not-found-alert-the-link-is-broken-and-missing-content/"><u>Not Found Alert: The Link Is Broken and Missing Content</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/passos-faceis-para-movimentar-dados-entre-computadores-usando-windows-10-8-ou-7/"><u>Passos Fáceis Para Movimentar Dados Entre Computadores Usando Windows 10, 8 Ou 7</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/quick-and-simple-steps-retrieving-your-files-from-the-cloud/"><u>Quick & Simple Steps: Retrieving Your Files From the Cloud</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-dolby-sound-problems-starting-your-dolby-audio-driver-with-windows-11/"><u>Troubleshooting Dolby Sound Problems: Starting Your Dolby Audio Driver with Windows 11</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/windows-7-usb-2/"><u>Windows 7リカバリ USB 生成ガイド：簡易手順2つ</u></a></li>
 </ul></div>
 
