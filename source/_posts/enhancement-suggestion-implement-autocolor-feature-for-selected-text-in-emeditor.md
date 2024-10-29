@@ -1,7 +1,7 @@
 ---
 title: "Enhancement Suggestion: Implement Autocolor Feature for Selected Text in EmEditor"
-date: 2024-10-15T22:46:45.971Z
-updated: 2024-10-23T06:23:11.829Z
+date: 2024-10-22T16:39:08.829Z
+updated: 2024-10-28T21:07:38.579Z
 tags:
   - product
 categories:
@@ -54,25 +54,30 @@ Viewing 3 posts - 1 through 3 (of 3 total)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-streamline-your-content-upload-instagram-videos-from-desktop/"><u>[New] Streamline Your Content Upload Instagram Videos From Desktop</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-creative-annotation-best-smartphone-apps-reviewed/"><u>[Updated] Creative Annotation Best Smartphone Apps Reviewed</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-vision-in-focus-analyzing-best-8k-screen-performers/"><u>[Updated] In 2024, Vision in Focus Analyzing Best 8K Screen Performers</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/1-ultimate-guide-how-to-perform-imessage-backups-and-restoration-on-your-iphone-or-ipad/"><u>1. Ultimate Guide: How to Perform iMessage Backups and Restoration on Your iPhone or iPad</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/explorando-las-reglas-del-respaldo-y-la-copia-en-windows-7-una-guia-completa/"><u>Explorando Las Reglas Del Respaldo Y La Copia en Windows 7: Una Guía Completa</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/explore-enhanced-text-manipulation-in-emeditor-v232-preview-builds-from-231-professional-editor-tool/"><u>Explore Enhanced Text Manipulation in EmEditor v23.2 Preview (Builds From 23.1) – Professional Editor Tool</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-the-complete-guide-to-infinix-gt-10-pro-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Infinix GT 10 Pro FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/must-have-settings-for-online-broadcasting/"><u>Must-Have Settings for Online Broadcasting</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/sinonimos-y-tacticas-avanzadas-como-superar-los-errores-al-iniciar-windows-11/"><u>Sinónimos Y Tácticas Avanzadas: Cómo Superar Los Errores Al Iniciar Windows 11</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/step-by-step-tutorial-securing-vmware-vcenter-databases-through-effective-backup-strategies-for-postgresql-and-ms-sql-servers/"><u>Step-by-Step Tutorial: Securing VMware vCenter Databases Through Effective Backup Strategies for PostgreSQL and MS SQL Servers</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/the-art-of-streaming-saved-media-easy-igtv-downloads-on-pc-and-mac/"><u>The Art of Streaming Saved Media Easy IGTV Downloads on PC & Mac</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/the-social-media-symphony-composing-jake-pauls-youtube-success-for-2024/"><u>The Social Media Symphony Composing Jake Paul's YouTube Success for 2024</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/top-rated-iphone-data-retrieval-tools-optimized-for-windows-11/"><u>Top-Rated iPhone Data Retrieval Tools: Optimized for Windows 11</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-15plus-best-iphoneipad-video-editing-tools-in-free-market/"><u>[Updated] 2024 Approved 15+ Best iPhone/iPad Video Editing Tools in Free Market</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-mastering-sound-effects-voice-customization-on-instagram/"><u>[Updated] 2024 Approved Mastering Sound Effects Voice Customization on Instagram</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/11-sem-custo-algum/"><u>11 Sem Custo Algum</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-honor-x7b-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Honor X7b | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/boost-productivity-and-efficiency-on-your-hp-omen-15-using-fresh-drivers/"><u>Boost Productivity and Efficiency on Your HP Omen 15 Using Fresh Drivers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/demystifying-copyright-rules-for-your-musical-creations-on-insta/"><u>Demystifying Copyright Rules for Your Musical Creations on Insta</u></a></li>
+<li><a href="https://program-issues.techidaily.com/football-manager-2021-how-to-fix-persistent-issues-with-the-load-screen/"><u>Football Manager 2021: How To Fix Persistent Issues with the Load Screen</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-the-magic-of-time-expansion-a-comprehensive-guide-to-making-beautifully-long-movies-with-still-images-and-online-tools/"><u>In 2024, The Magic of Time Expansion A Comprehensive Guide to Making Beautifully Long Movies with Still Images & Online Tools</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/resolved-graying-issue-when-attempting-to-encrypt-folders-on-windows-11/"><u>Resolved: Graying Issue When Attempting to Encrypt Folders on Windows 11</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/1728486649200-ssd5/"><u>SSDへ安全にコピーするための「秘密」リカバリパーティションの手順：5ステップガイド</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/step-by-step-enhancement-installing-a-high-speed-ssd-in-your-msi-gf63-for-unmatched-performance/"><u>Step-by-Step Enhancement: Installing a High-Speed SSD in Your MSI GF63 for Unmatched Performance</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/top-tier-cpus-optimized-for-virtual-environments-a-comprehensive-guide/"><u>Top-Tier CPUs Optimized for Virtual Environments: A Comprehensive Guide</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
