@@ -1,7 +1,7 @@
 ---
 title: "Enhancement Suggestion: Implement Autocolor Feature for Selected Text in EmEditor"
-date: 2024-10-22T16:39:08.829Z
-updated: 2024-10-28T21:07:38.579Z
+date: 2024-10-28T22:30:32.815Z
+updated: 2024-11-03T18:36:26.513Z
 tags:
   - product
 categories:
@@ -54,30 +54,29 @@ Viewing 3 posts - 1 through 3 (of 3 total)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-15plus-best-iphoneipad-video-editing-tools-in-free-market/"><u>[Updated] 2024 Approved 15+ Best iPhone/iPad Video Editing Tools in Free Market</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-mastering-sound-effects-voice-customization-on-instagram/"><u>[Updated] 2024 Approved Mastering Sound Effects Voice Customization on Instagram</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/11-sem-custo-algum/"><u>11 Sem Custo Algum</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-honor-x7b-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Honor X7b | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/boost-productivity-and-efficiency-on-your-hp-omen-15-using-fresh-drivers/"><u>Boost Productivity and Efficiency on Your HP Omen 15 Using Fresh Drivers</u></a></li>
-<li><a href="https://extra-information.techidaily.com/demystifying-copyright-rules-for-your-musical-creations-on-insta/"><u>Demystifying Copyright Rules for Your Musical Creations on Insta</u></a></li>
-<li><a href="https://program-issues.techidaily.com/football-manager-2021-how-to-fix-persistent-issues-with-the-load-screen/"><u>Football Manager 2021: How To Fix Persistent Issues with the Load Screen</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-the-magic-of-time-expansion-a-comprehensive-guide-to-making-beautifully-long-movies-with-still-images-and-online-tools/"><u>In 2024, The Magic of Time Expansion A Comprehensive Guide to Making Beautifully Long Movies with Still Images & Online Tools</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/resolved-graying-issue-when-attempting-to-encrypt-folders-on-windows-11/"><u>Resolved: Graying Issue When Attempting to Encrypt Folders on Windows 11</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/1728486649200-ssd5/"><u>SSDへ安全にコピーするための「秘密」リカバリパーティションの手順：5ステップガイド</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/step-by-step-enhancement-installing-a-high-speed-ssd-in-your-msi-gf63-for-unmatched-performance/"><u>Step-by-Step Enhancement: Installing a High-Speed SSD in Your MSI GF63 for Unmatched Performance</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/top-tier-cpus-optimized-for-virtual-environments-a-comprehensive-guide/"><u>Top-Tier CPUs Optimized for Virtual Environments: A Comprehensive Guide</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-premier-selection-of-windows-11s-high-quality-capture-software-for-2024/"><u>[New] Premier Selection of Windows 11'S High-Quality Capture Software for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-are-sellers-involved-in-monetizing-review-content/"><u>[Updated] 2024 Approved Are Sellers Involved in Monetizing Review Content?</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-cutting-edge-image-vault-sites/"><u>[Updated] In 2024, Cutting-Edge Image Vault Sites</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/1-recover-accidentally-lost-images-across-various-gadgets/"><u>1. Recover Accidentally Lost Images Across Various Gadgets</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-must-watch-asmr-video-gems-online/"><u>2024 Approved Must-Watch ASMR Video Gems Online</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/comment-pouvez-vous-recuperer-sans-cout-des-fichiers-effaces-dans-windows-11/"><u>Comment Pouvez-Vous Récupérer Sans Coût Des Fichiers Effacés Dans Windows 11?</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/emeditor-text-editor-troubleshooting-continue-autofill-feature/"><u>EmEditor Text Editor: Troubleshooting 'Continue' AutoFill Feature</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/gps-or-cellular-which-apple-watch-is-right-for-you/"><u>GPS or Cellular? Which Apple Watch Is Right For You?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-eliminate-stuttering-and-smooth-out-gameplay-for-assassins-creed-valhalla-on-pc/"><u>How to Eliminate Stuttering and Smooth Out Gameplay for Assassin’s Creed Valhalla on PC</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Samsung Galaxy F54 5G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-vivo-s17e-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Vivo S17e via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-instantaneously-showcasing-archived-video-sessions-via-facebook-live/"><u>In 2024, Instantaneously Showcasing Archived Video Sessions via Facebook Live</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/mastering-file-retrieval-top-6-methods-to-get-back-deleted-items-on-windows-11/"><u>Mastering File Retrieval: Top 6 Methods to Get Back Deleted Items on Windows 11</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/restore-missing-applications-in-windows-11-8-and-7-a-comprehensive-guide-with-9-solutions/"><u>Restore Missing Applications in Windows 11, 8 & 7: A Comprehensive Guide with 9 Solutions</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/strategie-di-configurazione-ottimale-per-il-riposo-dei-dati-un-guida/"><u>Strategie Di Configurazione Ottimale per Il Riposo Dei Dati: Un Guida</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/top-10-solutions-for-resolving-onedrive-sync-issues-on-windows-11/"><u>Top 10 Solutions for Resolving OneDrive Sync Issues on Windows 11</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/part-2/"><u>デスクトップ上で簡単にショートカットを排除する方法 - Part 2</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

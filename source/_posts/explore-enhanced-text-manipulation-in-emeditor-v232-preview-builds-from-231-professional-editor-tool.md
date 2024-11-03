@@ -1,7 +1,7 @@
 ---
 title: Explore Enhanced Text Manipulation in EmEditor v23.2 Preview (Builds From 23.1) – Professional Editor Tool
-date: 2024-10-22T21:15:38.944Z
-updated: 2024-10-29T05:14:15.979Z
+date: 2024-10-27T17:05:04.071Z
+updated: 2024-11-03T22:11:36.949Z
 tags:
   - product
 categories:
@@ -30,10 +30,10 @@ Please post any questions or comments in this forum, or Contact us. Thank you fo
 If you use the installer version, please select **Customize Update Checker** on the **Help** menu, and set the **Include preview versions** in order to update automatically to future preview versions. Preview versions can also be downloaded at [Previous versions](https://tools.techidaily.com/emeditor/products/).  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### preview 1 (23.1.901) – January 31, 2023
@@ -44,6 +44,13 @@ If you use the installer version, please select **Customize Update Checker** on 
  – [Supported the **\\Q…\\E** syntax with **Onigmo** regex.](https://tools.techidaily.com/emeditor/products/) \[PF\]  
  – Added the **eeExFindNoOverlap** flag to the **Find** method. \[P\]  
  – [The new version will not scroll horizontally when a solution is opened in the **Projects** plug-in.](https://tools.techidaily.com/emeditor/products/)  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### preview 2 (23.1.902) – February 12, 2024
 – Added the **Max column width** text box to the **CSV Options** page of the **Customize** dialog box.  
@@ -57,10 +64,10 @@ If you use the installer version, please select **Customize Update Checker** on 
  – Added a shortcut for EmEditor to the Windows 11 style context menu of Windows Explorer (64-bit Desktop Installer version only). \[PF\]  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### preview 5 (23.1.905) – February 22, 2024
@@ -68,13 +75,6 @@ If you use the installer version, please select **Customize Update Checker** on 
 
 ### preview 6 (23.1.906) – February 23, 2024
 – Added the **Copy to Other** command. \[PF\]  
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### preview 7 (23.1.907) – February 24, 2024
 – Added the **SetEnv** method to the Shell object.  
@@ -84,10 +84,10 @@ If you use the installer version, please select **Customize Update Checker** on 
 – Renamed **ChatAI.jsee** to **AI.jsee**.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### preview 10 (23.1.910) – February 26, 2024
@@ -122,22 +122,20 @@ Viewing 1 post (of 1 total)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-social-synergy-sharing-tweets-as-snaps-in-2e-2023-for-2024/"><u>[Updated] Social Synergy Sharing Tweets as Snaps in 2E 2023 for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unlocking-apples-podcast-library-a-download-guide/"><u>[Updated] Unlocking Apple's Podcast Library A Download Guide</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/s-to-get-more-views-with-youtube-optimization/"><u>5 Tips to Get More Views with YouTube Optimization</u></a></li>
-<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-tecno-camon-20-premier-5g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Tecno Camon 20 Premier 5G to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/comment-deplacer-avec-succes-les-controles-ads-vers-un-nouveau-serveur-une-approche-facile/"><u>Comment Déplacer Avec Succès Les Contrôles ADS Vers Un Nouveau Serveur : Une Approche Facile</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/comment-resoudre-lerreur-fichier-word-ecrase-6-astuces-rapides-et-facilement/"><u>Comment Résoudre L'Erreur 'Fichier Word Ecrasé': 6 Astuces Rapides Et Facilement</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/convertidor-de-almacenamiento-seguro-clonacion-desde-2tb-hdd-hasta-un-sistema-de-1tb-ssd-con-particion/"><u>Convertidor De Almacenamiento Seguro: Clonación Desde 2TB HDD Hasta Un Sistema De 1TB SSD Con Partición</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-do-i-sign-a-excel-2016-files-electronically-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How do i sign a Excel 2016 files electronically</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-twitters-media-mashup-a-how-to-guide/"><u>In 2024, Twitter's Media Mashup A How-To Guide</u></a></li>
-<li><a href="https://win-help.techidaily.com/losungen-fur-das-beenden-der-dateiubertragung-in-windows-11-problemlosungsguide/"><u>Lösungen Für Das Beenden Der Dateiübertragung in Windows 11: Problemlösungsguide</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/navigating-office-setup-challenges-like-a-pro/"><u>Navigating Office Setup Challenges Like a Pro</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/step-by-step-tutorial-retrieving-unintentionally-deleted-files-for-free-on-windows-n-8/"><u>Step-by-Step Tutorial: Retrieving Unintentionally Deleted Files for Free on Windows N 8</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/step-by-step-tutorial-securing-vmware-vcenter-databases-through-effective-backup-strategies-for-postgresql-and-ms-sql-servers/"><u>Step-by-Step Tutorial: Securing VMware vCenter Databases Through Effective Backup Strategies for PostgreSQL and MS SQL Servers</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/techni-kembali-akses-folder-gagal-terhubung-pada-sistem-windows-versi-10-11-resmi-dan-easy-guide/"><u>Techni Kembali Akses Folder Gagal Terhubung Pada Sistem Windows Versi 10-11: Resmi Dan Easy Guide!</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/eal-deal-behind-asmr-videos/"><u>The Real Deal Behind ASMR Videos</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/top-kostengunstige-ersatzprodukte-fur-resilio-sync-aomei-backupper-rezensionen/"><u>Top Kostengünstige Ersatzprodukte Für Resilio Sync : AOMEI Backupper Rezensionen</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/top-rated-iphone-data-retrieval-tools-optimized-for-windows-11/"><u>Top-Rated iPhone Data Retrieval Tools: Optimized for Windows 11</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-the-7-best-fps-games/"><u>[Updated] 2024 Approved The 7 Best Fps Games</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-powerpoint-presentations-enhancing-clarity-with-voiceovers/"><u>[Updated] PowerPoint Presentations Enhancing Clarity with Voiceovers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-best-backgrounds-for-live-streaming/"><u>2024 Approved Best Backgrounds for Live Streaming</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-painless-audio-progression-the-unobtrusive-way/"><u>2024 Approved Painless Audio Progression The Unobtrusive Way</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/1728504939177-gmail/"><u>早く簡単に移行完了！ホットメールからGmailへの全データ転送ガイド</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/guia-paso-a-paso-para-clonar-el-disco-duro-interno-en-sistemas-operativos-windows-version-10-8-y-7/"><u>Guía Paso a Paso Para Clonar El Disco Duro Interno en Sistemas Operativos Windows: Versión 10, 8 Y 7</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/how-to-perform-a-complete-system-refresh-on-your-sony-vaio-using-windows-10-features/"><u>How To Perform a Complete System Refresh on Your Sony Vaio Using Windows 10 Features</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pursuit-of-visual-excellence-10-essential-iphone-composition-techniques/"><u>In 2024, Pursuit of Visual Excellence 10 Essential iPhone Composition Techniques</u></a></li>
+<li><a href="https://app-tips.techidaily.com/rising-expenses-in-gen-ai-education-risk-assessment-lags-behind-according-to-recent-stanford-study-insights-on-cost-and-safety/"><u>Rising Expenses in Gen AI Education: Risk Assessment Lags Behind According to Recent Stanford Study - Insights on Cost & Safety</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/step-by-step-guide-rebuilding-your-pc-with-a-system-image-on-windows/"><u>Step-by-Step Guide: Rebuilding Your PC with a System Image on Windows</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/top-3-choix-pour-la-synchronisation-des-donnees-sur-windows-server-2012-2016-et-2019-compares/"><u>Top 3 Choix Pour La Synchronisation Des Données Sur Windows Server: 2012, 2016 Et 2019 Comparés</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/troubleshooting-and-fixing-the-installation-failed-with-error-0x800f081f-on-your-windows-11-pc/"><u>Troubleshooting and Fixing the 'Installation Failed with Error 0X800F081F' On Your Windows 11 PC</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-tips-how-to-resolve-iphone-icloud-backup-issues/"><u>Troubleshooting Tips: How To Resolve iPhone iCloud Backup Issues</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/windows-10-and/"><u>Windows 10 システムの移行とトランジット - ツールガイド & 手順解説</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/xbox-network-outage-how-to-tell-if-its-a-server-issue-or-local-connectivity-problem/"><u>Xbox Network Outage: How to Tell If It's a Server Issue or Local Connectivity Problem?</u></a></li>
 </ul></div>
 
