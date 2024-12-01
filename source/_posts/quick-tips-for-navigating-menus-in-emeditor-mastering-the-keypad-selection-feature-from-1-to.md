@@ -1,7 +1,7 @@
 ---
 title: "Quick Tips for Navigating Menus in EmEditor: Mastering the Keypad Selection Feature From 1 To"
-date: 2024-11-18T21:42:59.393Z
-updated: 2024-11-22T18:17:43.502Z
+date: 2024-11-29T21:00:38.150Z
+updated: 2024-11-30T22:49:49.774Z
 tags:
   - product
 categories:
@@ -61,26 +61,21 @@ Viewing 3 posts - 1 through 3 (of 3 total)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-10-premier-online-systems-for-screen-saving/"><u>[New] In 2024, 10 Premier Online Systems for Screen Saving</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unleash-the-full-potential-of-your-hdr-images-with-lightroom/"><u>[Updated] Unleash the Full Potential of Your HDR Images with Lightroom</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-instagram-anon-mastery-pcandroidios-edition/"><u>2024 Approved Instagram Anon Mastery PC/Android/iOS Edition</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/1728498947186-androidsd/"><u>Android端末のSDカード内で削除された動画ファイルの復元方法</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/erfolgreiches-sync-fuhren-sie-mit-diesen-6-tipps-eine-nahtlose-photo-sync-von-icloud-auf-windows-11-durch/"><u>Erfolgreiches Sync: Führen Sie Mit Diesen 6 Tipps Eine Nahtlose Photo-Sync Von iCloud Auf Windows 11 Durch</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/how-to-exclude-a-folder-from-onedrive-sync-without-deleting-files/"><u>How to Exclude a Folder From OneDrive Sync Without Deleting Files</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-craft-your-own-visual-story-iphones-top-10-image-design-techniques/"><u>In 2024, Craft Your Own Visual Story IPhone's Top 10 Image Design Techniques</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-decoding-the-fisheye-dilemma-in-gopro-videos/"><u>In 2024, Decoding the Fisheye Dilemma in GoPro Videos</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-honor-90-by-drfone-android/"><u>In 2024, How to Bypass FRP from Honor 90?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-unlock-your-boost-mobile-apple-iphone-12-pro-before-the-plan-expires-by-drfone-ios/"><u>In 2024, Unlock Your Boost Mobile Apple iPhone 12 Pro Before the Plan Expires</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/overcome-your-iphone-dilemma-6-key-fixes-for-restoring-connections-between-iphone-and-pcitunesbluetooth-devices/"><u>Overcome Your iPhone Dilemma! 6 Key Fixes for Restoring Connections Between iPhone & PC/iTunes/Bluetooth Devices</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/top-verschwendungskostenfreie-datensicherungsprogramme-fur-windows-11-zum-schutz-ihres-computers-und-seiner-daten/"><u>Top Verschwendungskostenfreie Datensicherungsprogramme Für Windows 11 Zum Schutz Ihres Computers Und Seiner Daten</u></a></li>
-<li><a href="https://fox-access.techidaily.com/transcending-boundaries-the-vr-evolutionary-journey-for-2024/"><u>Transcending Boundaries The VR Evolutionary Journey for 2024</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/troubleshooting-steps-for-uploading-images-from-iphone-onto-a-mac-a-comprehensive-guide/"><u>Troubleshooting Steps for Uploading Images From iPhone Onto a Mac: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/two-effective-techniques-for-building-vcenter-templates-a-comprehensive-guide/"><u>Two Effective Techniques for Building vCenter Templates: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/1728487761062-windows-11/"><u>Windows 11系統逐步备份指南：将数据转移至外部硬盘</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/kak-prevratit-fleshku-v-zagruzochnyj-nositel-dlya-windows-10-ili-11-poshagovoe-rukovodstvo/"><u>Как Превратить Флешку В Загрузочный Носитель Для Windows 10 Или 11: Пошаговое Руководство</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-micro-videos-whats-the-gist/"><u>[Updated] In 2024, Micro Videos What's the Gist?</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/1728484325499-vs/"><u>『データ復旧』VS『データ復元』: 根本的な違いを深掘り</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-behind-the-scenes-with-filmora-top-10-must-haves/"><u>2024 Approved Behind the Scenes with Filmora Top 10 Must-Haves</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/movavi-orf-png/"><u>以 Movavi 專業力量快速在網路上自由地改變 ORF 成 PNG 格式 - 完美的影像數字化方法</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/clearing-your-opera-browser-cache-essential-tips-and-reasons-a-guide-by-zdnet/"><u>Clearing Your Opera Browser Cache: Essential Tips & Reasons - A Guide by ZDNet</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/est-ce-possible-dautomatiser-la-compression-de-fichiers-avec-le-serveur-smb-version-202n/"><u>Est-Ce Possible D'Automatiser La Compression De Fichiers Avec Le Serveur SMB Version 202N ?</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/future-proof-inverter-choices-top-performing-models-in-the-market-now/"><u>Future-Proof Inverter Choices: Top Performing Models in the Market Now</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/guide-complet-pour-installer-windows-11-sur-un-nouveau-ssdhdd-deux-approches-simples-expliquees/"><u>Guide Complet Pour Installer Windows 11 Sur Un Nouveau SSD/HDD – Deux Approches Simples Expliquées</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-nokia-g310-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Nokia G310 Phone Hassle-Free</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-the-essentials-to-establish-a-singular-hashtag-on-tiktok/"><u>In 2024, The Essentials to Establish a Singular Hashtag on TikTok</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/1728494923528-vaio-pc/"><u>VAIO PCのリフレッシュ方法・ウォーミングアップマニュアル</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/wiederauffinden-und-rekonstruktion-geloschter-dokumente-auf-einem-windows-10-pc-mit-7-effizienten-methoden/"><u>Wiederauffinden Und Rekonstruktion Gelöschter Dokumente Auf Einem Windows #10 PC Mit 7 Effizienten Methoden</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
