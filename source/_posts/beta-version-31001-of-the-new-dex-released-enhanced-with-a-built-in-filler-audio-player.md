@@ -1,7 +1,7 @@
 ---
 title: "Beta Version 3.10.0.1 of the NEW DEX Released: Enhanced with a Built-In Filler Audio Player!"
-date: 2024-11-29T16:48:47.557Z
-updated: 2024-11-30T20:27:38.811Z
+date: 2024-12-03T17:08:18.248Z
+updated: 2024-12-09T00:26:05.158Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ As last weeks update was, the new DEX 3 Pro version 3.10.0.1 is a [public beta](
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Updated in DEX 3 Pro Version 3.10.0.1 (Since 3.10)
@@ -64,7 +64,7 @@ _**IMPORTANT NOTES:** With your existing version of DEX 3 Pro closed, download a
 _Have questions about the **new version of DEX 3 Pro** or the new **karaoke features**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -86,24 +86,16 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/03/DEX31001DOWNLOAD-template.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-behind-the-scenes-top-tactics-for-consistent-vlogging-for-2024/"><u>[New] Behind the Scenes Top Tactics for Consistent Vlogging for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-economical-choices-in-action-cinematography/"><u>[Updated] Economical Choices in Action Cinematography</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-breakthrough-tactics-for-efficient-home-podcasting/"><u>[Updated] In 2024, Breakthrough Tactics for Efficient Home Podcasting</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1-unlock-your-movavi-screen-recorder-get-activation-code-at-no-cost/"><u>1. Unlock Your Movavi Screen Recorder: Get Activation Code at No Cost</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-lenovo-thinkphone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Lenovo ThinkPhone | Dr.fone</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/aomei-backupper-user-guide-comprehensive-faq-answers/"><u>AOMEI Backupper User Guide: Comprehensive FAQ Answers</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/can-you-retrieve-lost-files-from-your-departed-laptop-using-myrecover-software/"><u>Can You Retrieve Lost Files From Your Departed Laptop Using MyRecover Software?</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/como-borrar-la-carpeta-windowsold-eficientemente-en-windows-10-tres-metodos-faciles-de-seguir/"><u>Cómo Borrar La Carpeta 'Windows.old' Eficientemente en Windows 10: Tres Métodos Fáciles De Seguir</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/complete-instructions-for-swapping-hdd-for-ssd-in-dell-inspiron-15-laptop/"><u>Complete Instructions for Swapping HDD for SSD in Dell Inspiron 15 Laptop</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/descubriendo-a-aomei-nuestra-historia-y-servicios-de-copia-de-seguridad/"><u>Descubriendo a AOMEI: Nuestra Historia Y Servicios De Copia De Seguridad</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/sive-online-converter-for-video-texts/"><u>Exclusive Online Converter for Video Texts</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/1722707492600-experience-high-definition-with-the-affordable-sony-xbr65x850f-our-in-depth-65-inch-tv-review/"><u>Experience High Definition with the Affordable Sony XBR65X850F - Our In-Depth 65-Inch TV Review!</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/guida-rapida-alla-modifica-della-partizione-disco-in-windows-10-senza-reinstallazione/"><u>Guida Rapida Alla Modifica Della Partizione Disco in Windows 10 Senza Reinstallazione</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/guide-to-the-elite-audiovideo-makers-web/"><u>Guide to the Elite Audio/Video Makers Web</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-this-years-unexpected-cinematic-gems/"><u>In 2024, This Year's Unexpected Cinematic Gems</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-nubia-red-magic-9-proplus-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Nubia Red Magic 9 Pro+ Device</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/top-gratuite-software-de-sauvegarde-automatique-pour-samsung-sous-windows-11-8-ou-7-recommandations/"><u>Top Gratuite Software De Sauvegarde Automatique Pour Samsung Sous Windows 11, 8 Ou 7 - Recommandations</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/troubleshooting-tips-effortless-solutions-for-windows-eos-boot-failures/"><u>Troubleshooting Tips: Effortless Solutions for Windows eOS Boot Failures</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/1728507524408-windows-10/"><u>Windows 10 アップデート中断を直す方法：今までに学んだヒントとテクニック</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-the-all-encompassing-examination-of-theta-s-camera/"><u>[New] 2024 Approved The All-Encompassing Examination of Theta S Camera</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-the-ultimate-cheat-sheet-to-ez-grabber-usage/"><u>[Updated] 2024 Approved The Ultimate Cheat Sheet to EZ Grabber Usage</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-comprehensive-studio-study-xvideo-studio-insights/"><u>2024 Approved Comprehensive Studio Study XVideo Studio Insights</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/can-you-trust-the-robustness-and-safety-of-yl-computings-tools-explore-with-us/"><u>Can You Trust the Robustness & Safety of YL Computing's Tools? Explore With Us!</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/design-your-closure-the-best-free-youtube-tutorials/"><u>Design Your Closure The Best Free YouTube Tutorials</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/enhance-your-computer-display-with-jaguar-xe-2019-imagery-created-by-yl-computing-and-yl-software/"><u>Enhance Your Computer Display with Jaguar XE 2019 Imagery - Created by YL Computing and YL Software</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-efficiently-organize-and-resolve-issues-with-your-iphone-photography-collection/"><u>How to Efficiently Organize and Resolve Issues with Your iPhone Photography Collection</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-on-iphone-14-plus-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID On iPhone 14 Plus Making It Possible</u></a></li>
+<li><a href="https://discover-data.techidaily.com/quick-guide-to-repairing-and-accessing-data-on-your-damaged-raw-storage-device/"><u>Quick Guide to Repairing and Accessing Data on Your Damaged RAW Storage Device</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/resolving-printer-error-messages-with-ease-expert-advice-from-yl-software/"><u>Resolving Printer Error Messages with Ease - Expert Advice From YL Software</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/ultimate-performance-tuning-tips-for-pc-and-laptops-expert-advice-from-yl-computing/"><u>Ultimate Performance Tuning Tips for PC and Laptops - Expert Advice From YL Computing</u></a></li>
 </ul></div>
 

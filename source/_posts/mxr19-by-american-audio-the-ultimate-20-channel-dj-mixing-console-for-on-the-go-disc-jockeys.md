@@ -1,7 +1,7 @@
 ---
 title: "MXR19 by American Audio: The Ultimate 20-Channel DJ Mixing Console for On-the-Go Disc Jockeys"
-date: 2024-11-27T17:00:23.187Z
-updated: 2024-12-01T01:20:45.509Z
+date: 2024-12-07T20:28:10.628Z
+updated: 2024-12-09T04:35:00.608Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/ea52c7c75e7b3032041ebf8f7a073a81be8689646
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### PCDJ had two of the earliest [DJ controllers](https://tools.techidaily.com/pcdj/products/) on the market in the DAC-2 and DAC-3 controllers. Both were 19″ rackmount controllers that were simple yet effective in controlling our [DJ software](https://tools.techidaily.com/pcdj/products/).
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/ea52c7c75e7b3032041ebf8f7a073a81be8689646
 DJ controllers have evolved tremendously since then, with every major DJ equipment manufacturer offering a full line of options. The trend lately is to ditch the 19″ rack style controller for table top designs that [![AmericanAudio_19MXR](https://i0.wp.com/www.pcdj.com/wp-content/uploads/2014/07/AmericanAudio_19MXR-300x225.jpg?resize=300%2C225&ssl=1)](https://i0.wp.com/www.pcdj.com/wp-content/uploads/2014/07/AmericanAudio%5F19MXR.jpg?ssl=1)incorporate all the controller and mixer controls in one (_usually less than compact_) device. Large jog wheels are present so DJs that scratch have something similar to vinyl to grab and manipulate, and much of the time they take up significant real estate. For mobile DJs, much of the time that’s a waste of space, especially since many still use 19″ rackmount setups/cases.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 We get calls all the time from DJs looking for a DJ controller that can fit in their already configured 19″ setup, and options have dwindled immensely over the last 5 years. The Denon DN-HC4500 was a great 19″ option, but is now difficult to find. Enter the American Audio MXR19 – a $299 4-channel USB midi controller, mixer and audio card in one; a perfect solution for mobile DJs that need simple DJ controller controls, and a mixer with 3 mic inputs. We’ve already pre-mapped it to DEX 2 (and 3) and RED Mobile 2, so it’s plug and play right out of the box.
@@ -49,7 +49,7 @@ Here’s a full list of features as provided by American Audio:
 [![MXR-19](https://i1.wp.com/www.pcdj.com/wp-content/uploads/2014/07/MXR-19-710x270.jpg?resize=710%2C270&ssl=1)](https://i0.wp.com/www.pcdj.com/wp-content/uploads/2014/07/MXR-19.jpg?ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **American Audio MXR-19 19″ 4-Channel DJ Mixer**
@@ -89,7 +89,7 @@ We liked the fit for our mobile DJ customers so much we’ve just become a deale
 _Have questions about the American Audio MXR19? Feel free to ask questions in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -111,24 +111,18 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2014/07/mxr19coverimage.jpg?fit=53
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-optimal-tools-to-convert-and-tweet-videos/"><u>[New] 2024 Approved Optimal Tools to Convert and Tweet Videos</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-stepwise-addition-of-language-overlays-in-igtv-videos/"><u>[New] In 2024, Stepwise Addition of Language Overlays in IGTV Videos</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-add-shimmer-to-photos-illustrators-motion-blur-guide/"><u>[Updated] 2024 Approved Add Shimmer to Photos Illustrator's Motion Blur Guide</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-taking-your-footage-up-a-notch-advanced-techniques-for-360-videos-on-youtube/"><u>2024 Approved Taking Your Footage Up a Notch Advanced Techniques for 360° Videos on YouTube</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-unleashing-creativity-converting-youtube-videos-into-captivating-gifs/"><u>2024 Approved Unleashing Creativity Converting YouTube Videos Into Captivating GIFs</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-video-dominance-on-instagram-designing-a-pro-marketing-approach/"><u>2024 Approved Video Dominance on Instagram Designing a Pro-Marketing Approach</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/1728472873622-windows-10/"><u>如何在Windows 10上恢复被遗忘或清空的磁盘分区方法</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/aomei-pxe-boot-tool-nutzung-eine-schritt-fur-schritt-anleitung/"><u>AOMEI PXE Boot Tool Nutzung: Eine Schritt-Für-Schritt-Anleitung</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/comment-desactiver-avec-succes-windows-defender-dans-windows-11-une-approche-facile-en-trois-etapes/"><u>Comment Désactiver Avec Succès Windows Defender Dans Windows 11: Une Approche Facile en Trois Étapes</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-apple-iphone-12-mini-have-find-my-friends-drfone-by-drfone-virtual-ios/"><u>Does Apple iPhone 12 mini Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/guide-detaille-pour-reparer-des-videos-endommagees-par-handbrake-lors-dextractions-de-dvd-sous-windows-10/"><u>Guide Détaillé Pour Réparer Des Vidéos Endommagées Par Handbrake Lors D'Extractions De DVD Sous Windows 10</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/how-to-set-up-a-dual-boot-system-with-windows-10-and-windows-11-a-comprehensive-guide/"><u>How to Set Up a Dual-Boot System with Windows 10 and Windows 11: A Comprehensive Guide</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-personalized-melodies-made-easy-building-a-youtube-music-collection-on-webmobile/"><u>In 2024, Personalized Melodies Made Easy Building a YouTube Music Collection on Web/Mobile</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/mastering-file-retrieval-top-6-methods-to-get-back-deleted-items-on-windows-11/"><u>Mastering File Retrieval: Top 6 Methods to Get Back Deleted Items on Windows 11</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/overcome-boot-issues-after-cloning-sata-to-nvme-a-five-step-guide-for-a-successful-transition/"><u>Overcome Boot Issues After Cloning SATA to NVMe: A Five-Step Guide for a Successful Transition</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/restore-missing-applications-in-windows-11-8-and-7-a-comprehensive-guide-with-9-solutions/"><u>Restore Missing Applications in Windows 11, 8 & 7: A Comprehensive Guide with 9 Solutions</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/sharing-is-caring-mastering-the-art-of-airdropping-youtube-content-onto-ios-devices-and-pcs-comprehensive-instructions-included/"><u>Sharing Is Caring: Mastering the Art of AirDropping YouTube Content Onto iOS Devices and PCs - Comprehensive Instructions Included!</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/step-by-step-guide-enable-handbrake-functionality-on-windows-11/"><u>Step-by-Step Guide: Enable Handbrake Functionality on Windows 11</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/part-2/"><u>デスクトップ上で簡単にショートカットを排除する方法 - Part 2</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-viral-video-round-up-a-list-of-todays-favorites-on-fb/"><u>[New] 2024 Approved Viral Video Round-Up A List of Today's Favorites on FB</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-youtube-outro-kings-6-top-suggestions/"><u>[New] In 2024, Free YouTube Outro Kings 6 TOP Suggestions</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/high-definition-star-citizen-visuals-ultimate-collection-of-wallpapers-and-desktop-icons-yl-computings-premium-image-library/"><u>High-Definition Star Citizen Visuals: Ultimate Collection of Wallpapers & Desktop Icons - YL Computing's Premium Image Library</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-itel-p55-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Itel P55 without App | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-did-your-apple-iphone-xs-max-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>In 2024, Did Your Apple iPhone XS Max Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-from-standard-to-spectacular-the-transformative-power-of-high-dynamic-range/"><u>In 2024, From Standard to Spectacular The Transformative Power of High Dynamic Range</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-atandt-apple-iphone-se-2020-with-3-methods-by-drfone-ios/"><u>In 2024, How to Unlock AT&T Apple iPhone SE (2020) with 3 Methods</u></a></li>
+<li><a href="https://facebook.techidaily.com/mastering-image-descriptions-for-fb-posts/"><u>Mastering Image Descriptions for FB Posts</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/modifying-your-computers-sound-settings-a-guide-by-yl-software/"><u>Modifying Your Computer's Sound Settings: A Guide by YL Software</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/troubleshooting-steps-for-unrecognized-gpus-on-windows-systems-with-yls-expert-advice/"><u>Troubleshooting Steps for Unrecognized GPUs on Windows Systems with YL's Expert Advice</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/troubleshooting-steps-for-your-scanner-connection-issues-a-comprehensive-guide-yl-computing/"><u>Troubleshooting Steps for Your Scanner Connection Issues: A Comprehensive Guide - YL Computing</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/ultimate-tech-advice-how-to-successfully-upgrade-your-machine-with-new-hardware-insights-from-yl-computing/"><u>Ultimate Tech Advice: How To Successfully Upgrade Your Machine with New Hardware Insights From YL Computing</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-new-macos-15-capabilities-how-to-benefit-from-the-latest-upgrade-on-your-apple-macbook-insights/"><u>Unveiling New MacOS 15 Capabilities: How to Benefit From the Latest Upgrade on Your Apple MacBook - Insights</u></a></li>
 </ul></div>
 

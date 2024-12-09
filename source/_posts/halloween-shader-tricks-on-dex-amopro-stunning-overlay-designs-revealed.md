@@ -1,7 +1,7 @@
 ---
 title: Halloween Shader Tricks on DEX amoPro - Stunning Overlay Designs Revealed!
-date: 2024-11-25T03:27:47.582Z
-updated: 2024-12-01T03:59:25.485Z
+date: 2024-12-01T21:41:20.377Z
+updated: 2024-12-09T06:18:30.883Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ Get creative and build an overlay using an image (or text) and a Halloween video
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here are the steps we used to create the demonstration above:
@@ -39,7 +39,7 @@ Using the combination of Shaders and Overlays allows you to create wicked cool H
 _Have questions about using **Shaders** in our **DEX 3 DJ software**, or how to **overlays**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -61,20 +61,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/10/halloween-cover-image-shad
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-capture-dynamic-movements-ipad-timelapse-tips/"><u>[Updated] 2024 Approved Capture Dynamic Movements IPad Timelapse Tips</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-can-you-legally-capture-video-from-youtube-in-2024/"><u>[Updated] Can You Legally Capture Video From YouTube, In 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-secrets-behind-top-performers-in-online-forums-like-reddit/"><u>[Updated] The Secrets Behind Top Performers in Online Forums Like Reddit</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/advanced-techniques-in-zooming-achieving-perfect-audio-quality-for-your-podcast-for-2024/"><u>Advanced Techniques in Zooming Achieving Perfect Audio Quality for Your Podcast for 2024</u></a></li>
-<li><a href="https://win-top.techidaily.com/building-a-relationship-between-spam-filters-and-users-introducing-massmail-software/"><u>Building a Relationship Between Spam Filters & Users: Introducing MassMail Software</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/demystifying-samsungs-u2-nvme-ssds-understanding-their-function-and-mastering-cloning-techniques/"><u>Demystifying Samsung's U.2 NVMe SSDs: Understanding Their Function & Mastering Cloning Techniques</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-vivo-x-fold-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Vivo X Fold 2 | Dr.fone</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/guide-to-retrieving-deleted-content-from-twitter-platforms/"><u>Guide to Retrieving Deleted Content From Twitter Platforms</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-oppo-k11x-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Oppo K11x | Dr.fone</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/page-cannot-be-retrieved-http-error-eb-404/"><u>Page Cannot Be Retrieved (HTTP Error Eb-404)</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/quick-guide-restoring-removed-files-on-your-sd-card-via-command-line-tools/"><u>Quick Guide: Restoring Removed Files on Your SD Card via Command Line Tools</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/scriptwriting-the-art-of-utilizing-slug-lines/"><u>Scriptwriting The Art of Utilizing Slug Lines</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/seamless-mysql-backup-strategies-discover-6-effective-and-simple-solutions/"><u>Seamless MySQL Backup Strategies: Discover 6 Effective and Simple Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-to-overcome-window-11s-black-screen-dilemma/"><u>Troubleshooting Tips to Overcome Window 11'S Black Screen Dilemma</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/ultimate-guide-how-to-safeguard-your-emails-with-an-external-hdd-backup-solution/"><u>Ultimate Guide: How to Safeguard Your Emails with an External HDD Backup Solution</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-13-ways-to-fine-tune-colors-in-photoshop-effortlessly/"><u>[New] In 2024, 13 Ways to Fine-Tune Colors in Photoshop Effortlessly</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-6-best-free-apps-to-compress-videos-on-android/"><u>[Updated] 6 Best Free Apps to Compress Videos on Android</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/1-diagnosing-and-fixing-monitor-problems-expert-tips-from-yl-computing/"><u>1. Diagnosing and Fixing Monitor Problems: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-itel-s23-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Itel S23 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/converting-your-gotomeeting-videos-a-step-by-step-guide-using-the-g2m4-codec-and-transforming-them-into-mp4-format/"><u>Converting Your GoToMeeting Videos: A Step-by-Step Guide Using the G2M4 Codec and Transforming Them Into MP4 Format</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/fix-memory-glitches-swiftly-a-step-by-step-guide-to-adjusting-windows-memory-settings-with-yl-software-solutions/"><u>Fix Memory Glitches Swiftly: A Step-by-Step Guide to Adjusting Windows Memory Settings with YL Software Solutions</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-infinix-note-30-vip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/high-definition-promised-neverland-wallpaper-gallery-ultimate-collection-by-yl-computing/"><u>High-Definition 'Promised Neverland' Wallpaper Gallery - Ultimate Collection by YL Computing</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/how-to-fix-a-non-detected-network-card-issue-with-ease-guided-by-yl-tech-experts/"><u>How to Fix a Non-Detected Network Card Issue with Ease - Guided by YL Tech Experts</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/how-to-fix-a-pc-when-it-refuses-to-start-expert-advice-from-yl-computing/"><u>How to Fix a PC When It Refuses to Start: Expert Advice From YL Computing</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-messages-from-your-honor-by-fonelab-android-recover-messages/"><u>How to recover old messages from your Honor</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-iphone-12-screen-lock-without-password-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock iPhone 12 screen lock without password?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/innovative-strategies-for-keeping-a-log-of-whatsapp-calls-for-2024/"><u>Innovative Strategies for Keeping a Log of WhatsApp Calls for 2024</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/navigating-the-hazards-a-deep-dive-into-cryptocurrency-risks-with-guidance-from-yl-software-professionals/"><u>Navigating the Hazards: A Deep Dive Into Cryptocurrency Risks with Guidance From YL Software Professionals</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/preventative-measures-for-avoiding-gpu-malfunctions-in-windows-environments-insights-from-yl-software-experts/"><u>Preventative Measures for Avoiding GPU Malfunctions in Windows Environments: Insights From YL Software Experts</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/troubleshooting-your-non-printing-printer-solutions-and-tips-the-expertise-of-yl-computing/"><u>Troubleshooting Your Non-Printing Printer: Solutions & Tips - The Expertise of YL Computing</u></a></li>
+<li><a href="https://win-web.techidaily.com/windows-11-takes-the-lead-amongst-engineering-circles-insights-from-microsoft-on-latest-os-trend-zdnet-news/"><u>Windows 11 Takes the Lead Amongst Engineering Circles - Insights From Microsoft on Latest OS Trend | ZDNet News</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/yl-software-tutorial-advanced-image-video-and-document-password-protection-techniques/"><u>YL Software Tutorial: Advanced Image, Video and Document Password Protection Techniques</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/maahga-nskha-ahtyatya-llaghza-alshkhsya-fy-windows-dlyl-koy-l-ubuntu-111087/"><u>معهجة نسخة احتياطية للأجهزة الشخصية في Windows - دليل قوي ل Ubuntu 11/10/8/7</u></a></li>
 </ul></div>
 
