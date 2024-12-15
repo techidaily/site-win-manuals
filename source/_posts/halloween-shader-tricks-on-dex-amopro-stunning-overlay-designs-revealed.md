@@ -1,7 +1,7 @@
 ---
 title: Halloween Shader Tricks on DEX amoPro - Stunning Overlay Designs Revealed!
-date: 2024-12-01T21:41:20.377Z
-updated: 2024-12-09T06:18:30.883Z
+date: 2024-12-10T10:05:54.017Z
+updated: 2024-12-15T01:27:28.829Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ Get creative and build an overlay using an image (or text) and a Halloween video
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here are the steps we used to create the demonstration above:
@@ -39,7 +39,7 @@ Using the combination of Shaders and Overlays allows you to create wicked cool H
 _Have questions about using **Shaders** in our **DEX 3 DJ software**, or how to **overlays**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -61,24 +61,17 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/10/halloween-cover-image-shad
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-13-ways-to-fine-tune-colors-in-photoshop-effortlessly/"><u>[New] In 2024, 13 Ways to Fine-Tune Colors in Photoshop Effortlessly</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-6-best-free-apps-to-compress-videos-on-android/"><u>[Updated] 6 Best Free Apps to Compress Videos on Android</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/1-diagnosing-and-fixing-monitor-problems-expert-tips-from-yl-computing/"><u>1. Diagnosing and Fixing Monitor Problems: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/best-3-itel-s23-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Itel S23 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/converting-your-gotomeeting-videos-a-step-by-step-guide-using-the-g2m4-codec-and-transforming-them-into-mp4-format/"><u>Converting Your GoToMeeting Videos: A Step-by-Step Guide Using the G2M4 Codec and Transforming Them Into MP4 Format</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/fix-memory-glitches-swiftly-a-step-by-step-guide-to-adjusting-windows-memory-settings-with-yl-software-solutions/"><u>Fix Memory Glitches Swiftly: A Step-by-Step Guide to Adjusting Windows Memory Settings with YL Software Solutions</u></a></li>
-<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-infinix-note-30-vip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Infinix Note 30 VIP | Dr.fone</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/high-definition-promised-neverland-wallpaper-gallery-ultimate-collection-by-yl-computing/"><u>High-Definition 'Promised Neverland' Wallpaper Gallery - Ultimate Collection by YL Computing</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/how-to-fix-a-non-detected-network-card-issue-with-ease-guided-by-yl-tech-experts/"><u>How to Fix a Non-Detected Network Card Issue with Ease - Guided by YL Tech Experts</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/how-to-fix-a-pc-when-it-refuses-to-start-expert-advice-from-yl-computing/"><u>How to Fix a PC When It Refuses to Start: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-old-messages-from-your-honor-by-fonelab-android-recover-messages/"><u>How to recover old messages from your Honor</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-iphone-12-screen-lock-without-password-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock iPhone 12 screen lock without password?</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/innovative-strategies-for-keeping-a-log-of-whatsapp-calls-for-2024/"><u>Innovative Strategies for Keeping a Log of WhatsApp Calls for 2024</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/navigating-the-hazards-a-deep-dive-into-cryptocurrency-risks-with-guidance-from-yl-software-professionals/"><u>Navigating the Hazards: A Deep Dive Into Cryptocurrency Risks with Guidance From YL Software Professionals</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/preventative-measures-for-avoiding-gpu-malfunctions-in-windows-environments-insights-from-yl-software-experts/"><u>Preventative Measures for Avoiding GPU Malfunctions in Windows Environments: Insights From YL Software Experts</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/troubleshooting-your-non-printing-printer-solutions-and-tips-the-expertise-of-yl-computing/"><u>Troubleshooting Your Non-Printing Printer: Solutions & Tips - The Expertise of YL Computing</u></a></li>
-<li><a href="https://win-web.techidaily.com/windows-11-takes-the-lead-amongst-engineering-circles-insights-from-microsoft-on-latest-os-trend-zdnet-news/"><u>Windows 11 Takes the Lead Amongst Engineering Circles - Insights From Microsoft on Latest OS Trend | ZDNet News</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/yl-software-tutorial-advanced-image-video-and-document-password-protection-techniques/"><u>YL Software Tutorial: Advanced Image, Video and Document Password Protection Techniques</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/maahga-nskha-ahtyatya-llaghza-alshkhsya-fy-windows-dlyl-koy-l-ubuntu-111087/"><u>معهجة نسخة احتياطية للأجهزة الشخصية في Windows - دليل قوي ل Ubuntu 11/10/8/7</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-best-online-destinations-for-sparkling-and-metallic-letters-for-2024/"><u>[New] Best Online Destinations for Sparkling and Metallic Letters for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-transform-your-content-simple-steps-to-change-numbers-on-tiktok/"><u>[New] In 2024, Transform Your Content Simple Steps to Change Numbers on TikTok</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-viral-video-ventures-crafting-addictive-loops-on-ig/"><u>[Updated] In 2024, Viral Video Ventures Crafting Addictive Loops on IG</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-uploading-youtube-vids-seamlessly-on-instagram/"><u>[Updated] Uploading YouTube Vids Seamlessly on Instagram</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-quick-sequences-with-gopro-burst/"><u>2024 Approved Mastering Quick Sequences with GoPro Burst</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/boost-your-computers-efficiency-tips-and-tricks-from-yl-software/"><u>Boost Your Computer's Efficiency: Tips & Tricks From YL Software</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/elevate-your-desktop-with-premium-4k-love-wallpaper-designs-from-yl-software/"><u>Elevate Your Desktop with Premium 4K Love Wallpaper Designs From YL Software</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/experience-a-thousand-lifetimes-at-maximum-strength-with-yl-softwares-slaying-adventures/"><u>Experience a Thousand Lifetimes at Maximum Strength with YL Software's Slaying Adventures!</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-webm-video-optimization-best-online-compression-software/"><u>New WebM Video Optimization Best Online Compression Software</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/personalizing-your-start-menu-in-windows-11-a-comprehensive-guide-by-yl-computing/"><u>Personalizing Your Start Menu in Windows 11: A Comprehensive Guide - By YL Computing</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/the-best-free-mp4-video-splitters-and-cutters-for-2024/"><u>The Best Free MP4 Video Splitters and Cutters for 2024</u></a></li>
+<li><a href="https://discover-help.techidaily.com/top-free-video-converters-for-windows-11-in-2020-ultra-hd-to-4k-conversion-guide/"><u>Top Free Video Converters for Windows 11 in 2020 - Ultra HD to 4K Conversion Guide</u></a></li>
 </ul></div>
 

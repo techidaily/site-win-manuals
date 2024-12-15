@@ -1,7 +1,7 @@
 ---
 title: "Beta Version 3.10.0.1 of the NEW DEX Released: Enhanced with a Built-In Filler Audio Player!"
-date: 2024-12-03T17:08:18.248Z
-updated: 2024-12-09T00:26:05.158Z
+date: 2024-12-11T21:01:56.977Z
+updated: 2024-12-15T02:57:21.248Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ As last weeks update was, the new DEX 3 Pro version 3.10.0.1 is a [public beta](
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Updated in DEX 3 Pro Version 3.10.0.1 (Since 3.10)
@@ -64,7 +64,7 @@ _**IMPORTANT NOTES:** With your existing version of DEX 3 Pro closed, download a
 _Have questions about the **new version of DEX 3 Pro** or the new **karaoke features**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -86,16 +86,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/03/DEX31001DOWNLOAD-template.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-the-all-encompassing-examination-of-theta-s-camera/"><u>[New] 2024 Approved The All-Encompassing Examination of Theta S Camera</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-the-ultimate-cheat-sheet-to-ez-grabber-usage/"><u>[Updated] 2024 Approved The Ultimate Cheat Sheet to EZ Grabber Usage</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-comprehensive-studio-study-xvideo-studio-insights/"><u>2024 Approved Comprehensive Studio Study XVideo Studio Insights</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/can-you-trust-the-robustness-and-safety-of-yl-computings-tools-explore-with-us/"><u>Can You Trust the Robustness & Safety of YL Computing's Tools? Explore With Us!</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/design-your-closure-the-best-free-youtube-tutorials/"><u>Design Your Closure The Best Free YouTube Tutorials</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/enhance-your-computer-display-with-jaguar-xe-2019-imagery-created-by-yl-computing-and-yl-software/"><u>Enhance Your Computer Display with Jaguar XE 2019 Imagery - Created by YL Computing and YL Software</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-efficiently-organize-and-resolve-issues-with-your-iphone-photography-collection/"><u>How to Efficiently Organize and Resolve Issues with Your iPhone Photography Collection</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-on-iphone-14-plus-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID On iPhone 14 Plus Making It Possible</u></a></li>
-<li><a href="https://discover-data.techidaily.com/quick-guide-to-repairing-and-accessing-data-on-your-damaged-raw-storage-device/"><u>Quick Guide to Repairing and Accessing Data on Your Damaged RAW Storage Device</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/resolving-printer-error-messages-with-ease-expert-advice-from-yl-software/"><u>Resolving Printer Error Messages with Ease - Expert Advice From YL Software</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/ultimate-performance-tuning-tips-for-pc-and-laptops-expert-advice-from-yl-computing/"><u>Ultimate Performance Tuning Tips for PC and Laptops - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-skyrocket-your-channel-navigating-through-youtube-stats/"><u>[New] 2024 Approved Skyrocket Your Channel Navigating Through YouTube Stats</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/access-fresh-karaoke-tracks-every-week-with-our-subscription-featuring-new-releases-by-party-tyme-june-6th-update/"><u>Access Fresh Karaoke Tracks Every Week with Our Subscription! Featuring New Releases by Party Tyme (June 6Th Update)</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/demystifying-blockchain-technology-the-role-of-mining-in-crypto-networks-yl-software/"><u>Demystifying Blockchain Technology: The Role of Mining in Crypto Networks - YL Software</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/detecting-and-troubleshooting-hardware-issues-on-your-pc-insights-from-yl-computing/"><u>Detecting and Troubleshooting Hardware Issues on Your PC - Insights From YL Computing</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/easy-steps-for-tailoring-your-pcs-sound-settings-with-windows-control-panel-yl-software-solutions/"><u>Easy Steps for Tailoring Your PC's Sound Settings with Windows Control Panel - YL Software Solutions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/effortlessly-link-your-bus-or-train-card-with-apple-wallet-expert-tips-and-tricks-by-zdnet/"><u>Effortlessly Link Your Bus or Train Card with Apple Wallet: Expert Tips & Tricks by ZDNet</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/forgotten-the-voicemail-password-of-oneplus-ace-2-pro-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of OnePlus Ace 2 Pro? Try These Fixes</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-iphone-se-2022-drfone-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-insert-sign-in-excel-2000-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to insert sign in Excel 2000 files</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/master-your-pcs-performance-the-ultimate-tutorial-for-refreshing-driver-software-in-windows-control-panel-expert-it-advice/"><u>Master Your PC's Performance: The Ultimate Tutorial for Refreshing Driver Software in Windows Control Panel – Expert IT Advice</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/maximize-computer-speed-with-key-component-enhancements-expert-advice-from-yl-computing-yl-software/"><u>Maximize Computer Speed with Key Component Enhancements - Expert Advice From YL Computing | YL Software</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/navigating-uncertain-waters-a-guide-to-the-hazards-of-crypto-assets-with-yl-softwares-analysis/"><u>Navigating Uncertain Waters: A Guide to the Hazards of Crypto Assets with YL Software's Analysis</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/recovering-from-data-loss-effective-strategies-when-your-backups-fail-insights-by-yl-computing/"><u>Recovering From Data Loss: Effective Strategies When Your Backups Fail - Insights by YL Computing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-12-unbeatable-niche-mac-tools-that-are-indispensable-for-me/"><u>The 12 Unbeatable Niche Mac Tools That Are Indispensable for Me</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/the-historical-significance-of-the-opium-wars-key-events-and-long-term-effects-insights-from-yl-software-experts/"><u>The Historical Significance of the Opium Wars: Key Events and Long-Term Effects - Insights From YL Software Experts</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-poco-f5-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Poco F5 5G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210450195-9781667417905-tu-meriti-il-meglio/"><u>Tu meriti il meglio | Free Book</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/your-guide-to-iconic-fonts-boosting-video-engagement/"><u>Your Guide to Iconic Fonts Boosting Video Engagement</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/your-journey-to-flawless-video-subtitling-essential-digital-aids-listed/"><u>Your Journey to Flawless Video Subtitling Essential Digital Aids Listed</u></a></li>
 </ul></div>
 

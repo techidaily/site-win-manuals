@@ -1,7 +1,7 @@
 ---
 title: "Reflecting on Rhythms: The Top Tunes and Memorable Beats From Purely Silk's 2018 Journey"
-date: 2024-12-06T21:04:23.923Z
-updated: 2024-12-09T05:34:37.942Z
+date: 2024-12-08T18:53:28.239Z
+updated: 2024-12-15T06:59:22.899Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ At the conclusion of each year we take a look back at he milestones and accompli
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2018 PCDJ Milestones
@@ -56,7 +56,7 @@ At the conclusion of each year we take a look back at he milestones and accompli
 Stay tuned in for an upcoming blog post that will cover some of our goals for 2019, and beyond!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -78,19 +78,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/12/pcdj-2018-yearinreview.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-accessing-hidden-reaction-mechanisms-of-youtube-users-for-2024/"><u>[New] Accessing Hidden Reaction Mechanisms of YouTube Users for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-intro-to-photo-editing-mastering-lunapic-basics/"><u>[New] Intro to Photo Editing Mastering LunaPic Basics</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-navigating-new-laptop-features-with-m1-max-clips/"><u>[New] Navigating New Laptop Features with M1 Max Clips</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-spectacular-screens-7-premium-photo-editing-tools/"><u>[Updated] Spectacular Screens 7 Premium Photo Editing Tools</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-comparing-leading-free-and-paid-zoom-transcription-systems/"><u>2024 Approved Comparing Leading Free & Paid Zoom Transcription Systems</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/r-in-the-market-top-15-finance-videos/"><u>A Year in the Market Top 15 Finance Videos</u></a></li>
-<li><a href="https://facebook.techidaily.com/beyond-belief-fact-checking-facebooks-user-numbers/"><u>Beyond Belief: Fact-Checking Facebook's User Numbers</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/exploring-and-understanding-while-also-retaining-brand-visibility-through-yl-computingsoftware/"><u>Exploring and Understanding, While Also Retaining Brand Visibility Through YL Computing/Software.</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/high-quality-call-of-duty-themed-desktop-wallpapers-visuals-screenshots-and-graphics-for-pc-gaming-digitalartwork/"><u>High-Quality Call of Duty Themed Desktop Wallpapers: Visuals, Screenshots & Graphics for PC Gaming - DigitalArtwork</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-vivo-s17-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Vivo S17 to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/navigating-the-regulatory-framework-for-crypto-assets-expert-advice-from-yl-computing-yl-software/"><u>Navigating the Regulatory Framework for Crypto Assets: Expert Advice From YL Computing | YL Software</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/resolving-scanner-malfunctions-what-to-do-when-it-fails-on-a-windows-pc-with-guidance-from-yl-software-experts/"><u>Resolving Scanner Malfunctions: What to Do When It Fails on a Windows PC with Guidance From YL Software Experts</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/successfully-using-windows-media-player-to-showcase-your-videos-a-step-by-step-guide-tips-from-yl-computing/"><u>Successfully Using Windows Media Player to Showcase Your Videos: A Step-by-Step Guide - Tips From YL Computing</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/techni-menuju-kembali-mengatur-file-desktop-yang-hilir-setelah-update-windows-up-7-hal-menjawab/"><u>Techni Menuju Kembali! Mengatur File Desktop Yang Hilir Setelah Update Windows 지Up, 7 Hal Menjawab!</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-exploring-photo-perfection-can-picku-be-top-for-android-users-for-2024/"><u>[New] Exploring Photo Perfection Can PickU Be Top for Android Users for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-pushing-the-boundaries-of-titles-in-adobe-ae/"><u>[New] In 2024, Pushing the Boundaries of Titles in Adobe AE</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-an-easy-to-follow-methodology-for-initiating-a-productive-skype-conversation-among-various-os-users/"><u>[Updated] In 2024, An Easy-to-Follow Methodology for Initiating a Productive Skype Conversation Among Various OS Users</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/download-dex-3207-now-enhanced-features-with-latest-controller-integration-and-upgrades/"><u>Download DEX 3.20.7 Now: Enhanced Features with Latest Controller Integration & Upgrades!</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/expert-tips-for-fixing-non-reactive-applications-by-yl-software-team/"><u>Expert Tips for Fixing Non-Reactive Applications by YL Software Team</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/google-meetings-archive/"><u>Google Meetings Archive</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/how-does-windows-experience-memory-malfunctions-expert-analysis-by-yl-software/"><u>How Does Windows Experience Memory Malfunctions? Expert Analysis by YL Software</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-vivo-s17t-by-drfone-android/"><u>How to Bypass FRP from Vivo S17t?</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-the-ultimate-youtube-camera-buying-guide/"><u>In 2024, The Ultimate YouTube Camera Buying Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/optimizing-your-youtube-content-how-to-ensure-full-platform-compatibility-and-overcome-upload-restrictions/"><u>Optimizing Your YouTube Content: How to Ensure Full Platform Compatibility and Overcome Upload Restrictions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/soundless-airpod-woes-discover-these-essential-fixes/"><u>Soundless AirPod Woes? Discover These Essential Fixes!</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/troubleshooting-audio-issues-a-guide-to-resolving-your-pcs-sound-problems-tips-from-yl-computing/"><u>Troubleshooting Audio Issues: A Guide to Resolving Your PC's Sound Problems - Tips From YL Computing</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/understanding-your-printers-persistent-setup-issues-insights-from-yl-computing/"><u>Understanding Your Printer's Persistent Setup Issues: Insights From YL Computing</u></a></li>
 </ul></div>
 

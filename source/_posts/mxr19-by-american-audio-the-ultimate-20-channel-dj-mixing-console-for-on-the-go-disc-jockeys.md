@@ -1,7 +1,7 @@
 ---
 title: "MXR19 by American Audio: The Ultimate 20-Channel DJ Mixing Console for On-the-Go Disc Jockeys"
-date: 2024-12-07T20:28:10.628Z
-updated: 2024-12-09T04:35:00.608Z
+date: 2024-12-11T09:52:10.336Z
+updated: 2024-12-15T08:39:34.443Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/ea52c7c75e7b3032041ebf8f7a073a81be8689646
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### PCDJ had two of the earliest [DJ controllers](https://tools.techidaily.com/pcdj/products/) on the market in the DAC-2 and DAC-3 controllers. Both were 19″ rackmount controllers that were simple yet effective in controlling our [DJ software](https://tools.techidaily.com/pcdj/products/).
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/ea52c7c75e7b3032041ebf8f7a073a81be8689646
 DJ controllers have evolved tremendously since then, with every major DJ equipment manufacturer offering a full line of options. The trend lately is to ditch the 19″ rack style controller for table top designs that [![AmericanAudio_19MXR](https://i0.wp.com/www.pcdj.com/wp-content/uploads/2014/07/AmericanAudio_19MXR-300x225.jpg?resize=300%2C225&ssl=1)](https://i0.wp.com/www.pcdj.com/wp-content/uploads/2014/07/AmericanAudio%5F19MXR.jpg?ssl=1)incorporate all the controller and mixer controls in one (_usually less than compact_) device. Large jog wheels are present so DJs that scratch have something similar to vinyl to grab and manipulate, and much of the time they take up significant real estate. For mobile DJs, much of the time that’s a waste of space, especially since many still use 19″ rackmount setups/cases.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 We get calls all the time from DJs looking for a DJ controller that can fit in their already configured 19″ setup, and options have dwindled immensely over the last 5 years. The Denon DN-HC4500 was a great 19″ option, but is now difficult to find. Enter the American Audio MXR19 – a $299 4-channel USB midi controller, mixer and audio card in one; a perfect solution for mobile DJs that need simple DJ controller controls, and a mixer with 3 mic inputs. We’ve already pre-mapped it to DEX 2 (and 3) and RED Mobile 2, so it’s plug and play right out of the box.
@@ -49,7 +49,7 @@ Here’s a full list of features as provided by American Audio:
 [![MXR-19](https://i1.wp.com/www.pcdj.com/wp-content/uploads/2014/07/MXR-19-710x270.jpg?resize=710%2C270&ssl=1)](https://i0.wp.com/www.pcdj.com/wp-content/uploads/2014/07/MXR-19.jpg?ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **American Audio MXR-19 19″ 4-Channel DJ Mixer**
@@ -89,7 +89,7 @@ We liked the fit for our mobile DJ customers so much we’ve just become a deale
 _Have questions about the American Audio MXR19? Feel free to ask questions in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -111,18 +111,16 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2014/07/mxr19coverimage.jpg?fit=53
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-viral-video-round-up-a-list-of-todays-favorites-on-fb/"><u>[New] 2024 Approved Viral Video Round-Up A List of Today's Favorites on FB</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-youtube-outro-kings-6-top-suggestions/"><u>[New] In 2024, Free YouTube Outro Kings 6 TOP Suggestions</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/high-definition-star-citizen-visuals-ultimate-collection-of-wallpapers-and-desktop-icons-yl-computings-premium-image-library/"><u>High-Definition Star Citizen Visuals: Ultimate Collection of Wallpapers & Desktop Icons - YL Computing's Premium Image Library</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-itel-p55-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Itel P55 without App | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-did-your-apple-iphone-xs-max-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>In 2024, Did Your Apple iPhone XS Max Passcode Change Itself? Unlock It Now</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-from-standard-to-spectacular-the-transformative-power-of-high-dynamic-range/"><u>In 2024, From Standard to Spectacular The Transformative Power of High Dynamic Range</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-atandt-apple-iphone-se-2020-with-3-methods-by-drfone-ios/"><u>In 2024, How to Unlock AT&T Apple iPhone SE (2020) with 3 Methods</u></a></li>
-<li><a href="https://facebook.techidaily.com/mastering-image-descriptions-for-fb-posts/"><u>Mastering Image Descriptions for FB Posts</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/modifying-your-computers-sound-settings-a-guide-by-yl-software/"><u>Modifying Your Computer's Sound Settings: A Guide by YL Software</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/troubleshooting-steps-for-unrecognized-gpus-on-windows-systems-with-yls-expert-advice/"><u>Troubleshooting Steps for Unrecognized GPUs on Windows Systems with YL's Expert Advice</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/troubleshooting-steps-for-your-scanner-connection-issues-a-comprehensive-guide-yl-computing/"><u>Troubleshooting Steps for Your Scanner Connection Issues: A Comprehensive Guide - YL Computing</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/ultimate-tech-advice-how-to-successfully-upgrade-your-machine-with-new-hardware-insights-from-yl-computing/"><u>Ultimate Tech Advice: How To Successfully Upgrade Your Machine with New Hardware Insights From YL Computing</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-new-macos-15-capabilities-how-to-benefit-from-the-latest-upgrade-on-your-apple-macbook-insights/"><u>Unveiling New MacOS 15 Capabilities: How to Benefit From the Latest Upgrade on Your Apple MacBook - Insights</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-dissecting-the-marketplace-does-inshot-dominate-editing-for-2024/"><u>[New] Dissecting the Marketplace Does InShot Dominate Editing for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-explore-our-curated-top-12-click-based-pc-titles-for-2024/"><u>[Updated] Explore Our Curated Top 12 Click-Based PC Titles for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-youtube-policies-versus-creative-commons-a-comparative-study/"><u>[Updated] In 2024, Youtube Policies Versus Creative Commons A Comparative Study</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/10-best-free-video-conferencing-tools-for-business-and-education-for-2024/"><u>10 Best Free Video Conferencing Tools for Business and Education for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/for-newcomers-discover-these-essential-gopro-upgrades/"><u>For Newcomers, Discover These Essential GoPro Upgrades</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/she-hulk-legal-eagle-on-the-rise-stunning-hd-wallpapers-and-backgrounds-for-fans-inspired-by-attorney-at-law-series-yl-creations/"><u>She-Hulk: Legal Eagle on the Rise - Stunning HD Wallpapers & Backgrounds for Fans, Inspired by 'Attorney at Law' Series (YL Creations)</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/step-by-step-guide-updating-your-pcs-sound-card-drivers-on-windows-tips-from-yl-computing/"><u>Step-by-Step Guide: Updating Your PC's Sound Card Drivers on Windows - Tips From YL Computing</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-eradicate-critical-error-scams-from-your-google-chrome-browser-now/"><u>Step-by-Step Solutions: Eradicate Critical Error Scams From Your Google Chrome Browser Now</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/understanding-the-potential-pitfalls-navigating-risk-when-investing-in-digital-currencies-insights-by-yl-computing/"><u>Understanding the Potential Pitfalls: Navigating Risk When Investing in Digital Currencies - Insights by YL Computing</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/windows-groove-with-you-by-changing-language-settings-easily/"><u>Windows Groove with You by Changing Language Settings Easily!</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/yl-computings-empire-state-wallpapers-unleash-your-pcs-potential/"><u>YL Computing's Empire State Wallpapers: Unleash Your PC’s Potential</u></a></li>
 </ul></div>
 
