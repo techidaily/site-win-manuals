@@ -1,7 +1,7 @@
 ---
 title: Halloween Shader Tricks on DEX amoPro - Stunning Overlay Designs Revealed!
-date: 2024-12-10T10:05:54.017Z
-updated: 2024-12-15T01:27:28.829Z
+date: 2024-12-18T07:51:19.077Z
+updated: 2024-12-23T19:04:32.913Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ Get creative and build an overlay using an image (or text) and a Halloween video
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here are the steps we used to create the demonstration above:
@@ -39,7 +39,7 @@ Using the combination of Shaders and Overlays allows you to create wicked cool H
 _Have questions about using **Shaders** in our **DEX 3 DJ software**, or how to **overlays**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -61,17 +61,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/10/halloween-cover-image-shad
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-best-online-destinations-for-sparkling-and-metallic-letters-for-2024/"><u>[New] Best Online Destinations for Sparkling and Metallic Letters for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-transform-your-content-simple-steps-to-change-numbers-on-tiktok/"><u>[New] In 2024, Transform Your Content Simple Steps to Change Numbers on TikTok</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-viral-video-ventures-crafting-addictive-loops-on-ig/"><u>[Updated] In 2024, Viral Video Ventures Crafting Addictive Loops on IG</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-uploading-youtube-vids-seamlessly-on-instagram/"><u>[Updated] Uploading YouTube Vids Seamlessly on Instagram</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-quick-sequences-with-gopro-burst/"><u>2024 Approved Mastering Quick Sequences with GoPro Burst</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/boost-your-computers-efficiency-tips-and-tricks-from-yl-software/"><u>Boost Your Computer's Efficiency: Tips & Tricks From YL Software</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/elevate-your-desktop-with-premium-4k-love-wallpaper-designs-from-yl-software/"><u>Elevate Your Desktop with Premium 4K Love Wallpaper Designs From YL Software</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/experience-a-thousand-lifetimes-at-maximum-strength-with-yl-softwares-slaying-adventures/"><u>Experience a Thousand Lifetimes at Maximum Strength with YL Software's Slaying Adventures!</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-webm-video-optimization-best-online-compression-software/"><u>New WebM Video Optimization Best Online Compression Software</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/personalizing-your-start-menu-in-windows-11-a-comprehensive-guide-by-yl-computing/"><u>Personalizing Your Start Menu in Windows 11: A Comprehensive Guide - By YL Computing</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/the-best-free-mp4-video-splitters-and-cutters-for-2024/"><u>The Best Free MP4 Video Splitters and Cutters for 2024</u></a></li>
-<li><a href="https://discover-help.techidaily.com/top-free-video-converters-for-windows-11-in-2020-ultra-hd-to-4k-conversion-guide/"><u>Top Free Video Converters for Windows 11 in 2020 - Ultra HD to 4K Conversion Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-streaming-hd-1080p-on-facebook-tips-and-tricks-for-2024/"><u>[New] Streaming HD 1080P on Facebook Tips and Tricks for 2024</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/1-effective-techniques-for-finding-files-on-your-pc-a-guide-by-yl-computing/"><u>1. Effective Techniques for Finding Files on Your PC: A Guide by YL Computing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/a-comprehensive-tutorial-on-activating-and-deactivating-windows-1ns-secure-login-setting/"><u>A Comprehensive Tutorial on Activating and Deactivating Windows 1N's Secure Login Setting</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/discover-how-to-enumerate-every-installed-application-on-your-windows-system-tips-by-yl-computing/"><u>Discover How to Enumerate Every Installed Application on Your Windows System - Tips by YL Computing</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/expert-fixes-for-windows-update-glitches-essential-advice-from-yl-software-experts/"><u>Expert Fixes for Windows Update Glitches - Essential Advice From YL Software Experts</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-drag-tabs-out-from-file-explorer-in-windows-11/"><u>How to Drag Tabs Out From File Explorer in Windows 11</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/identifying-hardware-issues-a-step-by-step-guide-from-yl-computing/"><u>Identifying Hardware Issues: A Step-by-Step Guide From YL Computing</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-3-ways-to-export-contacts-from-apple-iphone-12-to-excel-csv-and-vcard-easily-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 3 Ways to Export Contacts from Apple iPhone 12 to Excel CSV & vCard Easily | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-tecno-camon-20-pro-5g-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Tecno Camon 20 Pro 5G Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-the-potential-with-samsungs-latest-photo-editor/"><u>In 2024, Unlocking the Potential with Samsung's Latest Photo Editor</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/maximizing-efficiency-ultimate-techniques-for-computer-optimization-by-yl-software-pros/"><u>Maximizing Efficiency: Ultimate Techniques for Computer Optimization by YL Software Pros</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/navigating-financial-storage-how-cryptocurrency-wallets-differ-from-traditional-bank-accounts-expert-analysis-by-yl-software/"><u>Navigating Financial Storage: How Cryptocurrency Wallets Differ From Traditional Bank Accounts – Expert Analysis by YL Software</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/quick-guide-locating-and-opening-windows-control-panel-via-taskbar-expert-tips-by-yl-computing/"><u>Quick Guide: Locating and Opening Windows Control Panel via Taskbar - Expert Tips by YL Computing</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/streamline-your-digital-asset-tracking-discover-yls-method-for-checking-multiple-crypto-wallets-at-a-glance/"><u>Streamline Your Digital Asset Tracking: Discover YL's Method for Checking Multiple Crypto Wallets at a Glance!</u></a></li>
+<li><a href="https://android-frp.techidaily.com/top-5-motorola-moto-g34-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Motorola Moto G34 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1727783875959-top-rated-waterproof-smartwatches-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Rated Waterproof Smartwatches : Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/understanding-the-potential-pitfalls-a-guide-to-cryptocurrency-investment-risks-yl-computing/"><u>Understanding the Potential Pitfalls: A Guide to Cryptocurrency Investment Risks - YL Computing</u></a></li>
 </ul></div>
 

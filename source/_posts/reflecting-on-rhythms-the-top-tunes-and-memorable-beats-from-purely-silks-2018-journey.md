@@ -1,7 +1,7 @@
 ---
 title: "Reflecting on Rhythms: The Top Tunes and Memorable Beats From Purely Silk's 2018 Journey"
-date: 2024-12-08T18:53:28.239Z
-updated: 2024-12-15T06:59:22.899Z
+date: 2024-12-17T18:46:23.248Z
+updated: 2024-12-23T17:48:12.036Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ At the conclusion of each year we take a look back at he milestones and accompli
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2018 PCDJ Milestones
@@ -56,7 +56,7 @@ At the conclusion of each year we take a look back at he milestones and accompli
 Stay tuned in for an upcoming blog post that will cover some of our goals for 2019, and beyond!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -78,18 +78,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/12/pcdj-2018-yearinreview.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-exploring-photo-perfection-can-picku-be-top-for-android-users-for-2024/"><u>[New] Exploring Photo Perfection Can PickU Be Top for Android Users for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-pushing-the-boundaries-of-titles-in-adobe-ae/"><u>[New] In 2024, Pushing the Boundaries of Titles in Adobe AE</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-an-easy-to-follow-methodology-for-initiating-a-productive-skype-conversation-among-various-os-users/"><u>[Updated] In 2024, An Easy-to-Follow Methodology for Initiating a Productive Skype Conversation Among Various OS Users</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/download-dex-3207-now-enhanced-features-with-latest-controller-integration-and-upgrades/"><u>Download DEX 3.20.7 Now: Enhanced Features with Latest Controller Integration & Upgrades!</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/expert-tips-for-fixing-non-reactive-applications-by-yl-software-team/"><u>Expert Tips for Fixing Non-Reactive Applications by YL Software Team</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/google-meetings-archive/"><u>Google Meetings Archive</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/how-does-windows-experience-memory-malfunctions-expert-analysis-by-yl-software/"><u>How Does Windows Experience Memory Malfunctions? Expert Analysis by YL Software</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-vivo-s17t-by-drfone-android/"><u>How to Bypass FRP from Vivo S17t?</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-the-ultimate-youtube-camera-buying-guide/"><u>In 2024, The Ultimate YouTube Camera Buying Guide</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/optimizing-your-youtube-content-how-to-ensure-full-platform-compatibility-and-overcome-upload-restrictions/"><u>Optimizing Your YouTube Content: How to Ensure Full Platform Compatibility and Overcome Upload Restrictions</u></a></li>
-<li><a href="https://fox-that.techidaily.com/soundless-airpod-woes-discover-these-essential-fixes/"><u>Soundless AirPod Woes? Discover These Essential Fixes!</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/troubleshooting-audio-issues-a-guide-to-resolving-your-pcs-sound-problems-tips-from-yl-computing/"><u>Troubleshooting Audio Issues: A Guide to Resolving Your PC's Sound Problems - Tips From YL Computing</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/understanding-your-printers-persistent-setup-issues-insights-from-yl-computing/"><u>Understanding Your Printer's Persistent Setup Issues: Insights From YL Computing</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-social-laughter-downloaded-iphoneandroid-tutorial-for-gifs-for-2024/"><u>[New] Social Laughter Downloaded IPhone/Android Tutorial for GIFS for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-unveiling-the-secrets-of-av1-codec-mastery-for-2024/"><u>[New] Unveiling the Secrets of AV1 Codec Mastery for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-fast-track-mastering-the-download-of-hd-fb-content/"><u>[Updated] Fast Track Mastering the Download of HD FB Content</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-realms-rhythms-top-sites-ranked-for-game-of-thrones-audio-calls/"><u>[Updated] The Realm's Rhythms Top Sites Ranked for Game of Thrones Audio Calls</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-proven-techniques-for-uploading-and-displaying-imovie-films-on-vimeo/"><u>2024 Approved Proven Techniques for Uploading and Displaying iMovie Films on Vimeo</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-the-connection-failed-glitch-in-hitman-3-solutions-that-work/"><u>Beat the 'Connection Failed' Glitch in Hitman 3 - Solutions That Work!</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/deciding-on-digital-pages-a-detailed-comparison-between-ipads-kindles-and-nooks/"><u>Deciding on Digital Pages: A Detailed Comparison Between iPads, Kindles and Nooks</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/diagnosing-and-fixing-memory-related-hardware-problems-in-windows-tips-from-yl-computing/"><u>Diagnosing and Fixing Memory-Related Hardware Problems in Windows - Tips From YL Computing</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/ensuring-your-scanner-works-seamlessly-with-your-pc-a-comprehensive-guide-by-yl-computing/"><u>Ensuring Your Scanner Works Seamlessly With Your PC: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-journey-to-cohesion-expert-tips-for-using-inshots-transition-tools/"><u>In 2024, Journey to Cohesion Expert Tips for Using Inshot's Transition Tools</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/protecting-your-crypto-investments-expert-tips-from-yl-software/"><u>Protecting Your Crypto Investments: Expert Tips From YL Software</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/resolving-an-empty-display-issue-on-your-desktop-essential-tips-by-yl-software-experts/"><u>Resolving an Empty Display Issue on Your Desktop: Essential Tips by YL Software Experts</u></a></li>
+<li><a href="https://article-tips.techidaily.com/streamlining-production-processes-a-magix-video-pro-x-perspective/"><u>Streamlining Production Processes A Magix Video Pro X Perspective</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/troubleshooting-how-to-fix-scanners-unrecognized-by-windows-systems-with-tips-from-yl-software/"><u>Troubleshooting: How to Fix Scanners Unrecognized by Windows Systems with Tips From YL Software</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/understanding-scanner-functions-how-to-fix-auto-save-problems-with-yl-computing-solutions/"><u>Understanding Scanner Functions: How to Fix Auto-Save Problems with YL Computing Solutions</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/verifying-your-systems-memory-functionality-expert-advice-from-yl-computing-and-yl-software/"><u>Verifying Your System's Memory Functionality: Expert Advice From YL Computing & YL Software</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/windows-users-handbook-effortlessly-craft-your-own-text-documents-expert-advice-from-yl-computing/"><u>Windows User's Handbook: Effortlessly Craft Your Own Text Documents - Expert Advice From YL Computing</u></a></li>
 </ul></div>
 

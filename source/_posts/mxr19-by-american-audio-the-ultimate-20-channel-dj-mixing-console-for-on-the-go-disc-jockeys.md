@@ -1,7 +1,7 @@
 ---
 title: "MXR19 by American Audio: The Ultimate 20-Channel DJ Mixing Console for On-the-Go Disc Jockeys"
-date: 2024-12-11T09:52:10.336Z
-updated: 2024-12-15T08:39:34.443Z
+date: 2024-12-17T21:06:07.392Z
+updated: 2024-12-23T19:09:05.124Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/ea52c7c75e7b3032041ebf8f7a073a81be8689646
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### PCDJ had two of the earliest [DJ controllers](https://tools.techidaily.com/pcdj/products/) on the market in the DAC-2 and DAC-3 controllers. Both were 19″ rackmount controllers that were simple yet effective in controlling our [DJ software](https://tools.techidaily.com/pcdj/products/).
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/ea52c7c75e7b3032041ebf8f7a073a81be8689646
 DJ controllers have evolved tremendously since then, with every major DJ equipment manufacturer offering a full line of options. The trend lately is to ditch the 19″ rack style controller for table top designs that [![AmericanAudio_19MXR](https://i0.wp.com/www.pcdj.com/wp-content/uploads/2014/07/AmericanAudio_19MXR-300x225.jpg?resize=300%2C225&ssl=1)](https://i0.wp.com/www.pcdj.com/wp-content/uploads/2014/07/AmericanAudio%5F19MXR.jpg?ssl=1)incorporate all the controller and mixer controls in one (_usually less than compact_) device. Large jog wheels are present so DJs that scratch have something similar to vinyl to grab and manipulate, and much of the time they take up significant real estate. For mobile DJs, much of the time that’s a waste of space, especially since many still use 19″ rackmount setups/cases.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 We get calls all the time from DJs looking for a DJ controller that can fit in their already configured 19″ setup, and options have dwindled immensely over the last 5 years. The Denon DN-HC4500 was a great 19″ option, but is now difficult to find. Enter the American Audio MXR19 – a $299 4-channel USB midi controller, mixer and audio card in one; a perfect solution for mobile DJs that need simple DJ controller controls, and a mixer with 3 mic inputs. We’ve already pre-mapped it to DEX 2 (and 3) and RED Mobile 2, so it’s plug and play right out of the box.
@@ -49,7 +49,7 @@ Here’s a full list of features as provided by American Audio:
 [![MXR-19](https://i1.wp.com/www.pcdj.com/wp-content/uploads/2014/07/MXR-19-710x270.jpg?resize=710%2C270&ssl=1)](https://i0.wp.com/www.pcdj.com/wp-content/uploads/2014/07/MXR-19.jpg?ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **American Audio MXR-19 19″ 4-Channel DJ Mixer**
@@ -89,7 +89,7 @@ We liked the fit for our mobile DJ customers so much we’ve just become a deale
 _Have questions about the American Audio MXR19? Feel free to ask questions in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -111,16 +111,20 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2014/07/mxr19coverimage.jpg?fit=53
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-dissecting-the-marketplace-does-inshot-dominate-editing-for-2024/"><u>[New] Dissecting the Marketplace Does InShot Dominate Editing for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-explore-our-curated-top-12-click-based-pc-titles-for-2024/"><u>[Updated] Explore Our Curated Top 12 Click-Based PC Titles for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-youtube-policies-versus-creative-commons-a-comparative-study/"><u>[Updated] In 2024, Youtube Policies Versus Creative Commons A Comparative Study</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/10-best-free-video-conferencing-tools-for-business-and-education-for-2024/"><u>10 Best Free Video Conferencing Tools for Business and Education for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/for-newcomers-discover-these-essential-gopro-upgrades/"><u>For Newcomers, Discover These Essential GoPro Upgrades</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/she-hulk-legal-eagle-on-the-rise-stunning-hd-wallpapers-and-backgrounds-for-fans-inspired-by-attorney-at-law-series-yl-creations/"><u>She-Hulk: Legal Eagle on the Rise - Stunning HD Wallpapers & Backgrounds for Fans, Inspired by 'Attorney at Law' Series (YL Creations)</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/step-by-step-guide-updating-your-pcs-sound-card-drivers-on-windows-tips-from-yl-computing/"><u>Step-by-Step Guide: Updating Your PC's Sound Card Drivers on Windows - Tips From YL Computing</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solutions-eradicate-critical-error-scams-from-your-google-chrome-browser-now/"><u>Step-by-Step Solutions: Eradicate Critical Error Scams From Your Google Chrome Browser Now</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/understanding-the-potential-pitfalls-navigating-risk-when-investing-in-digital-currencies-insights-by-yl-computing/"><u>Understanding the Potential Pitfalls: Navigating Risk When Investing in Digital Currencies - Insights by YL Computing</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/windows-groove-with-you-by-changing-language-settings-easily/"><u>Windows Groove with You by Changing Language Settings Easily!</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/yl-computings-empire-state-wallpapers-unleash-your-pcs-potential/"><u>YL Computing's Empire State Wallpapers: Unleash Your PC’s Potential</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-how-to-optimize-your-youtube-shorts-templates-effectively/"><u>[Updated] 2024 Approved How to Optimize Your YouTube Shorts Templates Effectively</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-amplifying-online-presence-focusing-on-details/"><u>[Updated] Amplifying Online Presence Focusing on Details</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-add-video-filters-in-zoom/"><u>2024 Approved How To Add Video Filters In Zoom</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/adjust-datetime-settings-easily-in-the-windows-control-panel-with-our-expert-instructions-from-yl-software/"><u>Adjust Date/Time Settings Easily in the Windows Control Panel with Our Expert Instructions From YL Software</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/enhancing-pc-efficiency-top-tips-for-superior-system-speed-and-stability-the-yl-guide/"><u>Enhancing PC Efficiency: Top Tips for Superior System Speed & Stability - The YL Guide</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/expert-advice-on-fixing-driver-errors-with-yls-troubleshooting-strategies-for-optimal-computer-performance/"><u>Expert Advice on Fixing Driver Errors with YL's Troubleshooting Strategies for Optimal Computer Performance</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-budget-friendly-high-quality-gaming-keyboards-unveiled/"><u>In 2024, Budget-Friendly, High-Quality Gaming Keyboards Unveiled</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-unraveling-the-top-8-premium-free-srt-translation-websites/"><u>In 2024, Unraveling the Top 8 Premium Free SRT Translation Websites</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/mastering-windows-network-settings-management-with-expert-advice-from-yl-software-solutions/"><u>Mastering Window's Network Settings Management with Expert Advice From YL Software Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/minimizing-multitasking-back-end-load-in-windows/"><u>Minimizing Multitasking Back-End Load in Windows</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/sonys-shutterbug-fixing-the-no-video-fiasco-for-2024/"><u>Sony's Shutterbug Fixing the No-Video Fiasco for 2024</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/troubleshooting-and-resolving-no-internet-access-in-your-hyper-v-virtual-machine-on-windows-1011-expert-guidance/"><u>Troubleshooting and Resolving No Internet Access in Your Hyper-V Virtual Machine on Windows 10/11: Expert Guidance</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unravel-the-secrets-to-sequential-video-viewing-no-charges-for-2024/"><u>Unravel the Secrets to Sequential Video Viewing (No Charges) for 2024</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/unveiling-the-reasons-behind-a-stationary-cpu-fan-insights-from-yl-computing/"><u>Unveiling the Reasons Behind a Stationary CPU Fan: Insights From YL Computing</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/yl-software-tutorial-easily-saving-your-word-files-as-pdfs-on-any-computer/"><u>YL Software Tutorial: Easily Saving Your Word Files as PDFs on Any Computer</u></a></li>
 </ul></div>
 
