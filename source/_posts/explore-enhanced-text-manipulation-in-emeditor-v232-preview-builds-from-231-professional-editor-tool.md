@@ -1,7 +1,7 @@
 ---
 title: Explore Enhanced Text Manipulation in EmEditor v23.2 Preview (Builds From 23.1) – Professional Editor Tool
-date: 2024-11-28T18:48:20.962Z
-updated: 2024-11-30T22:26:03.232Z
+date: 2024-12-28T18:32:09.004Z
+updated: 2024-12-29T22:03:32.111Z
 tags:
   - product
 categories:
@@ -30,7 +30,7 @@ Please post any questions or comments in this forum, or Contact us. Thank you fo
 If you use the installer version, please select **Customize Update Checker** on the **Help** menu, and set the **Include preview versions** in order to update automatically to future preview versions. Preview versions can also be downloaded at [Previous versions](https://tools.techidaily.com/emeditor/products/).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### preview 1 (23.1.901) – January 31, 2023
@@ -42,20 +42,16 @@ If you use the installer version, please select **Customize Update Checker** on 
  – Added the **eeExFindNoOverlap** flag to the **Find** method. \[P\]  
  – [The new version will not scroll horizontally when a solution is opened in the **Projects** plug-in.](https://tools.techidaily.com/emeditor/products/)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### preview 2 (23.1.902) – February 12, 2024
 – Added the **Max column width** text box to the **CSV Options** page of the **Customize** dialog box.  
  – Fixed various issues and improved the stability.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### preview 3 (23.1.903) – February 14, 2024
 – Improved the speed of the **Increase Line Indent** and **Decrease Line Indent** commands.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### preview 4 (23.1.904) – February 21, 2024
 – Added the **Copy All to Left** and **Copy All to Right** commands. \[PF\]  
@@ -73,11 +69,15 @@ If you use the installer version, please select **Customize Update Checker** on 
  – Added the **ChatAI.jsee** macro.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### preview 8 (23.1.908) – February 25, 2024
 – Renamed **ChatAI.jsee** to **AI.jsee**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### preview 10 (23.1.910) – February 26, 2024
 – Made the **Retrieve Windows Clipboard History on Startup** option turned off by default  
@@ -85,7 +85,7 @@ If you use the installer version, please select **Customize Update Checker** on 
  – Improved the AI.jsee macro.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### preview 11 (23.1.911) – February 27, 2024
@@ -116,22 +116,21 @@ Viewing 1 post (of 1 total)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-scriptwriting-the-art-of-utilizing-slug-lines/"><u>[New] 2024 Approved Scriptwriting The Art of Utilizing Slug Lines</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-chatcam-save-extractor-for-facebook-for-2024/"><u>[Updated] ChatCam Save Extractor for Facebook for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-amplify-and-illuminate-online-videos-with-these-5-aids/"><u>2024 Approved Amplify and Illuminate Online Videos with These 5 Aids</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-obs-settings-for-smooth-skype-video-streaming/"><u>2024 Approved OBS Settings for Smooth Skype Video Streaming</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/2024-wie-sie-ihre-wichtigsten-daten-effizient-von-computer-auf-usb-speicher-ubertragen-konnen/"><u>2024: Wie Sie Ihre Wichtigsten Daten Effizient Von Computer Auf USB-Speicher Übertragen Können</u></a></li>
-<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-xiaomi-redmi-k70-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/windows-1011-5/"><u>选择对 Windows 10/11 友好：市场上顶级 5 种免费文件恢复解决方案</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/easy-backup-techniques-for-switching-qnap-nas-systems-without-cost/"><u>Easy Backup Techniques for Switching QNAP NAS Systems Without Cost</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/how-to-save-files-on-external-hard-drive-in-windows-11-a-step-by-step-guide/"><u>How to Save Files on External Hard Drive in Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/memungkinkan-iphone-mempertahankan-catatan-cara-mengembalikan-foto-yang-kehilangan-secara-akrab/"><u>Memungkinkan iPhone Mempertahankan Catatan: Cara Mengembalikan Foto Yang Kehilangan Secara Akrab</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-through-the-complexities-of-high-dpi-settings/"><u>Navigating Through the Complexities of High-DPI Settings</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-glitch-effect-with-filmora/"><u>New How to Make Glitch Effect with Filmora</u></a></li>
-<li><a href="https://extra-information.techidaily.com/photoshop-lightroom-alternative-insights/"><u>Photoshop Lightroom Alternative Insights</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/reseating-the-system-partition-in-windows-11-a-detailed-guide-for-moving-it-to-a-fresh-storage-device/"><u>Reseating the System Partition in Windows 11: A Detailed Guide for Moving It to a Fresh Storage Device</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/1728499602836-samsung-t7/"><u>Samsung T7 重置指南与更简单的选择 - 一站式解答</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/ultimate-guide-to-migrating-your-hard-disk-content-onto-a-western-digital-ssd-using-leading-cloning-programs/"><u>Ultimate Guide to Migrating Your Hard Disk Content Onto a Western Digital SSD Using Leading Cloning Programs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-security-installing-kali-on-a-windows-machine/"><u>Unlocking Security: Installing Kali on a Windows Machine</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-fast-friending-mastering-the-art-of-profile-searches/"><u>[New] 2024 Approved Fast Friending Mastering the Art of Profile Searches</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-navigating-the-online-marketplace-for-profitable-yt-content/"><u>[New] In 2024, Navigating the Online Marketplace for Profitable YT Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-authenticate-your-yt-account-a-hint-list/"><u>[Updated] How to Authenticate Your YT Account? A Hint List</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-picture-perfect-in-the-sky-discover-infinite-complimentary-and-paid-cloud-repositories/"><u>2024 Approved Picture Perfect in the Sky Discover Infinite, Complimentary, & Paid Cloud Repositories</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-selecting-the-best-video-monitors-for-ps5/"><u>2024 Approved Selecting the Best Video Monitors for PS5</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-canon-drivers-with-simplicity-on-windows-systems/"><u>Download & Update Canon Drivers with Simplicity on Windows Systems!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/eco-friendly-visual-templates-for-editors-for-2024/"><u>Eco-Friendly Visual Templates for Editors for 2024</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/effiziente-synchronisierung-von-dateien-mit-robocopy-und-windows-aufgabenplanen/"><u>Effiziente Synchronisierung Von Dateien Mit Robocopy Und Windows-Aufgabenplänen</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/fixing-issues-with-outlook-how-to-restore-access-to-your-most-recent-emails/"><u>Fixing Issues with Outlook: How to Restore Access to Your Most Recent Emails</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/harness-the-power-of-cookiebot-next-gen-personalization-for-your-website/"><u>Harness the Power of Cookiebot: Next-Gen Personalization for Your Website</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/how-to-sync-two-external-hard-drives-in-windows-11-a-step-by-step-guide/"><u>How to Sync Two External Hard Drives in Windows 11 - A Step-by-Step Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/miroir-synchronization-perfecting-mirrored-data-alignment/"><u>Miroir Synchronization: Perfecting Mirrored Data Alignment</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/professionelle-anleitungen-fur-das-erhohen-der-speicherkapazitat-ssd-in-lenovo-yoga-730-13-zoll/"><u>Professionelle Anleitungen Für Das Erhöhen Der Speicherkapazität: SSD in Lenovo Yoga 730 13 Zoll</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/step-by-step-strategy-retrieving-disappeared-fonts-following-the-windows-10-creators-update/"><u>Step-by-Step Strategy: Retrieving Disappeared Fonts Following the Windows 10 Creator's Update</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/was-tun-wenn-ssd-nicht-mehr-erkannt-wird-datenrettungsstrategien/"><u>Was Tun, Wenn SSD Nicht Mehr Erkannt Wird - Datenrettungsstrategien</u></a></li>
 </ul></div>
 
