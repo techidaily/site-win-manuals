@@ -1,7 +1,7 @@
 ---
 title: "Beta Version 3.10.0.1 of the NEW DEX Released: Enhanced with a Built-In Filler Audio Player!"
-date: 2024-12-28T00:58:53.109Z
-updated: 2024-12-29T19:35:23.932Z
+date: 2025-01-04T01:20:42.686Z
+updated: 2025-01-08T21:03:02.113Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ As last weeks update was, the new DEX 3 Pro version 3.10.0.1 is a [public beta](
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Updated in DEX 3 Pro Version 3.10.0.1 (Since 3.10)
@@ -64,7 +64,7 @@ _**IMPORTANT NOTES:** With your existing version of DEX 3 Pro closed, download a
 _Have questions about the **new version of DEX 3 Pro** or the new **karaoke features**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -86,22 +86,19 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/03/DEX31001DOWNLOAD-template.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ecome-a-short-form-video-star-with-these-10-proven-methods-for-2024/"><u>[New] Become a Short-Form Video Star with These 10 Proven Methods for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-turbocharging-your-journey-10-must-have-srt-converters/"><u>[New] Turbocharging Your Journey 10 Must-Have SRT Converters</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-a-list-top-desktops-for-enthusiasts/"><u>[Updated] A-List Top Desktops for Enthusiasts</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-superior-choice-of-steadicams-for-drone-video-shootings/"><u>[Updated] Superior Choice of Steadicams for Drone Video Shootings</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/access-fresh-karaoke-tracks-every-week-with-our-subscription-featuring-new-releases-by-party-tyme-june-6th-update/"><u>Access Fresh Karaoke Tracks Every Week with Our Subscription! Featuring New Releases by Party Tyme (June 6Th Update)</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/can-you-stay-safe-online-with-just-windows-defender-against-viruses-and-malware-insights-from-yl-computing/"><u>Can You Stay Safe Online with Just Windows Defender Against Viruses & Malware? Insights From YL Computing</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/demystifying-blockchain-technology-the-role-of-mining-in-crypto-networks-yl-software/"><u>Demystifying Blockchain Technology: The Role of Mining in Crypto Networks - YL Software</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/easy-steps-for-tailoring-your-pcs-sound-settings-with-windows-control-panel-yl-software-solutions/"><u>Easy Steps for Tailoring Your PC's Sound Settings with Windows Control Panel - YL Software Solutions</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/easy-steps-to-set-up-windows-defender-on-your-latest-pc-a-guide-by-yl-computing/"><u>Easy Steps to Set Up Windows Defender on Your Latest PC: A Guide by YL Computing</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/site-couple-clips-the-best-weddings-online-8-picks/"><u>Exquisite Couple Clips The Best Weddings Online (8 Picks)</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-oneplus-ace-2-frp-by-drfone-android/"><u>How Can We Bypass OnePlus Ace 2 FRP?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oneplus-nord-ce-3-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock OnePlus Nord CE 3 5G PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/master-your-data-management-securely-backing-up-and-removing-files-with-yls-tutorial/"><u>Master Your Data Management: Securely Backing Up and Removing Files with YL's Tutorial</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/mxr19-by-american-audio-the-ultimate-20-channel-dj-mixing-console-for-on-the-go-disc-jockeys/"><u>MXR19 by American Audio: The Ultimate 20-Channel DJ Mixing Console for On-the-Go Disc Jockeys</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/spotting-absent-communications-on-chatface-for-2024/"><u>Spotting Absent Communications on Chatface for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/synthesizing-stories-and-verses-a-guide-with-chatgpt/"><u>Synthesizing Stories and Verses: A Guide with ChatGPT</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/the-historical-significance-of-the-opium-wars-key-events-and-long-term-effects-insights-from-yl-software-experts/"><u>The Historical Significance of the Opium Wars: Key Events and Long-Term Effects - Insights From YL Software Experts</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/nalyzing-tseries-income-via-subscriber-engagement-on-youtube-for-2024/"><u>[New] Analyzing TSeries’ Income via Subscriber Engagement on YouTube for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-skyline-your-tweets-elevating-twitter-streams-for-2024/"><u>[New] Skyline Your Tweets Elevating Twitter Streams for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-screenshot-mastery-using-ezvid-video-makers-pro-tips-and-tricks-for-2024/"><u>[Updated] Screenshot Mastery Using Ezvid Video Maker's Pro Tips and Tricks for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-simple-windows-11-techniques-for-video-editing-for-2024/"><u>[Updated] Simple Windows 11 Techniques for Video Editing for 2024</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/1-efficient-strategies-for-selective-onedrive-folder-backups/"><u>1. Efficient Strategies for Selective OneDrive Folder Backups</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovative-visionaries-choice-top-10-graphics-creation-apps/"><u>2024 Approved Innovative Visionaries' Choice Top 10 Graphics Creation Apps</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/batch-conversion-guide-transforming-ogg-files-into-wma-format/"><u>Batch Conversion Guide: Transforming OGG Files Into WMA Format</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/dateiverwaltung-verbessern-lerne-wie-windows-11-automatisch-geloschte-dateien-verwaltet-und-verhindert-werden-konnen/"><u>Dateiverwaltung Verbessern: Lerne, Wie Windows 11 Automatisch Gelöschte Dateien Verwaltet Und Verhindert Werden Können</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/error-404-the-pages-youre-looking-for-cannot-be-located/"><u>Error 404: The Pages You're Looking For Cannot Be Located</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/experts-reveal-the-leading-windows-data-recovery-tools-discover-how-yl-software-can-help-you-safeguard-your-files/"><u>Experts Reveal the Leading Windows Data Recovery Tools – Discover How YL Software Can Help You Safeguard Your Files</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/from-ar-goggles-to-advanced-xr-solutions-google-pivots-strategy-away-from-hardware-towards-innovative-software-development/"><u>From AR Goggles to Advanced XR Solutions: Google Pivots Strategy Away From Hardware Towards Innovative Software Development</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-mastering-video-cuts-for-instagram-feed/"><u>In 2024, Mastering Video Cuts for Instagram Feed</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/overcome-the-challenge-of-non-uploading-pictures-to-icloud-on-an-iphone-using-these-proven-strategies/"><u>Overcome the Challenge of Non-Uploading Pictures to iCloud on an iPhone Using These Proven Strategies</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/resoudre-le-probleme-des-cartes-sd-disparues-dans-windows-11-top-7-solutions-pratiques/"><u>Résoudre Le Problème Des Cartes SD Disparues Dans Windows 11: Top 7 Solutions Pratiques</u></a></li>
 </ul></div>
 

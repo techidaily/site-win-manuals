@@ -1,7 +1,7 @@
 ---
 title: Halloween Shader Tricks on DEX amoPro - Stunning Overlay Designs Revealed!
-date: 2024-12-24T16:35:21.478Z
-updated: 2024-12-30T00:42:03.219Z
+date: 2025-01-03T19:48:23.835Z
+updated: 2025-01-09T04:31:23.970Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ Get creative and build an overlay using an image (or text) and a Halloween video
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here are the steps we used to create the demonstration above:
@@ -39,7 +39,7 @@ Using the combination of Shaders and Overlays allows you to create wicked cool H
 _Have questions about using **Shaders** in our **DEX 3 DJ software**, or how to **overlays**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -61,15 +61,17 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/10/halloween-cover-image-shad
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-finding-the-perfect-screen-recorder-for-schooling/"><u>[New] 2024 Approved Finding the Perfect Screen Recorder for Schooling</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/1-how-to-install-and-run-windows-defender-on-your-mac-a-step-by-step-guide-by-yl-computing/"><u>1. How to Install and Run Windows Defender on Your Mac - A Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/1-troubleshooting-guide-how-to-fix-an-offline-printer-status-with-yl-computing-solutions/"><u>1. Troubleshooting Guide: How to Fix an 'Offline' Printer Status with YL Computing Solutions</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/enhancing-your-cryptocurrency-experience-with-secure-digital-wallets-guided-by-yl-technology/"><u>Enhancing Your Cryptocurrency Experience with Secure Digital Wallets - Guided by YL Technology</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-tecno-camon-20-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Tecno Camon 20 FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://fox-that.techidaily.com/smartphones-and-bug-busters-why-a-fresh-start-makes-a-difference/"><u>Smartphones and Bug Busters: Why a Fresh Start Makes a Difference</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211366181--spells-for-success-deck/"><u>Spells for Success Deck | Free Book</u></a></li>
-<li><a href="https://win11.techidaily.com/techniques-to-trigger-camera-notifications-in-win11/"><u>Techniques to Trigger Camera Notifications in Win11</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/ultimate-performance-tuning-tips-for-pc-and-laptops-expert-advice-from-yl-computing/"><u>Ultimate Performance Tuning Tips for PC and Laptops - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/690457-9781846947889-wisdom-to-wellness/"><u>Wisdom to Wellness | Free Book</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-top-10-free-video-tools-cross-platform-os-support/"><u>[New] Top 10 Free Video Tools Cross-Platform OS Support</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/1-ultimate-guide-how-to-perform-imessage-backups-and-restoration-on-your-iphone-or-ipad/"><u>1. Ultimate Guide: How to Perform iMessage Backups and Restoration on Your iPhone or iPad</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/15-pioneering-youtube-tutorials-for-flawless-product-reviews/"><u>15 Pioneering YouTube Tutorials for Flawless Product Reviews</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/explorando-las-reglas-del-respaldo-y-la-copia-en-windows-7-una-guia-completa/"><u>Explorando Las Reglas Del Respaldo Y La Copia en Windows 7: Una Guía Completa</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/explore-enhanced-text-manipulation-in-emeditor-v232-preview-builds-from-231-professional-editor-tool/"><u>Explore Enhanced Text Manipulation in EmEditor v23.2 Preview (Builds From 23.1) – Professional Editor Tool</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-resolve-a-non-responsive-tablet-display-a-guide-with-8-proven-fixes/"><u>How to Resolve a Non-Responsive Tablet Display: A Guide with 8 Proven Fixes</u></a></li>
+<li><a href="https://win-updates.techidaily.com/how-to-stop-your-pc-from-hangingcrashing-expert-advice-by-yl-software/"><u>How To Stop Your PC From Hanging/Crashing: Expert Advice by YL Software</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-troubleshoot-a-non-responsive-chromecast-device/"><u>How to Troubleshoot a Non-Responsive Chromecast Device</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oneplus-12-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock OnePlus 12 Phone without Any Data Loss</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-nokia-c12-pro-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Nokia C12 Pro Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/step-by-step-tutorial-securing-vmware-vcenter-databases-through-effective-backup-strategies-for-postgresql-and-ms-sql-servers/"><u>Step-by-Step Tutorial: Securing VMware vCenter Databases Through Effective Backup Strategies for PostgreSQL and MS SQL Servers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/stop-game-crashes-with-these-confirmed-remedies-for-helldivers-ve-pc/"><u>Stop Game Crashes with These Confirmed Remedies for Helldivers Ve PC</u></a></li>
 </ul></div>
 
