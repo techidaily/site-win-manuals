@@ -1,7 +1,7 @@
 ---
 title: "Beta Version 3.10.0.1 of the NEW DEX Released: Enhanced with a Built-In Filler Audio Player!"
-date: 2025-01-04T01:20:42.686Z
-updated: 2025-01-08T21:03:02.113Z
+date: 2025-01-13T01:38:37.020Z
+updated: 2025-01-15T01:27:11.222Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ As last weeks update was, the new DEX 3 Pro version 3.10.0.1 is a [public beta](
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Updated in DEX 3 Pro Version 3.10.0.1 (Since 3.10)
@@ -64,7 +64,7 @@ _**IMPORTANT NOTES:** With your existing version of DEX 3 Pro closed, download a
 _Have questions about the **new version of DEX 3 Pro** or the new **karaoke features**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -86,19 +86,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/03/DEX31001DOWNLOAD-template.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/nalyzing-tseries-income-via-subscriber-engagement-on-youtube-for-2024/"><u>[New] Analyzing TSeries’ Income via Subscriber Engagement on YouTube for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-skyline-your-tweets-elevating-twitter-streams-for-2024/"><u>[New] Skyline Your Tweets Elevating Twitter Streams for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-screenshot-mastery-using-ezvid-video-makers-pro-tips-and-tricks-for-2024/"><u>[Updated] Screenshot Mastery Using Ezvid Video Maker's Pro Tips and Tricks for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-simple-windows-11-techniques-for-video-editing-for-2024/"><u>[Updated] Simple Windows 11 Techniques for Video Editing for 2024</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/1-efficient-strategies-for-selective-onedrive-folder-backups/"><u>1. Efficient Strategies for Selective OneDrive Folder Backups</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovative-visionaries-choice-top-10-graphics-creation-apps/"><u>2024 Approved Innovative Visionaries' Choice Top 10 Graphics Creation Apps</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/batch-conversion-guide-transforming-ogg-files-into-wma-format/"><u>Batch Conversion Guide: Transforming OGG Files Into WMA Format</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/dateiverwaltung-verbessern-lerne-wie-windows-11-automatisch-geloschte-dateien-verwaltet-und-verhindert-werden-konnen/"><u>Dateiverwaltung Verbessern: Lerne, Wie Windows 11 Automatisch Gelöschte Dateien Verwaltet Und Verhindert Werden Können</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/error-404-the-pages-youre-looking-for-cannot-be-located/"><u>Error 404: The Pages You're Looking For Cannot Be Located</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/experts-reveal-the-leading-windows-data-recovery-tools-discover-how-yl-software-can-help-you-safeguard-your-files/"><u>Experts Reveal the Leading Windows Data Recovery Tools – Discover How YL Software Can Help You Safeguard Your Files</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/from-ar-goggles-to-advanced-xr-solutions-google-pivots-strategy-away-from-hardware-towards-innovative-software-development/"><u>From AR Goggles to Advanced XR Solutions: Google Pivots Strategy Away From Hardware Towards Innovative Software Development</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-mastering-video-cuts-for-instagram-feed/"><u>In 2024, Mastering Video Cuts for Instagram Feed</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/overcome-the-challenge-of-non-uploading-pictures-to-icloud-on-an-iphone-using-these-proven-strategies/"><u>Overcome the Challenge of Non-Uploading Pictures to iCloud on an iPhone Using These Proven Strategies</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/resoudre-le-probleme-des-cartes-sd-disparues-dans-windows-11-top-7-solutions-pratiques/"><u>Résoudre Le Problème Des Cartes SD Disparues Dans Windows 11: Top 7 Solutions Pratiques</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-sierra-navigating-desktop-drives-with-ease/"><u>[New] Sierra Navigating Desktop, Drives with Ease</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/he-essential-playbook-achieving-peak-video-editing-on-youtube-studio-for-2024/"><u>[New] The Essential Playbook Achieving Peak Video Editing on YouTube Studio for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-top-tier-hd-screen-recording-technology-for-2024/"><u>[New] Top-Tier HD Screen Recording Technology for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-quick-fixes-screen-recording-snapchat-hacks/"><u>[Updated] 2024 Approved Quick Fixes Screen Recording Snapchat Hacks</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/6zu75b2x5psd5yop5qmf6zmj5yix5lplusu5b6p5oml5rov77ya6auy5pwi5b6p5y6f5rif56m655u454mh/"><u>電影攝像機陣列修復手法：高效復原清空相片</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/decrypting-secure-dvds-effortlessly-on-your-macbook-discover-the-leading-dvd-protection-removal-tool/"><u>Decrypting Secure DVDs Effortlessly on Your Macbook - Discover the Leading DVD Protection Removal Tool</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/effiziente-methoden-zur-datensicherung-anleitung-fur-falle-in-denen-windows-nicht-startet/"><u>Effiziente Methoden Zur Datensicherung: Anleitung Für Fälle, in Denen Windows Nicht Startet</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/guia-paso-a-paso-trasladar-el-perfil-de-usuario-entre-unidades-en-windows-1011-sin-problemas/"><u>Guía Paso a Paso: Trasladar El Perfil De Usuario Entre Unidades en Windows 10/11 Sin Problemas</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/how-to-find-the-deleted-items-folder-in-microsoft-onedrive/"><u>How to Find the Deleted Items Folder in Microsoft OneDrive</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/hunt-for-bargains-spectacular-deals-on-benq-tech-during-prime-sales-event/"><u>Hunt for Bargains: Spectacular Deals on BenQ Tech During Prime Sales Event</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-a-comprehensible-guide-to-instagrams-latest-updates/"><u>In 2024, A Comprehensible Guide to Instagram's Latest Updates</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-tiktok-teases-amazon-offers-the-ultimate-deals-to-know-now/"><u>In 2024, TikTok Teases, Amazon Offers The Ultimate Deals to Know Now</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-top-rated-split-screen-video-creators-for-mobile-phones/"><u>In 2024, Top-Rated Split Screen Video Creators for Mobile Phones</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/losungsansatz-fur-versehentig-gegangene-datensektoren/"><u>Lösungsansatz Für Versehentig Gegangene Datensektoren</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/neue-methode-zum-transfer-von-gesundheitsdaten-auf-ihr-neues-iphone-entdecken-sie-die-vier-effektivsten-wege/"><u>Neue Methode Zum Transfer Von Gesundheitsdaten Auf Ihr Neues iPhone – Entdecken Sie Die Vier Effektivsten Wege</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/preserve-personal-photography-privacy-with-the-new-ipados-16-picture-lock-functionality/"><u>Preserve Personal Photography Privacy with the New iPadOS 16 Picture Lock Functionality</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/protecting-your-bitcoin-and-altcoins-essential-storage-strategies-from-yl-software-experts/"><u>Protecting Your Bitcoin & Altcoins: Essential Storage Strategies From YL Software Experts</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/simple-steps-to-upgrade-your-pcs-main-ssd-or-hdd-in-windows-10-and-11-safe-and-effective/"><u>Simple Steps to Upgrade Your PC's Main SSD or HDD in Windows 10 and 11: Safe & Effective</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/step-by-step-guide-mastering-dell-secure-erase-on-ssds-with-two-top-methods/"><u>Step-by-Step Guide: Mastering Dell Secure Erase on SSDs with Two Top Methods</u></a></li>
 </ul></div>
 

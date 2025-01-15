@@ -1,7 +1,7 @@
 ---
 title: "MXR19 by American Audio: The Ultimate 20-Channel DJ Mixing Console for On-the-Go Disc Jockeys"
-date: 2025-01-06T08:10:27.459Z
-updated: 2025-01-09T03:50:03.473Z
+date: 2025-01-13T16:59:08.770Z
+updated: 2025-01-14T19:49:18.904Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/ea52c7c75e7b3032041ebf8f7a073a81be8689646
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### PCDJ had two of the earliest [DJ controllers](https://tools.techidaily.com/pcdj/products/) on the market in the DAC-2 and DAC-3 controllers. Both were 19″ rackmount controllers that were simple yet effective in controlling our [DJ software](https://tools.techidaily.com/pcdj/products/).
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/ea52c7c75e7b3032041ebf8f7a073a81be8689646
 DJ controllers have evolved tremendously since then, with every major DJ equipment manufacturer offering a full line of options. The trend lately is to ditch the 19″ rack style controller for table top designs that [![AmericanAudio_19MXR](https://i0.wp.com/www.pcdj.com/wp-content/uploads/2014/07/AmericanAudio_19MXR-300x225.jpg?resize=300%2C225&ssl=1)](https://i0.wp.com/www.pcdj.com/wp-content/uploads/2014/07/AmericanAudio%5F19MXR.jpg?ssl=1)incorporate all the controller and mixer controls in one (_usually less than compact_) device. Large jog wheels are present so DJs that scratch have something similar to vinyl to grab and manipulate, and much of the time they take up significant real estate. For mobile DJs, much of the time that’s a waste of space, especially since many still use 19″ rackmount setups/cases.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 We get calls all the time from DJs looking for a DJ controller that can fit in their already configured 19″ setup, and options have dwindled immensely over the last 5 years. The Denon DN-HC4500 was a great 19″ option, but is now difficult to find. Enter the American Audio MXR19 – a $299 4-channel USB midi controller, mixer and audio card in one; a perfect solution for mobile DJs that need simple DJ controller controls, and a mixer with 3 mic inputs. We’ve already pre-mapped it to DEX 2 (and 3) and RED Mobile 2, so it’s plug and play right out of the box.
@@ -49,7 +49,7 @@ Here’s a full list of features as provided by American Audio:
 [![MXR-19](https://i1.wp.com/www.pcdj.com/wp-content/uploads/2014/07/MXR-19-710x270.jpg?resize=710%2C270&ssl=1)](https://i0.wp.com/www.pcdj.com/wp-content/uploads/2014/07/MXR-19.jpg?ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **American Audio MXR-19 19″ 4-Channel DJ Mixer**
@@ -89,7 +89,7 @@ We liked the fit for our mobile DJ customers so much we’ve just become a deale
 _Have questions about the American Audio MXR19? Feel free to ask questions in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -111,22 +111,21 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2014/07/mxr19coverimage.jpg?fit=53
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-rapid-response-sharing-plays-with-pizzazz/"><u>[Updated] Rapid Response Sharing Plays with Pizzazz</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/aiomei-fone-einfache-transferlosung-von-iphone-zu-iphone-mit-fonebackup/"><u>AIOmei-Fone: Einfache Transferlösung Von iPhone Zu iPhone Mit FoneBackup</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/create-your-own-backup-snapshot-for-windows-11-quick-and-cost-free-methods/"><u>Create Your Own Backup Snapshot for Windows 11 - Quick and Cost-Free Methods</u></a></li>
-<li><a href="https://win-trending.techidaily.com/crypto-transactions-simplified-with-yl-software-solutions-buy-and-sell-securely/"><u>Crypto Transactions Simplified with YL Software Solutions - Buy and Sell Securely!</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/easy-steps-for-transitioning-operating-system-to-ssd-on-windows-11-without-full-installation/"><u>Easy Steps for Transitioning Operating System to SSD on Windows 11 Without Full Installation</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/effiziente-virtuelles-computing-mit-windows-fur-die-transformation-von-physischen-informationen-tipps-und-tricks/"><u>Effiziente Virtuelles Computing Mit Windows Für Die Transformation Von Physischen Informationen: Tipps Und Tricks</u></a></li>
-<li><a href="https://fox-info.techidaily.com/full-assessment-experiencing-the-world-in-360-with-samsung/"><u>Full Assessment Experiencing the World in 360° with Samsung</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>How can I get more stardust in pokemon go On Apple iPhone 8 Plus? | Dr.fone</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/how-to-resolve-greyed-out-sso-management-in-administer-vcenter/"><u>How to Resolve Greyed-Out SSO Management in Administer vCenter</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-kaji-ryan-at-11-amassing-wealth-via-online-videos/"><u>In 2024, Kaji Ryan At 11, Amassing Wealth via Online Videos</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/iniciar-tu-manual-de-botones-del-reloj-digital/"><u>Iniciar Tu Manual De Botones Del Reloj Digital</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/losungen-zur-einstellung-automatischer-loschvorgange-und-wiederherstellung-wichtiger-dll-dateien/"><u>Lösungen Zur Einstellung Automatischer Löschvorgänge Und Wiederherstellung Wichtiger DLL-Dateien</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-ultimate-list-10-best-free-whiteboard-animation-software/"><u>New In 2024, The Ultimate List 10 Best Free Whiteboard Animation Software</u></a></li>
-<li><a href="https://extra-information.techidaily.com/quintessential-14-text-motion-design-examples/"><u>Quintessential 14 Text Motion Design Examples</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/retrouvez-votre-dossier-corbeille-cache-sur-les-systemes-windows-1011-grace-a-nos-astuces-simples/"><u>Retrouvez Votre Dossier Corbeille Caché Sur Les Systèmes Windows 10/11 Grâce À Nos Astuces Simples !</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/verbesserung-der-hdd-leistung-auf-deinem-pc-mit-windows-11-effiziente-tipps-und-tricks/"><u>Verbesserung Der HDD-Leistung Auf Deinem PC Mit Windows 11: Effiziente Tipps Und Tricks</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/what-to-consider-before-you-buy-an-unlocked-smartphone/"><u>What to Consider Before You Buy an Unlocked Smartphone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-cutting-edge-tools-for-unique-youtube-channel-names/"><u>[New] 2024 Approved Cutting-Edge Tools for Unique YouTube Channel Names</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-noticing-lack-of-friend-requests/"><u>[New] In 2024, Noticing Lack of Friend Requests</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/op-8-strategies-for-striking-thumbnails-in-youtube-circles/"><u>[New] Top 8 Strategies for Striking Thumbnails in YouTube Circles</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-the-best-budget-video-players-across-operating-systems/"><u>[Updated] The Best Budget Video Players Across Operating Systems</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/boost-your-dell-xps-13s-speed-by-upgrading-to-a-solid-state-drive-a-comprehensive-guide/"><u>Boost Your Dell XPS 13'S Speed by Upgrading to a Solid State Drive - A Comprehensive Guide!</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/boost-your-pcs-speeds-swiftly-essential-hardware-components-worthy-of-an-upgrade/"><u>Boost Your PC's Speeds Swiftly: Essential Hardware Components Worthy of an Upgrade</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/convert-and-save-files-into-various-formats-on-windows-ultimate-guide-by-techmaster/"><u>Convert and Save Files Into Various Formats on Windows - Ultimate Guide by TechMaster</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/easy-tech-advice-how-to-refresh-windows-with-help-from-yl-software-experts/"><u>Easy Tech Advice: How To Refresh Windows With Help From YL Software Experts</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/effective-solutions-to-diagnose-and-fix-your-computers-hardware-problems-the-expertise-of-yl-computing/"><u>Effective Solutions to Diagnose and Fix Your Computer's Hardware Problems - The Expertise of YL Computing</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-realme-v30t-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Realme V30T to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/identifying-and-resolving-common-windows-network-issues-a-step-by-step-guide-by-yl-computing/"><u>Identifying & Resolving Common Windows Network Issues: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-oneplus-nord-ce-3-5g-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on OnePlus Nord CE 3 5G Device</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/is-my-pcs-sound-card-properly-set-up-discover-how-to-check-with-ease/"><u>Is My PC's Sound Card Properly Set Up? Discover How to Check with Ease!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-energy-efficiency-activating-low-power-mode-on-macos-monterey-a-guide-by-zdnet/"><u>Mastering Energy Efficiency: Activating Low Power Mode on macOS Monterey - A Guide by ZDNet</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/step-by-step-guide-restoring-damaged-windows-os-files-with-yl-computing-solutions/"><u>Step-by-Step Guide: Restoring Damaged Windows OS Files with YL Computing Solutions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-sharing-your-chatgpt-conversations-online/"><u>Step-by-Step Guide: Sharing Your ChatGPT Conversations Online</u></a></li>
 </ul></div>
 

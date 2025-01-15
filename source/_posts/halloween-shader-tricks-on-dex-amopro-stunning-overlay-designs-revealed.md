@@ -1,7 +1,7 @@
 ---
 title: Halloween Shader Tricks on DEX amoPro - Stunning Overlay Designs Revealed!
-date: 2025-01-03T19:48:23.835Z
-updated: 2025-01-09T04:31:23.970Z
+date: 2025-01-07T18:28:02.792Z
+updated: 2025-01-14T18:12:36.927Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ Get creative and build an overlay using an image (or text) and a Halloween video
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here are the steps we used to create the demonstration above:
@@ -39,7 +39,7 @@ Using the combination of Shaders and Overlays allows you to create wicked cool H
 _Have questions about using **Shaders** in our **DEX 3 DJ software**, or how to **overlays**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -61,17 +61,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/10/halloween-cover-image-shad
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-top-10-free-video-tools-cross-platform-os-support/"><u>[New] Top 10 Free Video Tools Cross-Platform OS Support</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/1-ultimate-guide-how-to-perform-imessage-backups-and-restoration-on-your-iphone-or-ipad/"><u>1. Ultimate Guide: How to Perform iMessage Backups and Restoration on Your iPhone or iPad</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/15-pioneering-youtube-tutorials-for-flawless-product-reviews/"><u>15 Pioneering YouTube Tutorials for Flawless Product Reviews</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/explorando-las-reglas-del-respaldo-y-la-copia-en-windows-7-una-guia-completa/"><u>Explorando Las Reglas Del Respaldo Y La Copia en Windows 7: Una Guía Completa</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/explore-enhanced-text-manipulation-in-emeditor-v232-preview-builds-from-231-professional-editor-tool/"><u>Explore Enhanced Text Manipulation in EmEditor v23.2 Preview (Builds From 23.1) – Professional Editor Tool</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-resolve-a-non-responsive-tablet-display-a-guide-with-8-proven-fixes/"><u>How to Resolve a Non-Responsive Tablet Display: A Guide with 8 Proven Fixes</u></a></li>
-<li><a href="https://win-updates.techidaily.com/how-to-stop-your-pc-from-hangingcrashing-expert-advice-by-yl-software/"><u>How To Stop Your PC From Hanging/Crashing: Expert Advice by YL Software</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-troubleshoot-a-non-responsive-chromecast-device/"><u>How to Troubleshoot a Non-Responsive Chromecast Device</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oneplus-12-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock OnePlus 12 Phone without Any Data Loss</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-nokia-c12-pro-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Nokia C12 Pro Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/step-by-step-tutorial-securing-vmware-vcenter-databases-through-effective-backup-strategies-for-postgresql-and-ms-sql-servers/"><u>Step-by-Step Tutorial: Securing VMware vCenter Databases Through Effective Backup Strategies for PostgreSQL and MS SQL Servers</u></a></li>
-<li><a href="https://win-blog.techidaily.com/stop-game-crashes-with-these-confirmed-remedies-for-helldivers-ve-pc/"><u>Stop Game Crashes with These Confirmed Remedies for Helldivers Ve PC</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-foremost-frame-openers-identifying-the-most-effective-16-youtube-intros/"><u>[New] 2024 Approved Foremost Frame Openers Identifying the Most Effective 16 YouTube Intros</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-win11s-leading-video-creators-guide-for-2024/"><u>[Updated] Win11's Leading Video Creators Guide for 2024</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/1-maximizing-your-pcs-storage-capacity-effective-strategies-yl-computing-insights/"><u>1. Maximizing Your PC's Storage Capacity: Effective Strategies - YL Computing Insights</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/boost-pc-speed-effortlessly-with-expertly-curated-toolkit-from-yl-software/"><u>Boost PC Speed Effortlessly with Expertly Curated Toolkit From YL Software</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/exploring-various-folder-options-available-in-your-control-panel-a-guide-by-yl-computing/"><u>Exploring Various Folder Options Available in Your Control Panel: A Guide by YL Computing</u></a></li>
+<li><a href="https://facebook.techidaily.com/harness-metadata-the-top-4-tools-to-propel-your-business/"><u>Harness Metadata: The Top 4 Tools to Propel Your Business</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/high-definition-wallscapes-the-ultimate-marvels-black-panther-series-by-yl-computing/"><u>High Definition Wallscapes: The Ultimate Marvel's Black Panther Series by YL Computing</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-your-itel-p55-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Itel P55 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-vivo-y100i-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Vivo Y100i | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/how-to-talk-like-a-pirate-20-pirate-wordsback-buttonfilter-button/"><u>How To Talk Like A Pirate: 20 Pirate WordsBack ButtonFilter Button</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-m6-pro-4g-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Poco M6 Pro 4G Phone without PIN</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/master-the-recovery-effective-techniques-for-rebuilding-windows-after-a-system-crash-by-yl-software-specialists/"><u>Master the Recovery: Effective Techniques for Rebuilding Windows After a System Crash by YL Software Specialists</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedy-for-opengl-error-code-3-on-windows-and-nvidia-gpus/"><u>Remedy for OpenGL Error Code 3 on Windows & Nvidia GPUs</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/resolving-runtime-brokers-excessive-cpu-and-ram-usage-tips-and-tricks-from-yl-computing/"><u>Resolving Runtime Broker's Excessive CPU and RAM Usage: Tips & Tricks From YL Computing</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/resolving-windows-operating-system-issues-a-step-by-step-guide-from-yl-software/"><u>Resolving Windows Operating System Issues: A Step-by-Step Guide From YL Software</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-dilemma-troubleshooting-a-non-functional-corsair-hs70-microphone/"><u>Solving the Dilemma: Troubleshooting a Non-Functional Corsair HS70 Microphone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/step-beyond-boundaries-with-innovative-wins11-titles-for-2024/"><u>Step Beyond Boundaries with Innovative Wins11 Titles for 2024</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/step-by-step-guide-adjusting-your-printer-configurations-with-yl-software/"><u>Step-by-Step Guide: Adjusting Your Printer Configurations with YL Software</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/unveiling-the-reasons-behind-a-stationary-cpu-fan-insights-from-yl-computing/"><u>Unveiling the Reasons Behind a Stationary CPU Fan: Insights From YL Computing</u></a></li>
 </ul></div>
 
