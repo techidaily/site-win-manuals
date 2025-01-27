@@ -1,7 +1,7 @@
 ---
 title: Halloween Shader Tricks on DEX amoPro - Stunning Overlay Designs Revealed!
-date: 2025-01-16T04:02:12.557Z
-updated: 2025-01-20T17:27:54.050Z
+date: 2025-01-20T04:17:11.102Z
+updated: 2025-01-26T23:12:12.198Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ Get creative and build an overlay using an image (or text) and a Halloween video
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here are the steps we used to create the demonstration above:
@@ -39,7 +39,7 @@ Using the combination of Shaders and Overlays allows you to create wicked cool H
 _Have questions about using **Shaders** in our **DEX 3 DJ software**, or how to **overlays**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -61,22 +61,19 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/10/halloween-cover-image-shad
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-comparing-profits-from-high-ranking-youtube-videos/"><u>[New] 2024 Approved Comparing Profits From High-Ranking YouTube Videos</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/sd-pc/"><u>「SDカードのフォーマット手順 : PC上で行う完全な導き」</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/1-ultimate-guide-how-to-perform-imessage-backups-and-restoration-on-your-iphone-or-ipad/"><u>1. Ultimate Guide: How to Perform iMessage Backups and Restoration on Your iPhone or iPad</u></a></li>
-<li><a href="https://win-answers.techidaily.com/beat-the-bottleneck-overcoming-dying-lights-lag-challenges/"><u>Beat the Bottleneck: Overcoming Dying Light's Lag Challenges</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-t-view-mkv-movies-content-on-sony-xperia-1-v-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Can’t view MKV movies content on Sony Xperia 1 V</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-call-logs-on-vivo-v29e-by-fonelab-android-recover-call-logs/"><u>Complete guide for recovering call logs on Vivo V29e</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/explorando-las-reglas-del-respaldo-y-la-copia-en-windows-7-una-guia-completa/"><u>Explorando Las Reglas Del Respaldo Y La Copia en Windows 7: Una Guía Completa</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/explore-enhanced-text-manipulation-in-emeditor-v232-preview-builds-from-231-professional-editor-tool/"><u>Explore Enhanced Text Manipulation in EmEditor v23.2 Preview (Builds From 23.1) – Professional Editor Tool</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/game-changing-msi-motherboard-debut-with-unmatched-camm2-ram-compatibility-redefining-gaming-pc-experience-with-z7-project-zero-innovation/"><u>Game-Changing MSI Motherboard Debut with Unmatched CAMM2 RAM Compatibility - Redefining Gaming PC Experience with Z7# Project Zero Innovation</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-charting-the-course-of-knowledge-best-history-yt-channels-for-students/"><u>In 2024, Charting the Course of Knowledge Best History YT Channels for Students</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-banish-spotifys-recommended-podcasts/"><u>In 2024, How to Banish Spotify's Recommended Podcasts</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/klare-anweisungen-zur-generierung-und-wiederverwendung-von-systemabbildern-unter-windows-11/"><u>Klare Anweisungen Zur Generierung Und Wiederverwendung Von Systemabbildern Unter Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/maximize-display-performance-configuring-multiple-screens-in-win11/"><u>Maximize Display Performance: Configuring Multiple Screens in Win11</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/sinonimos-y-tacticas-avanzadas-como-superar-los-errores-al-iniciar-windows-11/"><u>Sinónimos Y Tácticas Avanzadas: Cómo Superar Los Errores Al Iniciar Windows 11</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/transfert-rapide-et-facile-entre-pc-et-cle-usb-avec-notre-logiciel-de-synchronisation-pour-windows/"><u>Transfert Rapide Et Facile Entre PC Et Clé USB Avec Notre Logiciel De Synchronisation Pour Windows</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/verlos-je-prullenbak-oplossing-met-deze-windows-1011-kwestie-aanpak-gratis/"><u>Verlos Je Prullenbak Oplossing Met Deze Windows 10/11 Kwestie Aanpak Gratis</u></a></li>
-<li><a href="https://program-issues.techidaily.com/warzone-performance-issue-resolved-enabling-gpu-use-on-windows-10-systems/"><u>Warzone Performance Issue Resolved: Enabling GPU Use on Windows 10 Systems</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-tailored-free-offer-unlock-our-exclusive-youtube-banner-pack/"><u>[New] 2024 Approved Tailored Free Offer - Unlock Our Exclusive YouTube Banner Pack!</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-skype-record-simplified-techniques-for-dual-os-recording/"><u>[New] Skype Record Simplified Techniques for Dual OS Recording</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-comprehensive-handbook-for-recording-calls/"><u>[New] The Comprehensive Handbook for Recording Calls</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-step-by-step-guide-to-protected-youtube-to-mp3-conversions/"><u>[Updated] Step-by-Step Guide to Protected YouTube-to-MP3 Conversions</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-cutting-through-platform-barriers-sharing-tweets-videos-to-snapchat/"><u>2024 Approved Cutting Through Platform Barriers Sharing Tweets' Videos to Snapchat</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/awaken-the-warrior-within-with-these-10-films/"><u>Awaken the Warrior Within with These 10 Films</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/diagnosing-and-mending-malfunctioned-device-drivers-expert-tips-from-yl-software-solutions/"><u>Diagnosing & Mending Malfunctioned Device Drivers: Expert Tips From YL Software Solutions</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/expert-tips-for-fixing-non-reactive-applications-by-yl-software-team/"><u>Expert Tips for Fixing Non-Reactive Applications by YL Software Team</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/how-does-windows-experience-memory-malfunctions-expert-analysis-by-yl-software/"><u>How Does Windows Experience Memory Malfunctions? Expert Analysis by YL Software</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-lenovo-thinkphone-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Lenovo ThinkPhone Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-sign-out-of-apple-id-on-iphone-15-without-password-by-drfone-ios/"><u>In 2024, How to Sign Out of Apple ID On iPhone 15 without Password?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/sifting-the-real-from-the-virtual-confirming-reliability-of-chatgpt-and-ai-generated-health-tips/"><u>Sifting the Real From the Virtual: Confirming Reliability of ChatGPT and AI-Generated Health Tips</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/understanding-your-printers-persistent-setup-issues-insights-from-yl-computing/"><u>Understanding Your Printer's Persistent Setup Issues: Insights From YL Computing</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/updating-your-windows-defender-a-step-by-step-guide-expert-advice-from-yl-computing/"><u>Updating Your Windows Defender: A Step-by-Step Guide - Expert Advice From YL Computing</u></a></li>
 </ul></div>
 
