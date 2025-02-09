@@ -1,7 +1,7 @@
 ---
 title: "Erstellen Sie Eine Sicherung Ihres QNAP NAS Auf Einer Externen Festplatte: Schritt-Für-Schritt-Anleitung"
-date: 2025-01-24T20:08:29.761Z
-updated: 2025-01-26T20:18:35.269Z
+date: 2025-02-07T04:36:13.583Z
+updated: 2025-02-08T16:53:15.642Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/e5055c3da2f210571c617d420a7c156f394da05b547450d519d5355d85d7de7a.jpg
@@ -24,17 +24,9 @@ Scopri passaggi efficaci per risolvere il problema "non riesco a digitare nella 
 
 ![Aira](https://www.ubackup.com/assets/images/author/aira.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Da[Aira](https://tools.techidaily.com/ubackup/products/)L'ultimo Aggiornamento 31.01.2024
 
 Condividi questo: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Sommario** 
 
@@ -77,6 +69,10 @@ Alcune applicazioni di terze parti o conflitti software potrebbero interferire c
 
 Ora, esploriamo cinque soluzioni per affrontare il problema di non poter digitare nulla nella casella di ricerca su Windows 10, garantendo un'esperienza utente fluida.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Soluzione 1: Riavvio dei Servizi Cortana e Ricerca di Windows
 
 Passo 1\. Apri il Task Manager:
@@ -95,6 +91,10 @@ Passo 4\. Prova a Digitare nella Barra di Ricerca:
 
 Prova a digitare nella barra di ricerca dopo aver riavviato i servizi.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Soluzione 2: Esegui il Risolutore dei Problemi di Ricerca e Indicizzazione
 
 Passo 1\. Apri Impostazioni:
@@ -112,10 +112,6 @@ Fai clic su Risoluzioni aggiuntive, fai clic su "Ricerca e Indicizzazione", e pr
 Passo 4\. Segui le Istruzioni Visualizzate:
 
 Segui le istruzioni visualizzate per completare il processo di risoluzione dei problemi e verifica se il problema di non poter digitare nella barra di ricerca di Windows è risolto.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Soluzione 3: Ricostruisci le Opzioni di Indicizzazione
 
@@ -149,10 +145,6 @@ Passo 3\. Installa gli Aggiornamenti:
 
 Se sono disponibili degli aggiornamenti, installali e riavvia il computer per verificare se l'errore di non poter digitare nella barra di ricerca di Windows 10 è stato risolto.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Soluzione 5: Crea un Nuovo Account Utente
 
 Passo 1\. Apri Impostazioni:
@@ -180,7 +172,7 @@ Passo 6\. Testa la Barra di Ricerca:
 Nel nuovo account utente, testa la funzionalità della barra di ricerca. Se funziona, suggerisce che il problema potrebbe essere specifico del tuo account utente originale.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Utilizza AOMEI Backupper per la Protezione del Sistema su Windows 10
@@ -217,6 +209,10 @@ La ricostruzione dell'indice non influisce sui file, ma migliora la funzionalit�
 
 Sì, AOMEI Backupper fornisce una soluzione affidabile per il ripristino del sistema in caso di problemi.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Consigli per un'Operazione Fluida di Windows 10
 
 Aggiorna regolarmente Windows per beneficiare degli ultimi miglioramenti e correzioni.
@@ -224,10 +220,6 @@ Aggiorna regolarmente Windows per beneficiare degli ultimi miglioramenti e corre
 Utilizza strumenti di risoluzione dei problemi come AOMEI Backupper per affrontare prontamente i problemi.
 
 Monitora i servizi di sistema come Cortana e Ricerca di Windows per un funzionamento ottimale.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusione
 
@@ -241,6 +233,10 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 
 ![Aira](https://www.ubackup.com/assets/images/author/aira.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Aira](https://tools.techidaily.com/ubackup/products/) · Editore
 
 Aira è l'editore tecnico di AOMEI, principalmente responsabile di AOMEI Backupper. Le piace aiutare gli utenti con domande su backup e ripristino del computer, clonazione del disco, sincronizzazione e altro ancora. Ha scritto molti articoli su AOMEI Backupper. Nel tempo libero ama fare sport e guardare film. Come un redattore professionale di AOMEI. Aira sarà felice di aiutarti.
@@ -251,6 +247,10 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 
 [Sì](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Scarica Gratis AOMEI Backupper Ora
 
 Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione.
@@ -259,11 +259,11 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Pulito e Sicuro
 
-![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -280,17 +280,21 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-memetic-mastery-the-finest-text-based-jesters/"><u>[New] Memetic Mastery The Finest Text-Based Jesters</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-sow-and-reap-rivalries-farming-games-to-remember-for-2024/"><u>[Updated] Sow & Reap Rivalries Farming Games to Remember for 2024</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/1728488796597-sd/"><u>「失われた情報を取り戻すコツ！東芝SDカードデータ復元プロセスの秘密」</u></a></li>
-<li><a href="https://driver-error.techidaily.com/cddvd-non-detect-in-win11-repair-complete/"><u>CD/DVD Non-Detect in Win11 - Repair Complete</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/clearing-hurdles-for-smooth-ccleaner-use-on-windows-11/"><u>Clearing Hurdles for Smooth CCleaner Use on Windows 11</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/controle-de-la-sauvegarde-restauration-et-duplication-des-donnees-logiciels-a-tester-et-acheter-online/"><u>Contrôle De La Sauvegarde, Restauration Et Duplication Des Données : Logiciels À Tester Et Acheter Online</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/corrective-measures-for-not-found-ac1st16dll-files-on-windows-systems/"><u>Corrective Measures for 'Not Found' ac1st16.dll Files on Windows Systems</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/demarrage-de-votre-pc-lenovo-avec-une-cle-usb-sur-windows-10-guide-complet/"><u>Démarrage De Votre PC Lenovo Avec Une Clé USB Sur Windows 10 - Guide Complet</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/schritt-fur-schritt-guide-zum-erstellen-eines-systemabbilds-von-windows-10-mit-wbadmin/"><u>Schritt-Für-Schritt-Guide Zum Erstellen Eines Systemabbilds Von Windows 10 Mit WBAdmin</u></a></li>
-<li><a href="https://win-forum.techidaily.com/solve-your-app-hangover-effective-methods-for-immediate-program-termination-in-windows-11/"><u>Solve Your App Hangover: Effective Methods for Immediate Program Termination in Windows 11</u></a></li>
-<li><a href="https://discover-great.techidaily.com/stunning-hd-wallpaper-pack-for-bmw-x7-laptopspcs-digital-artwork-collection-curated-by-yl-software-solutions/"><u>Stunning HD Wallpaper Pack for BMW X7 Laptops/PCs: Digital Artwork Collection Curated by YL Software Solutions</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unlocking-your-saved-wifi-passwords-on-windows-10-a-step-by-step-guide/"><u>Unlocking Your Saved Wifi Passwords on Windows 10: A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-the-ultimate-glossary-of-youtube-shorts-terms/"><u>[New] 2024 Approved The Ultimate Glossary of YouTube Shorts Terms</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-capturing-awe-the-power-of-creative-distortion-in-photoshop/"><u>[Updated] Capturing Awe The Power of Creative Distortion in Photoshop</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-transform-your-video-chats-using-zooms-filters/"><u>[Updated] In 2024, Transform Your Video Chats Using Zoom's Filters</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-peak-performers-in-the-world-of-web-videos/"><u>[Updated] Peak Performers in the World of Web Videos</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/3-facons-de-telecharger-des-photos-libres-de-charge-utilisation-dun-appareil-photo-leica/"><u>3 Façons De Télécharger Des Photos Libres De Charge: Utilisation D'Un Appareil Photo Leica</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/ios-windows-11windows-10-windows-8/"><u>查看 iOS 设备的备份文件方法：适用于 Windows 11、Windows 10和 Windows 8</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/does-tecno-pova-6-pro-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Tecno Pova 6 Pro 5G Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/emeditor-pro-8-beta-release-overview-next-generation-text-editor-tools-and-capabilities/"><u>EmEditor Pro 8 Beta Release Overview: Next-Generation Text Editor Tools and Capabilities</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/guide-complete-pour-reinitialiser-votre-gopro-hero-3-etapes-facilement-suivables/"><u>Guide Complète Pour Réinitialiser Votre GoPro Hero 3 - Étapes Facilement Suivables</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oppo-reno-9a-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Oppo Reno 9A to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-text-warping-techniques-in-photos-and-videos/"><u>In 2024, Mastering Text Warping Techniques in Photos & Videos</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-infinix-zero-5g-2023-turbo-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Infinix Zero 5G 2023 Turbo Screen | Dr.fone</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/reparation-dune-cle-usb-rendue-illestre-utilisation-du-cmd-chkdsk-and-diskpart-pour-une-solution-facile/"><u>Réparation D’une Clé USB RENDUE ILLESTRE : Utilisation Du CMD, CHKDSK & Diskpart Pour Une Solution Facile</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/tecnica-exhaustiva-para-copiar-un-ssd-nvme-con-una-sola-placa-de-cache/"><u>Técnica Exhaustiva Para Copiar Un SSD NVMe Con Una Sola Placa De Caché</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-vivo-y100i-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Vivo Y100i Android SIM Unlock APK</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/wie-man-die-datensicherung-auf-der-buffalo-cloud-mithilfe-einer-allmahlichen-anleitung-einrichtet/"><u>Wie Man Die Datensicherung Auf Der Buffalo Cloud Mithilfe Einer Allmählichen Anleitung Einrichtet</u></a></li>
 </ul></div>
 
