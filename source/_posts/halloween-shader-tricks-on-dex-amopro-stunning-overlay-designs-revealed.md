@@ -1,7 +1,7 @@
 ---
 title: Halloween Shader Tricks on DEX amoPro - Stunning Overlay Designs Revealed!
-date: 2025-02-12T04:30:52.741Z
-updated: 2025-02-19T06:55:56.004Z
+date: 2025-03-06T18:45:00.455Z
+updated: 2025-03-07T19:28:10.601Z
 tags:
   - product
 categories:
@@ -22,10 +22,6 @@ Get creative and build an overlay using an image (or text) and a Halloween video
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Here are the steps we used to create the demonstration above:
 
 * First, we added a video loop overlay (the creepy baby dolls) and sized it to be full screen. We adjusted opacity of the video loop down to about 85%.
@@ -37,10 +33,6 @@ Using the combination of Shaders and Overlays allows you to create wicked cool H
 [LEARN MORE ABOUT DEX 3](https://tools.techidaily.com/pcdj/products/)
 
 _Have questions about using **Shaders** in our **DEX 3 DJ software**, or how to **overlays**? Please leave them in the comments section below!_
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -61,21 +53,21 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/10/halloween-cover-image-shad
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-the-definitive-list-of-top-quality-mics-for-yt-styles/"><u>[New] 2024 Approved The Definitive List of Top-Quality Mics for YT Styles</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-a-comprehensive-guide-to-interoperable-playlists/"><u>[New] A Comprehensive Guide to Interoperable Playlists</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-leading-choices-elite-android-call-alerts-for-2024/"><u>[Updated] Leading Choices Elite Android Call Alerts for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unwinding-upside-down-asmr-to-support-zzzs/"><u>2024 Approved Unwinding Upside-Down ASMR to Support Zzz's</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/aiomei-fone-einfache-transferlosung-von-iphone-zu-iphone-mit-fonebackup/"><u>AIOmei-Fone: Einfache Transferlösung Von iPhone Zu iPhone Mit FoneBackup</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/create-your-own-backup-snapshot-for-windows-11-quick-and-cost-free-methods/"><u>Create Your Own Backup Snapshot for Windows 11 - Quick and Cost-Free Methods</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/easy-steps-for-transitioning-operating-system-to-ssd-on-windows-11-without-full-installation/"><u>Easy Steps for Transitioning Operating System to SSD on Windows 11 Without Full Installation</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/effiziente-virtuelles-computing-mit-windows-fur-die-transformation-von-physischen-informationen-tipps-und-tricks/"><u>Effiziente Virtuelles Computing Mit Windows Für Die Transformation Von Physischen Informationen: Tipps Und Tricks</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-change-display-dpi-scaling-in-windows-11/"><u>How to Change Display DPI Scaling in Windows 11</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/how-to-resolve-greyed-out-sso-management-in-administer-vcenter/"><u>How to Resolve Greyed-Out SSO Management in Administer vCenter</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-iphone-12-pro-max-and-ipad-securely-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on iPhone 12 Pro Max and iPad Securely</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-growth-hurdle-cleared-500-subscribers-win/"><u>In 2024, Growth Hurdle Cleared 500 Subscribers Win</u></a></li>
-<li><a href="https://driver-download.techidaily.com/new-release-nvidia-quadro-rtx-8000-driver-update-for-win-1187-systems/"><u>New Release: Nvidia Quadro RTX 8000 Driver Update for Win 11/8/7 Systems</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/retrouvez-votre-dossier-corbeille-cache-sur-les-systemes-windows-1011-grace-a-nos-astuces-simples/"><u>Retrouvez Votre Dossier Corbeille Caché Sur Les Systèmes Windows 10/11 Grâce À Nos Astuces Simples !</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/skepticism-on-zerogptsupersense-ai-detectors/"><u>Skepticism on ZeroGPT’supersense' AI Detectors</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/verbesserung-der-hdd-leistung-auf-deinem-pc-mit-windows-11-effiziente-tipps-und-tricks/"><u>Verbesserung Der HDD-Leistung Auf Deinem PC Mit Windows 11: Effiziente Tipps Und Tricks</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-fine-tuning-color-balance-in-obs/"><u>[New] 2024 Approved Fine-Tuning Color Balance in OBS</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-flawless-fast-windows-picture-sight/"><u>[Updated] Flawless Fast Windows Picture Sight</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/aria-headphones-review-pioneering-sound-quality/"><u>Aria Headphones Review: Pioneering Sound Quality</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/comment-desactiver-avec-succes-windows-defender-dans-windows-11-une-approche-facile-en-trois-etapes/"><u>Comment Désactiver Avec Succès Windows Defender Dans Windows 11: Une Approche Facile en Trois Étapes</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/comment-utiliser-wbadmin-pour-rendre-des-snapshots-du-systeme-dans-les-serveurs-windows/"><u>Comment Utiliser WBAdmin Pour Rendre Des Snapshots Du Système Dans Les Serveurs Windows</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/content-missing-alert-youve-hit-a-404-error/"><u>Content Missing Alert: You've Hit a 404 Error</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/download-the-most-recent-update-to-imovie-for-windows-users-explore-improvements-in-imovie-video-editor-2024/"><u>Download The Most Recent Update to iMovie for Windows Users - Explore Improvements in iMovie Video Editor 2024</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/effizientes-archivieren-von-nachrichtenfotoinhalten-fur-eine-bessere-informationsbewahrung/"><u>Effizientes Archivieren Von Nachrichtenfotoinhalten Für Eine Bessere Informationsbewahrung</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>How to Stop Google Chrome from Tracking Your Location On Apple iPhone 12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/iconic-imagery-stories-a-peek-inside/"><u>Iconic Imagery Stories A Peek Inside</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-curating-best-audio-relaxation-tools-asmr/"><u>In 2024, Curating Best Audio Relaxation Tools (ASMR)</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-xiaomi-civi-3-disney-100th-anniversary-edition-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Xiaomi Civi 3 Disney 100th Anniversary Edition Phone?</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/quick-fixes-for-gopro-sd-card-failures-effortless-file-retrieval/"><u>Quick Fixes for GoPro SD Card Failures: Effortless File Retrieval</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/resolving-the-issue-of-not-being-able-to-access-the-programdata-folder-in-windows-versions-10-and-11/"><u>Resolving the Issue of Not Being Able to Access the 'ProgramData' Folder in Windows Versions 10 and 11</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/simple-guide-mastering-the-art-of-seamless-xcopy-mirror-synchronization/"><u>Simple Guide: Mastering the Art of Seamless Xcopy Mirror Synchronization</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-resolving-windows-righ-click-not-responding-on-your-mouse/"><u>Step-by-Step Guide: Resolving Windows ˈrigh Click Not Responding on Your Mouse</u></a></li>
 </ul></div>
 

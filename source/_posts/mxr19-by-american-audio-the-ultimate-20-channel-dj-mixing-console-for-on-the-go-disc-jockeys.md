@@ -1,7 +1,7 @@
 ---
 title: "MXR19 by American Audio: The Ultimate 20-Channel DJ Mixing Console for On-the-Go Disc Jockeys"
-date: 2025-02-15T01:25:59.261Z
-updated: 2025-02-18T17:41:31.364Z
+date: 2025-02-28T19:03:35.474Z
+updated: 2025-03-07T16:44:59.429Z
 tags:
   - product
 categories:
@@ -18,17 +18,9 @@ thumbnail: https://thmb.techidaily.com/ea52c7c75e7b3032041ebf8f7a073a81be8689646
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### PCDJ had two of the earliest [DJ controllers](https://tools.techidaily.com/pcdj/products/) on the market in the DAC-2 and DAC-3 controllers. Both were 19″ rackmount controllers that were simple yet effective in controlling our [DJ software](https://tools.techidaily.com/pcdj/products/).
 
 DJ controllers have evolved tremendously since then, with every major DJ equipment manufacturer offering a full line of options. The trend lately is to ditch the 19″ rack style controller for table top designs that [![AmericanAudio_19MXR](https://i0.wp.com/www.pcdj.com/wp-content/uploads/2014/07/AmericanAudio_19MXR-300x225.jpg?resize=300%2C225&ssl=1)](https://i0.wp.com/www.pcdj.com/wp-content/uploads/2014/07/AmericanAudio%5F19MXR.jpg?ssl=1)incorporate all the controller and mixer controls in one (_usually less than compact_) device. Large jog wheels are present so DJs that scratch have something similar to vinyl to grab and manipulate, and much of the time they take up significant real estate. For mobile DJs, much of the time that’s a waste of space, especially since many still use 19″ rackmount setups/cases.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 We get calls all the time from DJs looking for a DJ controller that can fit in their already configured 19″ setup, and options have dwindled immensely over the last 5 years. The Denon DN-HC4500 was a great 19″ option, but is now difficult to find. Enter the American Audio MXR19 – a $299 4-channel USB midi controller, mixer and audio card in one; a perfect solution for mobile DJs that need simple DJ controller controls, and a mixer with 3 mic inputs. We’ve already pre-mapped it to DEX 2 (and 3) and RED Mobile 2, so it’s plug and play right out of the box.
 
@@ -47,10 +39,6 @@ Basically, all the required DJ controller features a Mobile DJ would need to per
 Here’s a full list of features as provided by American Audio:
 
 [![MXR-19](https://i1.wp.com/www.pcdj.com/wp-content/uploads/2014/07/MXR-19-710x270.jpg?resize=710%2C270&ssl=1)](https://i0.wp.com/www.pcdj.com/wp-content/uploads/2014/07/MXR-19.jpg?ssl=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **American Audio MXR-19 19″ 4-Channel DJ Mixer**
 
@@ -88,10 +76,6 @@ We liked the fit for our mobile DJ customers so much we’ve just become a deale
 
 _Have questions about the American Audio MXR19? Feel free to ask questions in the comments section below!_
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### _Related_
 
 https://i2.wp.com/pcdj.com/wp-content/uploads/2014/07/mxr19coverimage.jpg?fit=530%2C298&ssl=1 298 530 Ryan Sherr https://www.pcdj.com/wp-content/uploads/2021/07/pcdj-main-logo-2.png Ryan Sherr2014-07-11 11:23:442018-04-26 11:54:32American Audio MXR19: A 19″ Rackmount DJ Controller With Mixer For Mobile DJs}
@@ -111,17 +95,20 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2014/07/mxr19coverimage.jpg?fit=53
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-innovative-10-solutions-for-seamless-video-background-swapping/"><u>[New] 2024 Approved Innovative 10 Solutions for Seamless Video Background Swapping</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-masterful-phone-apps-altering-speech-patterns/"><u>[New] In 2024, Masterful Phone Apps Altering Speech Patterns</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-essential-steps-to-record-your-hp-laptop-screen-efficiently/"><u>[Updated] 2024 Approved Essential Steps to Record Your HP Laptop Screen Efficiently</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-make-every-interaction-count-how-to-add-and-share-gifs-on-snapchat/"><u>[Updated] Make Every Interaction Count How to Add and Share GIFs on Snapchat</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/1-how-to-install-and-run-windows-defender-on-your-mac-a-step-by-step-guide-by-yl-computing/"><u>1. How to Install and Run Windows Defender on Your Mac - A Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-enhance-engagement-top-12-tactics-for-youtube-success/"><u>2024 Approved Enhance Engagement Top 12 Tactics for YouTube Success</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/construct-a-homemade-google-vr-helmet-for-cost-effective-fun/"><u>Construct a Homemade Google VR Helmet for Cost-Effective Fun</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/decrease-environmental-noise-in-video-recordings-for-2024/"><u>Decrease Environmental Noise in Video Recordings for 2024</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/enhancing-pc-speed-expert-recommendations-by-yl-computing-for-optimal-efficiency/"><u>Enhancing PC Speed: Expert Recommendations by YL Computing for Optimal Efficiency</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/enhancing-your-cryptocurrency-experience-with-secure-digital-wallets-guided-by-yl-technology/"><u>Enhancing Your Cryptocurrency Experience with Secure Digital Wallets - Guided by YL Technology</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/step-by-step-guide-linking-your-printer-with-a-windows-pc-tech-tips-by-yl-software/"><u>Step-by-Step Guide: Linking Your Printer with a Windows PC - Tech Tips by YL Software</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-restore-sound-on-your-bose-g435-noise-canceling-headphones/"><u>Troubleshoot and Restore Sound on Your Bose G435 Noise-Canceling Headphones</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-notch-visual-chronology-creator/"><u>[New] Top-Notch Visual Chronology Creator</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-itel-p55plus-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Itel P55+</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/como-localizar-e-recuperar-arquivos-apagados-no-windows-11-guia-detalhado/"><u>Como Localizar E Recuperar Arquivos Apagados No Windows 11 - Guia Detalhado</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/comprehensive-bitlocker-encryption-transfer-strategy-how-to-safely-migrate-data-from-hdd-to-ssd/"><u>Comprehensive BitLocker Encryption Transfer Strategy: How to Safely Migrate Data From HDD to SSD</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/dell-emc-avance-backup-solution-boosting-security-and-reliability-through-innovation/"><u>Dell EMC Avance Backup Solution: Boosting Security & Reliability Through Innovation</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-htc-u23-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass HTC U23 FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixes-for-metro-exodus-game-crash-issues-on-windows/"><u>Fixes for Metro Exodus Game Crash Issues on Windows</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/fussballfrei-und-einfach-professionelle-software-zum-kopieren-von-datentragern-unter-windows-10/"><u>Fussballfrei Und Einfach: Professionelle Software Zum Kopieren Von Datenträgern Unter Windows 10</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/gueriz-vous-du-chaos-un-tutoriel-etape-par-etape-pour-recuperer-votre-documents-pdf-disparus-sur-windows/"><u>Guériz-Vous Du Chaos: Un Tutoriel Étape Par Étape Pour Récupérer Votre Documents PDF Disparus Sur Windows</u></a></li>
+<li><a href="https://change-location.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Nokia XR21? | Dr.fone</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/not-found-alert-the-link-is-broken-and-missing-content/"><u>Not Found Alert: The Link Is Broken and Missing Content</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/schnelles-handbuch-zur-umplatzierung-von-windows-1011-auf-eine-neue-ssd-oder-hdd/"><u>Schnelles Handbuch Zur Umplatzierung Von Windows 10/11 Auf Eine Neue SSD Oder HDD</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/verify-active-status-of-windows-defender-a-step-by-step-guide-tips-from-yl-computing/"><u>Verify Active Status of Windows Defender: A Step-by-Step Guide - Tips From YL Computing</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/worry-free-steps-eradicating-the-imitation-windows-11-upgrade-threat/"><u>Worry-Free Steps: Eradicating the Imitation Windows 11 Upgrade Threat</u></a></li>
 </ul></div>
 
